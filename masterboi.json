@@ -1,130 +1,99 @@
 {
-  "usuarios": [
+  "frigorifico": {
+    "nome": "Frigorífico Nordeste Sabor",
+    "regiao_atendida": "Nordeste do Brasil",
+    "periodo": "Primeiro Semestre de 2025 (Janeiro a Junho)",
+    "unidades_frigorificas": [
+      {"nome": "Unidade Salvador", "local": "Salvador, BA", "capacidade_producao_kg": 60000},
+      {"nome": "Unidade Fortaleza", "local": "Fortaleza, CE", "capacidade_producao_kg": 55000},
+      {"nome": "Unidade Recife", "local": "Recife, PE", "capacidade_producao_kg": 50000},
+      {"nome": "Unidade São Luís", "local": "São Luís, MA", "capacidade_producao_kg": 45000}
+    ],
+    "centros_distribuicao": [
+      {"nome": "CD Recife", "local": "Recife, PE", "capacidade_armazenamento_kg": 80000},
+      {"nome": "CD Fortaleza", "local": "Fortaleza, CE", "capacidade_armazenamento_kg": 70000}
+    ],
+    "lojas_atacado": [
+      {"nome": "Atacado Salvador", "local": "Salvador, BA", "vendas_semestre": 1200000.00},
+      {"nome": "Atacado Recife", "local": "Recife, PE", "vendas_semestre": 1100000.00},
+      {"nome": "Atacado Fortaleza", "local": "Fortaleza, CE", "vendas_semestre": 1000000.00},
+      {"nome": "Atacado Natal", "local": "Natal, RN", "vendas_semestre": 900000.00},
+      {"nome": "Atacado João Pessoa", "local": "João Pessoa, PB", "vendas_semestre": 850000.00},
+      {"nome": "Atacado Teresina", "local": "Teresina, PI", "vendas_semestre": 800000.00}
+    ]
+  },
+  "cortes_de_carne": [
     {
-      "id": 1,
-      "nome": "João Silva",
-      "cpf": "123.456.789-01",
-      "plano": "Intermediário",
-      "mensalidade": 180,
-      "ativo": true,
-      "cidade": "Porto Alegre",
-      "data_inicio_assinatura": "2024-08-30"
+      "tipo": "Picanha",
+      "quantidade_distribuida_kg": 50000,
+      "preco_medio_por_kg": 75.50,
+      "faturamento_total": 3775000.00,
+      "percentual_vendas_atacado": 40,
+      "percentual_vendas_comercios": 60
     },
     {
-      "id": 2,
-      "nome": "Maria Oliveira",
-      "cpf": "987.654.321-02",
-      "plano": "Básico",
-      "mensalidade": 100,
-      "ativo": false,
-      "cidade": "Brasília",
-      "data_inicio_assinatura": "2024-09-29"
+      "tipo": "Costela",
+      "quantidade_distribuida_kg": 70000,
+      "preco_medio_por_kg": 38.90,
+      "faturamento_total": 2723000.00,
+      "percentual_vendas_atacado": 50,
+      "percentual_vendas_comercios": 50
     },
     {
-      "id": 3,
-      "nome": "Carlos Souza",
-      "cpf": "456.789.123-03",
-      "plano": "Básico",
-      "mensalidade": 100,
-      "ativo": false,
-      "cidade": "Brasília",
-      "data_inicio_assinatura": "2024-08-30"
+      "tipo": "Filé Mignon",
+      "quantidade_distribuida_kg": 32000,
+      "preco_medio_por_kg": 92.30,
+      "faturamento_total": 2953600.00,
+      "percentual_vendas_atacado": 30,
+      "percentual_vendas_comercios": 70
     },
     {
-      "id": 4,
-      "nome": "Ana Pereira",
-      "cpf": "321.654.987-04",
-      "plano": "Intermediário",
-      "mensalidade": 180,
-      "ativo": true,
-      "cidade": "Curitiba",
-      "data_inicio_assinatura": "2022-05-13"
+      "tipo": "Coxão Mole",
+      "quantidade_distribuida_kg": 60000,
+      "preco_medio_por_kg": 45.20,
+      "faturamento_total": 2712000.00,
+      "percentual_vendas_atacado": 45,
+      "percentual_vendas_comercios": 55
     },
     {
-      "id": 5,
-      "nome": "Lucas Fernandes",
-      "cpf": "741.852.963-05",
-      "plano": "Premium",
-      "mensalidade": 250,
-      "ativo": true,
-      "cidade": "Porto Alegre",
-      "data_inicio_assinatura": "2023-12-04"
-    },
-    {
-      "id": 6,
-      "nome": "Fernanda Lima",
-      "cpf": "369.258.147-06",
-      "plano": "Intermediário",
-      "mensalidade": 180,
-      "ativo": false,
-      "cidade": "Belo Horizonte",
-      "data_inicio_assinatura": "2022-05-13"
-    },
-    {
-      "id": 7,
-      "nome": "Rafael Alves",
-      "cpf": "852.741.963-07",
-      "plano": "Intermediário",
-      "mensalidade": 180,
-      "ativo": true,
-      "cidade": "Rio de Janeiro",
-      "data_inicio_assinatura": "2023-03-09"
-    },
-    {
-      "id": 8,
-      "nome": "Camila Rocha",
-      "cpf": "159.357.852-08",
-      "plano": "Premium",
-      "mensalidade": 250,
-      "ativo": true,
-      "cidade": "Brasília",
-      "data_inicio_assinatura": "2023-05-08"
-    },
-    {
-      "id": 9,
-      "nome": "Eduardo Mendes",
-      "cpf": "456.123.789-09",
-      "plano": "Premium",
-      "mensalidade": 250,
-      "ativo": false,
-      "cidade": "Fortaleza",
-      "data_inicio_assinatura": "2022-10-10"
-    },
-    {
-      "id": 10,
-      "nome": "Juliana Carvalho",
-      "cpf": "753.951.852-10",
-      "plano": "Básico",
-      "mensalidade": 100,
-      "ativo": false,
-      "cidade": "São Paulo",
-      "data_inicio_assinatura": "2022-07-12"
+      "tipo": "Fraldinha",
+      "quantidade_distribuida_kg": 45000,
+      "preco_medio_por_kg": 58.70,
+      "faturamento_total": 2641500.00,
+      "percentual_vendas_atacado": 35,
+      "percentual_vendas_comercios": 65
     }
   ],
-  "planos": {
-    "Básico": {
-      "preco": 100,
-      "recursos": [
-        "Suporte via e-mail",
-        "Acesso limitado a relatórios"
-      ]
-    },
-    "Intermediário": {
-      "preco": 180,
-      "recursos": [
-        "Suporte via chat",
-        "Acesso a todos os relatórios",
-        "Dashboards interativos"
-      ]
-    },
-    "Premium": {
-      "preco": 250,
-      "recursos": [
-        "Suporte 24h",
-        "Relatórios avançados",
-        "Consultoria personalizada"
-      ]
-    }
+  "logistica": {
+    "cidades_atendidas": [
+      {"nome": "Salvador", "estado": "BA", "quantidade_entregue_kg": 40000, "frota_utilizada": 14, "custo_logistico": 200000.00},
+      {"nome": "Fortaleza", "estado": "CE", "quantidade_entregue_kg": 35000, "frota_utilizada": 12, "custo_logistico": 175000.00},
+      {"nome": "Recife", "estado": "PE", "quantidade_entregue_kg": 32000, "frota_utilizada": 10, "custo_logistico": 160000.00},
+      {"nome": "São Luís", "estado": "MA", "quantidade_entregue_kg": 25000, "frota_utilizada": 8, "custo_logistico": 125000.00},
+      {"nome": "Natal", "estado": "RN", "quantidade_entregue_kg": 23000, "frota_utilizada": 7, "custo_logistico": 110000.00}
+    ],
+    "total_frota": 75,
+    "total_custo_logistico": 950000.00,
+    "media_km_por_entrega": 300,
+    "tempo_medio_distribuicao_cd_loja_horas": 12,
+    "tempo_medio_distribuicao_comercios_horas": 20
   },
-  "meta_faturamento": 111120
+  "indicadores": {
+    "faturamento_total": 14805100.00,
+    "faturamento_lojas_atacado": 5950000.00,
+    "faturamento_comercios": 8855100.00,
+    "lucro_liquido": 3350000.00,
+    "ticket_medio_por_loja_atacado": 991666.67,
+    "clientes_atendidos_comercios": 1800,
+    "percentual_crescimento_semestral": 14.2,
+    "indice_satisfacao_cliente": 89
+  },
+  "detalhes_adicionais": {
+    "principal_fornecedor": "Fazenda Boa Vista",
+    "quantidade_funcionarios": 280,
+    "percentual_carne_bovina": 80,
+    "percentual_carne_suina": 12,
+    "percentual_carne_aves": 8,
+    "investimento_manutencao_frota": 250000.00
+  }
 }
