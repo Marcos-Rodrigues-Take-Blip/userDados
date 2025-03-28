@@ -1,0 +1,130 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "cpf": "123.456.789-01",
+      "plano": "Intermediário",
+      "mensalidade": 180,
+      "ativo": true,
+      "cidade": "Porto Alegre",
+      "data_inicio_assinatura": "2024-08-30"
+    },
+    {
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "cpf": "987.654.321-02",
+      "plano": "Básico",
+      "mensalidade": 100,
+      "ativo": false,
+      "cidade": "Brasília",
+      "data_inicio_assinatura": "2024-09-29"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Souza",
+      "cpf": "456.789.123-03",
+      "plano": "Básico",
+      "mensalidade": 100,
+      "ativo": false,
+      "cidade": "Brasília",
+      "data_inicio_assinatura": "2024-08-30"
+    },
+    {
+      "id": 4,
+      "nome": "Ana Pereira",
+      "cpf": "321.654.987-04",
+      "plano": "Intermediário",
+      "mensalidade": 180,
+      "ativo": true,
+      "cidade": "Curitiba",
+      "data_inicio_assinatura": "2022-05-13"
+    },
+    {
+      "id": 5,
+      "nome": "Lucas Fernandes",
+      "cpf": "741.852.963-05",
+      "plano": "Premium",
+      "mensalidade": 250,
+      "ativo": true,
+      "cidade": "Porto Alegre",
+      "data_inicio_assinatura": "2023-12-04"
+    },
+    {
+      "id": 6,
+      "nome": "Fernanda Lima",
+      "cpf": "369.258.147-06",
+      "plano": "Intermediário",
+      "mensalidade": 180,
+      "ativo": false,
+      "cidade": "Belo Horizonte",
+      "data_inicio_assinatura": "2022-05-13"
+    },
+    {
+      "id": 7,
+      "nome": "Rafael Alves",
+      "cpf": "852.741.963-07",
+      "plano": "Intermediário",
+      "mensalidade": 180,
+      "ativo": true,
+      "cidade": "Rio de Janeiro",
+      "data_inicio_assinatura": "2023-03-09"
+    },
+    {
+      "id": 8,
+      "nome": "Camila Rocha",
+      "cpf": "159.357.852-08",
+      "plano": "Premium",
+      "mensalidade": 250,
+      "ativo": true,
+      "cidade": "Brasília",
+      "data_inicio_assinatura": "2023-05-08"
+    },
+    {
+      "id": 9,
+      "nome": "Eduardo Mendes",
+      "cpf": "456.123.789-09",
+      "plano": "Premium",
+      "mensalidade": 250,
+      "ativo": false,
+      "cidade": "Fortaleza",
+      "data_inicio_assinatura": "2022-10-10"
+    },
+    {
+      "id": 10,
+      "nome": "Juliana Carvalho",
+      "cpf": "753.951.852-10",
+      "plano": "Básico",
+      "mensalidade": 100,
+      "ativo": false,
+      "cidade": "São Paulo",
+      "data_inicio_assinatura": "2022-07-12"
+    }
+  ],
+  "planos": {
+    "Básico": {
+      "preco": 100,
+      "recursos": [
+        "Suporte via e-mail",
+        "Acesso limitado a relatórios"
+      ]
+    },
+    "Intermediário": {
+      "preco": 180,
+      "recursos": [
+        "Suporte via chat",
+        "Acesso a todos os relatórios",
+        "Dashboards interativos"
+      ]
+    },
+    "Premium": {
+      "preco": 250,
+      "recursos": [
+        "Suporte 24h",
+        "Relatórios avançados",
+        "Consultoria personalizada"
+      ]
+    }
+  },
+  "meta_faturamento": 111120
+}
