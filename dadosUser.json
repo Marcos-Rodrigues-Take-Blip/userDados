@@ -1,0 +1,137 @@
+[
+    {
+      "cpf": "123.456.789-09",
+      "nome": "Marcos Rodrigues",
+      "telefone": "(11) 91234-5678",
+      "email": "marcos.rodrigues@email.com",
+      "endereco": {
+        "rua": "Av. Paulista",
+        "numero": 1000,
+        "bairro": "Bela Vista",
+        "cidade": "São Paulo",
+        "estado": "SP",
+        "cep": "01310-100"
+      },
+      "plano": {
+        "nome": "Plano Econômico",
+        "velocidade": "Até 1 GIGA",
+        "equipamento": "Roteador Inteligente Wi-Fi",
+        "beneficios": [
+          "GigaTV (1 tela)",
+          "Giga Clube",
+          "1 GigaLink Cloud (10GB)",
+          "Skeelo"
+        ],
+        "preco": "R$ 89,99/mês",
+        "adesao": "Grátis"
+      }
+    },
+    {
+      "cpf": "987.654.321-00",
+      "nome": "Ana Souza",
+      "telefone": "(21) 99876-5432",
+      "email": "ana.souza@email.com",
+      "endereco": {
+        "rua": "Rua das Flores",
+        "numero": 250,
+        "bairro": "Centro",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "cep": "20040-020"
+      },
+      "plano": {
+        "nome": "Plano Essencial",
+        "velocidade": "Até 1 GIGA",
+        "equipamento": "2 Roteadores Inteligentes Wi-Fi Mesh",
+        "beneficios": [
+          "GigaTV (2 telas)",
+          "Giga Clube",
+          "1 GigaLink Cloud (15GB)",
+          "Skeelo"
+        ],
+        "preco": "R$ 99,99/mês",
+        "adesao": "Grátis"
+      }
+    },
+    {
+      "cpf": "852.963.741-22",
+      "nome": "Carlos Lima",
+      "telefone": "(31) 93456-7890",
+      "email": "carlos.lima@email.com",
+      "endereco": {
+        "rua": "Av. Afonso Pena",
+        "numero": 500,
+        "bairro": "Savassi",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "cep": "30130-000"
+      },
+      "plano": {
+        "nome": "Plano Família",
+        "velocidade": "Até 1 GIGA",
+        "equipamento": "2 Roteadores Inteligentes Wi-Fi Mesh",
+        "beneficios": [
+          "GigaTV (4 telas)",
+          "Giga Clube",
+          "2 GigaLink Cloud (15GB)",
+          "Skeelo"
+        ],
+        "preco": "R$ 129,99/mês",
+        "adesao": "Grátis"
+      }
+    },
+    {
+      "cpf": "369.258.147-33",
+      "nome": "Juliana Mendes",
+      "telefone": "(41) 97654-3210",
+      "email": "juliana.mendes@email.com",
+      "endereco": {
+        "rua": "Rua XV de Novembro",
+        "numero": 180,
+        "bairro": "Centro",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "cep": "80020-310"
+      },
+      "plano": {
+        "nome": "Plano Play + TV Box",
+        "velocidade": "Até 1 GIGA",
+        "equipamento": "Roteador Inteligente Wi-Fi + TV Box",
+        "beneficios": [
+          "GigaTV (1 tela)",
+          "Giga Clube",
+          "1 GigaLink Cloud (10GB)",
+          "Skeelo"
+        ],
+        "preco": "R$ 129,99/mês",
+        "adesao": "Grátis"
+      }
+    },
+    {
+      "cpf": "741.852.963-44",
+      "nome": "Fernando Oliveira",
+      "telefone": "(51) 92345-6789",
+      "email": "fernando.oliveira@email.com",
+      "endereco": {
+        "rua": "Av. Ipiranga",
+        "numero": 3000,
+        "bairro": "Cidade Baixa",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "cep": "90010-002"
+      },
+      "plano": {
+        "nome": "Plano Família",
+        "velocidade": "Até 1 GIGA",
+        "equipamento": "2 Roteadores Inteligentes Wi-Fi Mesh",
+        "beneficios": [
+          "GigaTV (4 telas)",
+          "Giga Clube",
+          "2 GigaLink Cloud (15GB)",
+          "Skeelo"
+        ],
+        "preco": "R$ 129,99/mês",
+        "adesao": "Grátis"
+      }
+    }
+  ]
