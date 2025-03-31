@@ -4,22 +4,14 @@
     "regiao_atendida": "Nordeste do Brasil",
     "periodo": "Primeiro Semestre de 2025 (Janeiro a Junho)",
     "unidades_frigorificas": [
-      {"nome": "Unidade Salvador", "local": "Salvador, BA", "capacidade_producao_kg": 60000},
-      {"nome": "Unidade Fortaleza", "local": "Fortaleza, CE", "capacidade_producao_kg": 55000},
-      {"nome": "Unidade Recife", "local": "Recife, PE", "capacidade_producao_kg": 50000},
-      {"nome": "Unidade São Luís", "local": "São Luís, MA", "capacidade_producao_kg": 45000}
+      {"nome": "Unidade Salvador", "local": "Salvador, BA", "capacidade_producao_kg": 60000, "custo_operacional_mensal": 150000.00, "funcionarios": 70},
+      {"nome": "Unidade Fortaleza", "local": "Fortaleza, CE", "capacidade_producao_kg": 55000, "custo_operacional_mensal": 140000.00, "funcionarios": 65},
+      {"nome": "Unidade Recife", "local": "Recife, PE", "capacidade_producao_kg": 50000, "custo_operacional_mensal": 130000.00, "funcionarios": 60},
+      {"nome": "Unidade São Luís", "local": "São Luís, MA", "capacidade_producao_kg": 45000, "custo_operacional_mensal": 120000.00, "funcionarios": 55}
     ],
     "centros_distribuicao": [
-      {"nome": "CD Recife", "local": "Recife, PE", "capacidade_armazenamento_kg": 80000},
-      {"nome": "CD Fortaleza", "local": "Fortaleza, CE", "capacidade_armazenamento_kg": 70000}
-    ],
-    "lojas_atacado": [
-      {"nome": "Atacado Salvador", "local": "Salvador, BA", "vendas_semestre": 1200000.00},
-      {"nome": "Atacado Recife", "local": "Recife, PE", "vendas_semestre": 1100000.00},
-      {"nome": "Atacado Fortaleza", "local": "Fortaleza, CE", "vendas_semestre": 1000000.00},
-      {"nome": "Atacado Natal", "local": "Natal, RN", "vendas_semestre": 900000.00},
-      {"nome": "Atacado João Pessoa", "local": "João Pessoa, PB", "vendas_semestre": 850000.00},
-      {"nome": "Atacado Teresina", "local": "Teresina, PI", "vendas_semestre": 800000.00}
+      {"nome": "CD Recife", "local": "Recife, PE", "capacidade_armazenamento_kg": 80000, "custo_manutencao_mensal": 80000.00, "taxa_ocupacao_percentual": 85},
+      {"nome": "CD Fortaleza", "local": "Fortaleza, CE", "capacidade_armazenamento_kg": 70000, "custo_manutencao_mensal": 75000.00, "taxa_ocupacao_percentual": 90}
     ]
   },
   "cortes_de_carne": [
@@ -29,7 +21,9 @@
       "preco_medio_por_kg": 75.50,
       "faturamento_total": 3775000.00,
       "percentual_vendas_atacado": 40,
-      "percentual_vendas_comercios": 60
+      "percentual_vendas_comercios": 60,
+      "custo_producao_por_kg": 50.00,
+      "tempo_medio_processamento_horas": 8
     },
     {
       "tipo": "Costela",
@@ -37,7 +31,9 @@
       "preco_medio_por_kg": 38.90,
       "faturamento_total": 2723000.00,
       "percentual_vendas_atacado": 50,
-      "percentual_vendas_comercios": 50
+      "percentual_vendas_comercios": 50,
+      "custo_producao_por_kg": 25.00,
+      "tempo_medio_processamento_horas": 6
     },
     {
       "tipo": "Filé Mignon",
@@ -45,7 +41,9 @@
       "preco_medio_por_kg": 92.30,
       "faturamento_total": 2953600.00,
       "percentual_vendas_atacado": 30,
-      "percentual_vendas_comercios": 70
+      "percentual_vendas_comercios": 70,
+      "custo_producao_por_kg": 65.00,
+      "tempo_medio_processamento_horas": 10
     },
     {
       "tipo": "Coxão Mole",
@@ -53,7 +51,9 @@
       "preco_medio_por_kg": 45.20,
       "faturamento_total": 2712000.00,
       "percentual_vendas_atacado": 45,
-      "percentual_vendas_comercios": 55
+      "percentual_vendas_comercios": 55,
+      "custo_producao_por_kg": 30.00,
+      "tempo_medio_processamento_horas": 7
     },
     {
       "tipo": "Fraldinha",
@@ -61,32 +61,26 @@
       "preco_medio_por_kg": 58.70,
       "faturamento_total": 2641500.00,
       "percentual_vendas_atacado": 35,
-      "percentual_vendas_comercios": 65
+      "percentual_vendas_comercios": 65,
+      "custo_producao_por_kg": 40.00,
+      "tempo_medio_processamento_horas": 9
     }
   ],
   "logistica": {
     "cidades_atendidas": [
-      {"nome": "Salvador", "estado": "BA", "quantidade_entregue_kg": 40000, "frota_utilizada": 14, "custo_logistico": 200000.00},
-      {"nome": "Fortaleza", "estado": "CE", "quantidade_entregue_kg": 35000, "frota_utilizada": 12, "custo_logistico": 175000.00},
-      {"nome": "Recife", "estado": "PE", "quantidade_entregue_kg": 32000, "frota_utilizada": 10, "custo_logistico": 160000.00},
-      {"nome": "São Luís", "estado": "MA", "quantidade_entregue_kg": 25000, "frota_utilizada": 8, "custo_logistico": 125000.00},
-      {"nome": "Natal", "estado": "RN", "quantidade_entregue_kg": 23000, "frota_utilizada": 7, "custo_logistico": 110000.00}
+      {"nome": "Salvador", "estado": "BA", "quantidade_entregue_kg": 40000, "frota_utilizada": 14, "custo_logistico": 200000.00, "tempo_medio_entrega_horas": 15},
+      {"nome": "Fortaleza", "estado": "CE", "quantidade_entregue_kg": 35000, "frota_utilizada": 12, "custo_logistico": 175000.00, "tempo_medio_entrega_horas": 14},
+      {"nome": "Recife", "estado": "PE", "quantidade_entregue_kg": 32000, "frota_utilizada": 10, "custo_logistico": 160000.00, "tempo_medio_entrega_horas": 12},
+      {"nome": "São Luís", "estado": "MA", "quantidade_entregue_kg": 25000, "frota_utilizada": 8, "custo_logistico": 125000.00, "tempo_medio_entrega_horas": 18},
+      {"nome": "Natal", "estado": "RN", "quantidade_entregue_kg": 23000, "frota_utilizada": 7, "custo_logistico": 110000.00, "tempo_medio_entrega_horas": 16}
     ],
     "total_frota": 75,
     "total_custo_logistico": 950000.00,
     "media_km_por_entrega": 300,
     "tempo_medio_distribuicao_cd_loja_horas": 12,
-    "tempo_medio_distribuicao_comercios_horas": 20
-  },
-  "indicadores": {
-    "faturamento_total": 14805100.00,
-    "faturamento_lojas_atacado": 5950000.00,
-    "faturamento_comercios": 8855100.00,
-    "lucro_liquido": 3350000.00,
-    "ticket_medio_por_loja_atacado": 991666.67,
-    "clientes_atendidos_comercios": 1800,
-    "percentual_crescimento_semestral": 14.2,
-    "indice_satisfacao_cliente": 89
+    "tempo_medio_distribuicao_comercios_horas": 20,
+    "consumo_combustivel_litros_por_km": 0.5,
+    "custo_medio_combustivel_por_litro": 6.50
   },
   "detalhes_adicionais": {
     "principal_fornecedor": "Fazenda Boa Vista",
@@ -94,6 +88,10 @@
     "percentual_carne_bovina": 80,
     "percentual_carne_suina": 12,
     "percentual_carne_aves": 8,
-    "investimento_manutencao_frota": 250000.00
+    "investimento_manutencao_frota": 250000.00,
+    "custo_energia_mensal": 300000.00,
+    "investimento_tecnologia_semestre": 150000.00,
+    "taxa_retencao_clientes_percentual": 92,
+    "tempo_medio_resolucao_reclamacoes_horas": 24
   }
 }
