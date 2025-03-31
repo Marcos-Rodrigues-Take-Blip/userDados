@@ -4,10 +4,10 @@
     "regiao_atendida": "Nordeste do Brasil",
     "periodo": "Primeiro Semestre de 2025 (Janeiro a Junho)",
     "unidades_frigorificas": [
-      {"nome": "Unidade Salvador", "local": "Salvador, BA", "capacidade_producao_kg": 60000, "custo_operacional_mensal": 150000.00, "funcionarios": 70},
-      {"nome": "Unidade Fortaleza", "local": "Fortaleza, CE", "capacidade_producao_kg": 55000, "custo_operacional_mensal": 140000.00, "funcionarios": 65},
-      {"nome": "Unidade Recife", "local": "Recife, PE", "capacidade_producao_kg": 50000, "custo_operacional_mensal": 130000.00, "funcionarios": 60},
-      {"nome": "Unidade São Luís", "local": "São Luís, MA", "capacidade_producao_kg": 45000, "custo_operacional_mensal": 120000.00, "funcionarios": 55}
+      {"nome": "Unidade Salvador", "local": "Salvador, BA", "capacidade_producao_kg": 60000, "custo_operacional_mensal": 150000.00, "funcionarios": 70, "faturamento_semestre": 4229217.07},
+      {"nome": "Unidade Fortaleza", "local": "Fortaleza, CE", "capacidade_producao_kg": 55000, "custo_operacional_mensal": 140000.00, "funcionarios": 65, "faturamento_semestre": 3877455.69},
+      {"nome": "Unidade Recife", "local": "Recife, PE", "capacidade_producao_kg": 50000, "custo_operacional_mensal": 130000.00, "funcionarios": 60, "faturamento_semestre": 3525094.31},
+      {"nome": "Unidade São Luís", "local": "São Luís, MA", "capacidade_producao_kg": 45000, "custo_operacional_mensal": 120000.00, "funcionarios": 55, "faturamento_semestre": 3173332.93}
     ],
     "centros_distribuicao": [
       {"nome": "CD Recife", "local": "Recife, PE", "capacidade_armazenamento_kg": 80000, "custo_manutencao_mensal": 80000.00, "taxa_ocupacao_percentual": 85},
