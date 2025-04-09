@@ -4,83 +4,158 @@
     "regiao_atendida": "Nordeste do Brasil",
     "periodo": "Primeiro Semestre de 2025 (Janeiro a Junho)",
     "unidades_frigorificas": [
-      {"nome": "Unidade Salvador", "local": "Salvador, BA", "capacidade_producao_kg": 60000, "custo_operacional_mensal": 150000.00, "funcionarios": 70, "faturamento_semestre": 4229217.07},
-      {"nome": "Unidade Fortaleza", "local": "Fortaleza, CE", "capacidade_producao_kg": 55000, "custo_operacional_mensal": 140000.00, "funcionarios": 65, "faturamento_semestre": 3877455.69},
-      {"nome": "Unidade Recife", "local": "Recife, PE", "capacidade_producao_kg": 50000, "custo_operacional_mensal": 130000.00, "funcionarios": 60, "faturamento_semestre": 3525094.31},
-      {"nome": "Unidade São Luís", "local": "São Luís, MA", "capacidade_producao_kg": 45000, "custo_operacional_mensal": 120000.00, "funcionarios": 55, "faturamento_semestre": 3173332.93}
+      {
+        "nome": "Unidade Salvador",
+        "local": "Salvador, BA",
+        "capacidade_producao_kg": 60000,
+        "custo_operacional_mensal": 150000,
+        "funcionarios": 70,
+        "faturamento_semestre": 4229217.07
+      },
+      {
+        "nome": "Unidade Fortaleza",
+        "local": "Fortaleza, CE",
+        "capacidade_producao_kg": 55000,
+        "custo_operacional_mensal": 140000,
+        "funcionarios": 65,
+        "faturamento_semestre": 3877455.69
+      },
+      {
+        "nome": "Unidade Recife",
+        "local": "Recife, PE",
+        "capacidade_producao_kg": 50000,
+        "custo_operacional_mensal": 130000,
+        "funcionarios": 60,
+        "faturamento_semestre": 3525094.31
+      },
+      {
+        "nome": "Unidade São Luís",
+        "local": "São Luís, MA",
+        "capacidade_producao_kg": 45000,
+        "custo_operacional_mensal": 120000,
+        "funcionarios": 55,
+        "faturamento_semestre": 3173332.93
+      }
     ],
     "centros_distribuicao": [
-      {"nome": "CD Recife", "local": "Recife, PE", "capacidade_armazenamento_kg": 80000, "custo_manutencao_mensal": 80000.00, "taxa_ocupacao_percentual": 85},
-      {"nome": "CD Fortaleza", "local": "Fortaleza, CE", "capacidade_armazenamento_kg": 70000, "custo_manutencao_mensal": 75000.00, "taxa_ocupacao_percentual": 90}
+      {
+        "nome": "CD Recife",
+        "local": "Recife, PE",
+        "capacidade_armazenamento_kg": 80000,
+        "custo_manutencao_mensal": 80000,
+        "taxa_ocupacao_percentual": 85
+      },
+      {
+        "nome": "CD Fortaleza",
+        "local": "Fortaleza, CE",
+        "capacidade_armazenamento_kg": 70000,
+        "custo_manutencao_mensal": 75000,
+        "taxa_ocupacao_percentual": 90
+      }
     ]
   },
   "cortes_de_carne": [
     {
       "tipo": "Picanha",
       "quantidade_distribuida_kg": 50000,
-      "preco_medio_por_kg": 75.50,
-      "faturamento_total": 3775000.00,
+      "preco_medio_por_kg": 75.5,
+      "faturamento_total": 3775000,
       "percentual_vendas_atacado": 40,
       "percentual_vendas_comercios": 60,
-      "custo_producao_por_kg": 50.00,
+      "custo_producao_por_kg": 50,
       "tempo_medio_processamento_horas": 8
     },
     {
       "tipo": "Costela",
       "quantidade_distribuida_kg": 70000,
-      "preco_medio_por_kg": 38.90,
-      "faturamento_total": 2723000.00,
+      "preco_medio_por_kg": 38.9,
+      "faturamento_total": 2723000,
       "percentual_vendas_atacado": 50,
       "percentual_vendas_comercios": 50,
-      "custo_producao_por_kg": 25.00,
+      "custo_producao_por_kg": 25,
       "tempo_medio_processamento_horas": 6
     },
     {
       "tipo": "Filé Mignon",
       "quantidade_distribuida_kg": 32000,
-      "preco_medio_por_kg": 92.30,
-      "faturamento_total": 2953600.00,
+      "preco_medio_por_kg": 92.3,
+      "faturamento_total": 2953600,
       "percentual_vendas_atacado": 30,
       "percentual_vendas_comercios": 70,
-      "custo_producao_por_kg": 65.00,
+      "custo_producao_por_kg": 65,
       "tempo_medio_processamento_horas": 10
     },
     {
       "tipo": "Coxão Mole",
       "quantidade_distribuida_kg": 60000,
-      "preco_medio_por_kg": 45.20,
-      "faturamento_total": 2712000.00,
+      "preco_medio_por_kg": 45.2,
+      "faturamento_total": 2712000,
       "percentual_vendas_atacado": 45,
       "percentual_vendas_comercios": 55,
-      "custo_producao_por_kg": 30.00,
+      "custo_producao_por_kg": 30,
       "tempo_medio_processamento_horas": 7
     },
     {
       "tipo": "Fraldinha",
       "quantidade_distribuida_kg": 45000,
-      "preco_medio_por_kg": 58.70,
-      "faturamento_total": 2641500.00,
+      "preco_medio_por_kg": 58.7,
+      "faturamento_total": 2641500,
       "percentual_vendas_atacado": 35,
       "percentual_vendas_comercios": 65,
-      "custo_producao_por_kg": 40.00,
+      "custo_producao_por_kg": 40,
       "tempo_medio_processamento_horas": 9
     }
   ],
   "logistica": {
     "cidades_atendidas": [
-      {"nome": "Salvador", "estado": "BA", "quantidade_entregue_kg": 40000, "frota_utilizada": 14, "custo_logistico": 200000.00, "tempo_medio_entrega_horas": 15},
-      {"nome": "Fortaleza", "estado": "CE", "quantidade_entregue_kg": 35000, "frota_utilizada": 12, "custo_logistico": 175000.00, "tempo_medio_entrega_horas": 14},
-      {"nome": "Recife", "estado": "PE", "quantidade_entregue_kg": 32000, "frota_utilizada": 10, "custo_logistico": 160000.00, "tempo_medio_entrega_horas": 12},
-      {"nome": "São Luís", "estado": "MA", "quantidade_entregue_kg": 25000, "frota_utilizada": 8, "custo_logistico": 125000.00, "tempo_medio_entrega_horas": 18},
-      {"nome": "Natal", "estado": "RN", "quantidade_entregue_kg": 23000, "frota_utilizada": 7, "custo_logistico": 110000.00, "tempo_medio_entrega_horas": 16}
+      {
+        "nome": "Salvador",
+        "estado": "BA",
+        "quantidade_entregue_kg": 40000,
+        "frota_utilizada": 14,
+        "custo_logistico": 200000,
+        "tempo_medio_entrega_horas": 15
+      },
+      {
+        "nome": "Fortaleza",
+        "estado": "CE",
+        "quantidade_entregue_kg": 35000,
+        "frota_utilizada": 12,
+        "custo_logistico": 175000,
+        "tempo_medio_entrega_horas": 14
+      },
+      {
+        "nome": "Recife",
+        "estado": "PE",
+        "quantidade_entregue_kg": 32000,
+        "frota_utilizada": 10,
+        "custo_logistico": 160000,
+        "tempo_medio_entrega_horas": 12
+      },
+      {
+        "nome": "São Luís",
+        "estado": "MA",
+        "quantidade_entregue_kg": 25000,
+        "frota_utilizada": 8,
+        "custo_logistico": 125000,
+        "tempo_medio_entrega_horas": 18
+      },
+      {
+        "nome": "Natal",
+        "estado": "RN",
+        "quantidade_entregue_kg": 23000,
+        "frota_utilizada": 7,
+        "custo_logistico": 110000,
+        "tempo_medio_entrega_horas": 16
+      }
     ],
     "total_frota": 75,
-    "total_custo_logistico": 950000.00,
+    "total_custo_logistico": 950000,
     "media_km_por_entrega": 300,
     "tempo_medio_distribuicao_cd_loja_horas": 12,
     "tempo_medio_distribuicao_comercios_horas": 20,
     "consumo_combustivel_litros_por_km": 0.5,
-    "custo_medio_combustivel_por_litro": 6.50
+    "custo_medio_combustivel_por_litro": 6.5
   },
   "detalhes_adicionais": {
     "principal_fornecedor": "Fazenda Boa Vista",
@@ -88,10 +163,232 @@
     "percentual_carne_bovina": 80,
     "percentual_carne_suina": 12,
     "percentual_carne_aves": 8,
-    "investimento_manutencao_frota": 250000.00,
-    "custo_energia_mensal": 300000.00,
-    "investimento_tecnologia_semestre": 150000.00,
+    "investimento_manutencao_frota": 250000,
+    "custo_energia_mensal": 300000,
+    "investimento_tecnologia_semestre": 150000,
     "taxa_retencao_clientes_percentual": 92,
     "tempo_medio_resolucao_reclamacoes_horas": 24
-  }
+  },
+  "remessas_internacionais": [
+    {
+      "id_remessa": "MBI-2025-001",
+      "destino": "Japão",
+      "data_envio": "2025-04-12",
+      "previsao_entrega": "2025-05-08",
+      "tempo_estimado_transporte": "26 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Santos, Brasil",
+      "porto_destino": "Yokohama, Japão",
+      "peso_carga": "2300 toneladas",
+      "custo_frete": {
+        "valor": 160000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 130000,
+          "taxas_portuarias": 20000,
+          "seguro": 10000
+        }
+      },
+      "status": "Em preparação",
+      "observacoes": "Carga refrigerada com exigência de -18°C."
+    },
+    {
+      "id_remessa": "MBI-2025-002",
+      "destino": "Alemanha",
+      "data_envio": "2025-04-15",
+      "previsao_entrega": "2025-05-05",
+      "tempo_estimado_transporte": "20 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Paranaguá, Brasil",
+      "porto_destino": "Hamburgo, Alemanha",
+      "peso_carga": "1800 toneladas",
+      "custo_frete": {
+        "valor": 115000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 90000,
+          "taxas_portuarias": 18000,
+          "seguro": 7000
+        }
+      },
+      "status": "Aguardando embarque",
+      "observacoes": "Documentação alfandegária em análise."
+    },
+    {
+      "id_remessa": "MBI-2025-003",
+      "destino": "Coreia do Sul",
+      "data_envio": "2025-04-18",
+      "previsao_entrega": "2025-05-10",
+      "tempo_estimado_transporte": "22 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Santos, Brasil",
+      "porto_destino": "Busan, Coreia do Sul",
+      "peso_carga": "2500 toneladas",
+      "custo_frete": {
+        "valor": 145000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 115000,
+          "taxas_portuarias": 20000,
+          "seguro": 10000
+        }
+      },
+      "status": "Planejada",
+      "observacoes": "Carga com certificação sanitária adicional."
+    },
+    {
+      "id_remessa": "MBI-2025-004",
+      "destino": "Emirados Árabes Unidos",
+      "data_envio": "2025-04-20",
+      "previsao_entrega": "2025-05-07",
+      "tempo_estimado_transporte": "17 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Rio Grande, Brasil",
+      "porto_destino": "Jebel Ali, EAU",
+      "peso_carga": "2000 toneladas",
+      "custo_frete": {
+        "valor": 98000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 75000,
+          "taxas_portuarias": 15000,
+          "seguro": 8000
+        }
+      },
+      "status": "Em trânsito",
+      "observacoes": "Primeira remessa para novo cliente."
+    },
+    {
+      "id_remessa": "MBI-2025-005",
+      "destino": "Reino Unido",
+      "data_envio": "2025-04-22",
+      "previsao_entrega": "2025-05-12",
+      "tempo_estimado_transporte": "20 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Itajaí, Brasil",
+      "porto_destino": "Felixstowe, Reino Unido",
+      "peso_carga": "1900 toneladas",
+      "custo_frete": {
+        "valor": 120000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 95000,
+          "taxas_portuarias": 17000,
+          "seguro": 8000
+        }
+      },
+      "status": "Planejada",
+      "observacoes": "Aguardando liberação de contêineres."
+    },
+    {
+      "id_remessa": "MBI-2025-006",
+      "destino": "Austrália",
+      "data_envio": "2025-04-25",
+      "previsao_entrega": "2025-05-20",
+      "tempo_estimado_transporte": "25 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Santos, Brasil",
+      "porto_destino": "Sydney, Austrália",
+      "peso_carga": "2200 toneladas",
+      "custo_frete": {
+        "valor": 135000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 105000,
+          "taxas_portuarias": 20000,
+          "seguro": 10000
+        }
+      },
+      "status": "Em preparação",
+      "observacoes": "Carga com inspeção de biossegurança."
+    },
+    {
+      "id_remessa": "MBI-2025-007",
+      "destino": "Canadá",
+      "data_envio": "2025-04-28",
+      "previsao_entrega": "2025-05-18",
+      "tempo_estimado_transporte": "20 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Paranaguá, Brasil",
+      "porto_destino": "Vancouver, Canadá",
+      "peso_carga": "2100 toneladas",
+      "custo_frete": {
+        "valor": 125000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 100000,
+          "taxas_portuarias": 18000,
+          "seguro": 7000
+        }
+      },
+      "status": "Aguardando embarque",
+      "observacoes": "Carga com rastreamento em tempo real."
+    },
+    {
+      "id_remessa": "MBI-2025-008",
+      "destino": "Rússia",
+      "data_envio": "2025-05-01",
+      "previsao_entrega": "2025-05-28",
+      "tempo_estimado_transporte": "27 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Santos, Brasil",
+      "porto_destino": "São Petersburgo, Rússia",
+      "peso_carga": "2600 toneladas",
+      "custo_frete": {
+        "valor": 170000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 135000,
+          "taxas_portuarias": 25000,
+          "seguro": 10000
+        }
+      },
+      "status": "Planejada",
+      "observacoes": "Carga com exigências específicas de embalagem."
+    },
+    {
+      "id_remessa": "MBI-2025-009",
+      "destino": "Argentina",
+      "data_envio": "2025-05-03",
+      "previsao_entrega": "2025-05-10",
+      "tempo_estimado_transporte": "7 dias",
+      "modal_transporte": "Terrestre",
+      "porto_origem": "Uruguaiana, Brasil",
+      "porto_destino": "Buenos Aires, Argentina",
+      "peso_carga": "1200 toneladas",
+      "custo_frete": {
+        "valor": 45000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 35000,
+          "taxas_portuarias": 5000,
+          "seguro": 5000
+        }
+      },
+      "status": "Em preparação",
+      "observacoes": "Remessa via transporte rodoviário."
+    },
+    {
+      "id_remessa": "MBI-2025-010",
+      "destino": "África do Sul",
+      "data_envio": "2025-05-05",
+      "previsao_entrega": "2025-05-25",
+      "tempo_estimado_transporte": "20 dias",
+      "modal_transporte": "Marítimo",
+      "porto_origem": "Itajaí, Brasil",
+      "porto_destino": "Cidade do Cabo, África do Sul",
+      "peso_carga": "2400 toneladas",
+      "custo_frete": {
+        "valor": 140000,
+        "moeda": "USD",
+        "detalhamento": {
+          "frete_base": 110000,
+          "taxas_portuarias": 20000,
+          "seguro": 10000
+        }
+      },
+      "status": "Planejada",
+      "observacoes": "Carga com prazo de entrega prioritário."
+    }
+  ]
 }
