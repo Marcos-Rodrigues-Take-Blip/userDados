@@ -1,70 +1,70 @@
 {
-    "clientes": [
-      {
-        "cpf": "12345678901",
-        "nome": "João da Silva",
-        "enderecos": [
-          {
-            "id": "end1",
-            "logradouro": "Rua das Palmeiras, 123",
-            "bairro": "Centro",
-            "cidade": "João Pessoa",
-            "estado": "PB",
-            "faturas": [
-              {
-                "mesReferencia": "Março/2025",
-                "vencimento": "10/04/2025",
-                "status": "Em aberto",
-                "valor": 142.50,
-                "codigoBarras": "34191.79001 01043.510047 91020.150008 7 85280000050000"
-              },
-              {
-                "mesReferencia": "Fevereiro/2025",
-                "vencimento": "10/03/2025",
-                "status": "Paga",
-                "valor": 137.80,
-                "codigoBarras": "34191.79001 01043.510047 91020.150008 7 85280000040000"
-              },
-              {
-                "mesReferencia": "Janeiro/2025",
-                "vencimento": "10/02/2025",
-                "status": "Paga",
-                "valor": 129.40,
-                "codigoBarras": "34191.79001 01043.510047 91020.150008 7 85280000030000"
-              }
-            ]
-          },
-          {
-            "id": "end2",
-            "logradouro": "Av. Brasil, 456",
-            "bairro": "Jardim América",
-            "cidade": "Cuiabá",
-            "estado": "MT",
-            "faturas": [
-              {
-                "mesReferencia": "Março/2025",
-                "vencimento": "15/04/2025",
-                "status": "Paga",
-                "valor": 188.70,
-                "codigoBarras": "84691.79001 12043.510047 91020.150008 9 85420000010000"
-              },
-              {
-                "mesReferencia": "Fevereiro/2025",
-                "vencimento": "15/03/2025",
-                "status": "Paga",
-                "valor": 178.25,
-                "codigoBarras": "84691.79001 12043.510047 91020.150008 9 85420000005000"
-              },
-              {
-                "mesReferencia": "Janeiro/2025",
-                "vencimento": "15/02/2025",
-                "status": "Vencida",
-                "valor": 195.10,
-                "codigoBarras": "84691.79001 12043.510047 91020.150008 9 85420000008000"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+  "clientes": [
+    {
+      "cpf": "12345678901",
+      "nome": "João da Silva",
+      "enderecos": [
+        {
+          "id": "end1",
+          "logradouro": "Rua das Palmeiras, 123",
+          "bairro": "Centro",
+          "cidade": "João Pessoa",
+          "estado": "PB",
+          "faturas": [
+            {
+              "mesReferencia": "Março/2025",
+              "vencimento": "10/04/2025",
+              "status": "Em aberto",
+              "valor": 142.5,
+              "linkBoleto": "https://blipmediastore.blip.ai/public-medias/Media_bdc9f060-20cc-4e27-887f-50d8b62403af"
+            },
+            {
+              "mesReferencia": "Fevereiro/2025",
+              "vencimento": "10/03/2025",
+              "status": "Paga",
+              "valor": 137.8,
+              "linkBoleto": "https://blipmediastore.blip.ai/public-medias/Media_bdc9f060-20cc-4e27-887f-50d8b62403af"
+            },
+            {
+              "mesReferencia": "Janeiro/2025",
+              "vencimento": "10/02/2025",
+              "status": "Paga",
+              "valor": 129.4,
+              "linkBoleto": "https://blipmediastore.blip.ai/public-medias/Media_bdc9f060-20cc-4e27-887f-50d8b62403af"
+            }
+          ]
+        },
+        {
+          "id": "end2",
+          "logradouro": "Av. Brasil, 456",
+          "bairro": "Jardim América",
+          "cidade": "Cuiabá",
+          "estado": "MT",
+          "faturas": [
+            {
+              "mesReferencia": "Março/2025",
+              "vencimento": "15/04/2025",
+              "status": "Paga",
+              "valor": 188.7,
+              "linkBoleto": "https://blipmediastore.blip.ai/public-medias/Media_bdc9f060-20cc-4e27-887f-50d8b62403af"
+            },
+            {
+              "mesReferencia": "Fevereiro/2025",
+              "vencimento": "15/03/2025",
+              "status": "Paga",
+              "valor": 178.25,
+              "linkBoleto": "https://blipmediastore.blip.ai/public-medias/Media_bdc9f060-20cc-4e27-887f-50d8b62403af"
+            },
+            {
+              "mesReferencia": "Janeiro/2025",
+              "vencimento": "15/02/2025",
+              "status": "Vencida",
+              "valor": 195.1,
+              "linkBoleto": "https://blipmediastore.blip.ai/public-medias/Media_bdc9f060-20cc-4e27-887f-50d8b62403af"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
