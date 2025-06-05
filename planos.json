@@ -1,0 +1,122 @@
+[
+  {
+    "especialidade": "Alergia e Imunologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Anestesiologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Omint"]
+  },
+  {
+    "especialidade": "Angiologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Cardiologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro", "Omint"]
+  },
+  {
+    "especialidade": "Cirurgia Geral",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Cirurgia Cardiovascular",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Omint"]
+  },
+  {
+    "especialidade": "Cirurgia Pediátrica",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Clínica Médica",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Dermatologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Endocrinologia e Metabologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Endoscopia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Gastroenterologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Geriatria",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Prevent Senior"]
+  },
+  {
+    "especialidade": "Ginecologia e Obstetrícia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Hematologia e Hemoterapia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Infectologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Mastologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Medicina de Família e Comunidade",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Medicina do Trabalho",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Nefrologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Neurologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Nutrologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Oftalmologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Oncologia Clínica",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Ortopedia e Traumatologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Otorrinolaringologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Patologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Pediatria",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  },
+  {
+    "especialidade": "Pneumologia",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica"]
+  },
+  {
+    "especialidade": "Psiquiatria",
+    "planos": ["Bradesco Saúde", "SulAmérica", "Amil", "Unimed", "Hapvida NotreDame Intermédica", "Porto Seguro"]
+  }
+]
