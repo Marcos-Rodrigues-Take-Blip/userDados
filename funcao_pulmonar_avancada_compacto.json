@@ -1,0 +1,62 @@
+[
+  {
+    "cd_unificacao": 658,
+    "cd_item_agendamento": 8344.0,
+    "ds_item_agendamento": "ESPIROMETRIA + DCLO",
+    "ds_unificacao": "ESPIROMETRIA + DCLO",
+    "alias": "",
+    "ds_exa_rx": "ESPIROMETRIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 656,
+    "cd_item_agendamento": 8342.0,
+    "ds_item_agendamento": "PROVA DE FUNÇÃO PULMONAR - ESPIROMETRIA",
+    "ds_unificacao": "PROVA DE FUNÇÃO PULMONAR - ESPIROMETRIA",
+    "alias": "",
+    "ds_exa_rx": "ESPIROMETRIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 657,
+    "cd_item_agendamento": 8343.0,
+    "ds_item_agendamento": "EXAME PLETISMOGRAFIA",
+    "ds_unificacao": "EXAME PLETISMOGRAFIA",
+    "alias": "",
+    "ds_exa_rx": "ESPIROMETRIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 656,
+    "cd_item_agendamento": 8342.0,
+    "ds_item_agendamento": "PROVA DE FUNÇÃO PULMONAR - ESPIROMETRIA",
+    "ds_unificacao": "PROVA DE FUNÇÃO PULMONAR - ESPIROMETRIA",
+    "alias": "",
+    "ds_exa_rx": "ESPIROMETRIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 657,
+    "cd_item_agendamento": 8343.0,
+    "ds_item_agendamento": "EXAME PLETISMOGRAFIA",
+    "ds_unificacao": "EXAME PLETISMOGRAFIA",
+    "alias": "",
+    "ds_exa_rx": "ESPIROMETRIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 658,
+    "cd_item_agendamento": 8344.0,
+    "ds_item_agendamento": "ESPIROMETRIA + DCLO",
+    "ds_unificacao": "ESPIROMETRIA + DCLO",
+    "alias": "",
+    "ds_exa_rx": "ESPIROMETRIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "cd_unificacao": 660,
+    "cd_item_agendamento": 12083.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL (BH E REGIÃO)",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL (BH E REGIÃO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 511,
+    "cd_item_agendamento": 3662.0,
+    "ds_item_agendamento": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "ds_unificacao": "TOMOSSÍNTESE MAMÁRIA OU MAMOGRAFIA 3D",
+    "alias": "Também conhecido como Tomossíntese Mamária, Mamografia Digital em 3D, Mamografia Tomossintética, Mamografia Tridimensional",
+    "ds_exa_rx": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 543,
+    "cd_item_agendamento": 7322.0,
+    "ds_item_agendamento": "MARCACAO DE LESAO POR TOMOSSINTESE",
+    "ds_unificacao": "MARCAÇÃO DE LESÃO POR TOMOSSÍNTESE",
+    "alias": "Também conhecido como Marcação de Lesão por Tomossíntese, Clipagem ou Marcação de Lesão Identificada por Tomossíntese, Marcação para Biópsia ou Cirurgia por Tomossíntese Mamária",
+    "ds_exa_rx": "MARCACAO DE LESAO POR TOMOSSINTESE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 544,
+    "cd_item_agendamento": 7362.0,
+    "ds_item_agendamento": "MAMOTOMIA POR TOMOSSINTESE",
+    "ds_unificacao": "MAMOTOMIA POR TOMOSSÍNTESE",
+    "alias": "Também conhecido como Biópsia Mamária Guiada por Tomossíntese, Mamotomia com Orientação por Tomossíntese Mamária, Biópsia de Mama por Tomossíntese, Mamotomia Tomossintética",
+    "ds_exa_rx": "MAMOTOMIA POR TOMOSSINTESE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 481,
+    "cd_item_agendamento": 2804.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA",
+    "alias": "Também conhecido como Biópsia Estereotáxica da Mama, Biópsia Mamária Guiada por Estereotaxia, Mamotomia Guiada por Estereotaxia, Biópsia de Mama com Estereotaxia",
+    "ds_exa_rx": "MAMOTOMIA POR ESTEREOTAXIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 511,
+    "cd_item_agendamento": 3662.0,
+    "ds_item_agendamento": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "ds_unificacao": "TOMOSSÍNTESE MAMÁRIA OU MAMOGRAFIA 3D",
+    "alias": "Também conhecido como Tomossíntese Mamária, Mamografia Digital em 3D, Mamografia Tomossintética, Mamografia Tridimensional",
+    "ds_exa_rx": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 512,
+    "cd_item_agendamento": 3663.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL COM TOMOSSÍNTESE MAMÁRIA",
+    "alias": "Também conhecido como Mamografia 3D, Mamografia Digital com Tomossíntese, Tomossíntese Mamária, Mamografia Tomossintética",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 513,
+    "cd_item_agendamento": 3702.0,
+    "ds_item_agendamento": "MAMOTOMIA 3D",
+    "ds_unificacao": "MAMOTOMIA 3D",
+    "alias": "Também conhecido como Biópsia Mamotômica 3D, Biópsia Mamária 3D",
+    "ds_exa_rx": "MAMOTOMIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 513,
+    "cd_item_agendamento": 3702.0,
+    "ds_item_agendamento": "MAMOTOMIA 3D",
+    "ds_unificacao": "MAMOTOMIA 3D",
+    "alias": "Também conhecido como Biópsia Mamotômica 3D, Biópsia Mamária 3D",
+    "ds_exa_rx": "MAMOTOMIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 543,
+    "cd_item_agendamento": 7322.0,
+    "ds_item_agendamento": "MARCACAO DE LESAO POR TOMOSSINTESE",
+    "ds_unificacao": "MARCAÇÃO DE LESÃO POR TOMOSSÍNTESE",
+    "alias": "Também conhecido como Marcação de Lesão por Tomossíntese, Clipagem ou Marcação de Lesão Identificada por Tomossíntese, Marcação para Biópsia ou Cirurgia por Tomossíntese Mamária",
+    "ds_exa_rx": "MARCACAO DE LESAO POR TOMOSSINTESE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 660,
+    "cd_item_agendamento": 12083.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL (BH E REGIÃO)",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL (BH E REGIÃO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 8985.0,
+    "ds_item_agendamento": "CDI - MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamo, Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 481,
+    "cd_item_agendamento": 2804.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA",
+    "alias": "Também conhecido como Biópsia Estereotáxica da Mama, Biópsia Mamária Guiada por Estereotaxia, Mamotomia Guiada por Estereotaxia, Biópsia de Mama com Estereotaxia",
+    "ds_exa_rx": "MAMOTOMIA POR ESTEREOTAXIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 511,
+    "cd_item_agendamento": 3662.0,
+    "ds_item_agendamento": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "ds_unificacao": "TOMOSSÍNTESE MAMÁRIA OU MAMOGRAFIA 3D",
+    "alias": "Também conhecido como Tomossíntese Mamária, Mamografia Digital em 3D, Mamografia Tomossintética, Mamografia Tridimensional",
+    "ds_exa_rx": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 511,
+    "cd_item_agendamento": 3662.0,
+    "ds_item_agendamento": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "ds_unificacao": "TOMOSSÍNTESE MAMÁRIA OU MAMOGRAFIA 3D",
+    "alias": "Também conhecido como Tomossíntese Mamária, Mamografia Digital em 3D, Mamografia Tomossintética, Mamografia Tridimensional",
+    "ds_exa_rx": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 512,
+    "cd_item_agendamento": 3663.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL COM TOMOSSÍNTESE MAMÁRIA",
+    "alias": "Também conhecido como Mamografia 3D, Mamografia Digital com Tomossíntese, Tomossíntese Mamária, Mamografia Tomossintética",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 481,
+    "cd_item_agendamento": 2804.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA",
+    "alias": "Também conhecido como Biópsia Estereotáxica da Mama, Biópsia Mamária Guiada por Estereotaxia, Mamotomia Guiada por Estereotaxia, Biópsia de Mama com Estereotaxia",
+    "ds_exa_rx": "MAMOTOMIA POR ESTEREOTAXIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 514,
+    "cd_item_agendamento": 3703.0,
+    "ds_item_agendamento": "BIOPSIA DE FRAGMENTO MAMARIO 3D",
+    "ds_unificacao": "BIÓPSIA DE FRAGMENTO MAMÁRIO 3D",
+    "alias": "Também conhecido como Biópsia de Tomossíntese Mamária, Biópsia Estereotáxica 3D, Biópsia de Lesão Mamária 3D",
+    "ds_exa_rx": "BIOPSIA DE FRAGMENTO 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 660,
+    "cd_item_agendamento": 12083.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL (BH E REGIÃO)",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL (BH E REGIÃO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 514,
+    "cd_item_agendamento": 3703.0,
+    "ds_item_agendamento": "BIOPSIA DE FRAGMENTO MAMARIO 3D",
+    "ds_unificacao": "BIÓPSIA DE FRAGMENTO MAMÁRIO 3D",
+    "alias": "Também conhecido como Biópsia de Tomossíntese Mamária, Biópsia Estereotáxica 3D, Biópsia de Lesão Mamária 3D",
+    "ds_exa_rx": "BIOPSIA DE FRAGMENTO 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 481,
+    "cd_item_agendamento": 2804.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA",
+    "alias": "Também conhecido como Biópsia Estereotáxica da Mama, Biópsia Mamária Guiada por Estereotaxia, Mamotomia Guiada por Estereotaxia, Biópsia de Mama com Estereotaxia",
+    "ds_exa_rx": "MAMOTOMIA POR ESTEREOTAXIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 513,
+    "cd_item_agendamento": 3702.0,
+    "ds_item_agendamento": "MAMOTOMIA 3D",
+    "ds_unificacao": "MAMOTOMIA 3D",
+    "alias": "Também conhecido como Biópsia Mamotômica 3D, Biópsia Mamária 3D",
+    "ds_exa_rx": "MAMOTOMIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 512,
+    "cd_item_agendamento": 3663.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL COM TOMOSSÍNTESE MAMÁRIA",
+    "alias": "Também conhecido como Mamografia 3D, Mamografia Digital com Tomossíntese, Tomossíntese Mamária, Mamografia Tomossintética",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 512,
+    "cd_item_agendamento": 3663.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL COM TOMOSSÍNTESE MAMÁRIA",
+    "alias": "Também conhecido como Mamografia 3D, Mamografia Digital com Tomossíntese, Tomossíntese Mamária, Mamografia Tomossintética",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 481,
+    "cd_item_agendamento": 2804.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA",
+    "alias": "Também conhecido como Biópsia Estereotáxica da Mama, Biópsia Mamária Guiada por Estereotaxia, Mamotomia Guiada por Estereotaxia, Biópsia de Mama com Estereotaxia",
+    "ds_exa_rx": "MAMOTOMIA POR ESTEREOTAXIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 481,
+    "cd_item_agendamento": 2804.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA",
+    "alias": "Também conhecido como Biópsia Estereotáxica da Mama, Biópsia Mamária Guiada por Estereotaxia, Mamotomia Guiada por Estereotaxia, Biópsia de Mama com Estereotaxia",
+    "ds_exa_rx": "MAMOTOMIA POR ESTEREOTAXIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 544,
+    "cd_item_agendamento": 7362.0,
+    "ds_item_agendamento": "MAMOTOMIA POR TOMOSSINTESE",
+    "ds_unificacao": "MAMOTOMIA POR TOMOSSÍNTESE",
+    "alias": "Também conhecido como Biópsia Mamária Guiada por Tomossíntese, Mamotomia com Orientação por Tomossíntese Mamária, Biópsia de Mama por Tomossíntese, Mamotomia Tomossintética",
+    "ds_exa_rx": "MAMOTOMIA POR TOMOSSINTESE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 512,
+    "cd_item_agendamento": 3663.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL COM TOMOSSÍNTESE MAMÁRIA",
+    "alias": "Também conhecido como Mamografia 3D, Mamografia Digital com Tomossíntese, Tomossíntese Mamária, Mamografia Tomossintética",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 511,
+    "cd_item_agendamento": 3662.0,
+    "ds_item_agendamento": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "ds_unificacao": "TOMOSSÍNTESE MAMÁRIA OU MAMOGRAFIA 3D",
+    "alias": "Também conhecido como Tomossíntese Mamária, Mamografia Digital em 3D, Mamografia Tomossintética, Mamografia Tridimensional",
+    "ds_exa_rx": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 381,
+    "cd_item_agendamento": 659.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 660,
+    "cd_item_agendamento": 12083.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL BILATERAL (BH E REGIÃO)",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL BILATERAL",
+    "alias": "Também conhecido como Mama, Mamografia Digital das Duas Mamas,Mamografia Digital Bilateral Com Magnificacao, Mamografia Ampliada",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL BILATERAL (BH E REGIÃO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 481,
+    "cd_item_agendamento": 2804.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA",
+    "alias": "Também conhecido como Biópsia Estereotáxica da Mama, Biópsia Mamária Guiada por Estereotaxia, Mamotomia Guiada por Estereotaxia, Biópsia de Mama com Estereotaxia",
+    "ds_exa_rx": "MAMOTOMIA POR ESTEREOTAXIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 481,
+    "cd_item_agendamento": 2804.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA",
+    "alias": "Também conhecido como Biópsia Estereotáxica da Mama, Biópsia Mamária Guiada por Estereotaxia, Mamotomia Guiada por Estereotaxia, Biópsia de Mama com Estereotaxia",
+    "ds_exa_rx": "MAMOTOMIA POR ESTEREOTAXIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 511,
+    "cd_item_agendamento": 3662.0,
+    "ds_item_agendamento": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "ds_unificacao": "TOMOSSÍNTESE MAMÁRIA OU MAMOGRAFIA 3D",
+    "alias": "Também conhecido como Tomossíntese Mamária, Mamografia Digital em 3D, Mamografia Tomossintética, Mamografia Tridimensional",
+    "ds_exa_rx": "TOMOSSINTESE MAMARIA OU MAMOGRAFIA 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 512,
+    "cd_item_agendamento": 3663.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL COM TOMOSSÍNTESE MAMÁRIA",
+    "alias": "Também conhecido como Mamografia 3D, Mamografia Digital com Tomossíntese, Tomossíntese Mamária, Mamografia Tomossintética",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 544,
+    "cd_item_agendamento": 7362.0,
+    "ds_item_agendamento": "MAMOTOMIA POR TOMOSSINTESE",
+    "ds_unificacao": "MAMOTOMIA POR TOMOSSÍNTESE",
+    "alias": "Também conhecido como Biópsia Mamária Guiada por Tomossíntese, Mamotomia com Orientação por Tomossíntese Mamária, Biópsia de Mama por Tomossíntese, Mamotomia Tomossintética",
+    "ds_exa_rx": "MAMOTOMIA POR TOMOSSINTESE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 512,
+    "cd_item_agendamento": 3663.0,
+    "ds_item_agendamento": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "ds_unificacao": "MAMOGRAFIA DIGITAL COM TOMOSSÍNTESE MAMÁRIA",
+    "alias": "Também conhecido como Mamografia 3D, Mamografia Digital com Tomossíntese, Tomossíntese Mamária, Mamografia Tomossintética",
+    "ds_exa_rx": "MAMOGRAFIA DIGITAL COM TOMOSSINTESE MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 543,
+    "cd_item_agendamento": 7322.0,
+    "ds_item_agendamento": "MARCACAO DE LESAO POR TOMOSSINTESE",
+    "ds_unificacao": "MARCAÇÃO DE LESÃO POR TOMOSSÍNTESE",
+    "alias": "Também conhecido como Marcação de Lesão por Tomossíntese, Clipagem ou Marcação de Lesão Identificada por Tomossíntese, Marcação para Biópsia ou Cirurgia por Tomossíntese Mamária",
+    "ds_exa_rx": "MARCACAO DE LESAO POR TOMOSSINTESE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 514,
+    "cd_item_agendamento": 3703.0,
+    "ds_item_agendamento": "BIOPSIA DE FRAGMENTO MAMARIO 3D",
+    "ds_unificacao": "BIÓPSIA DE FRAGMENTO MAMÁRIO 3D",
+    "alias": "Também conhecido como Biópsia de Tomossíntese Mamária, Biópsia Estereotáxica 3D, Biópsia de Lesão Mamária 3D",
+    "ds_exa_rx": "BIOPSIA DE FRAGMENTO 3D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 357,
+    "cd_item_agendamento": 617.0,
+    "ds_item_agendamento": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "ds_unificacao": "AMPLIAÇÃO OU MAGNIFICAÇÃO DE LESÃO MAMÁRIA",
+    "alias": "Também conhecido como Compressão Focal, Compressao Localizada, Compressão Localizada Em Lesão Mamária, Magnificação De Lesão De Mamas",
+    "ds_exa_rx": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 357,
+    "cd_item_agendamento": 617.0,
+    "ds_item_agendamento": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "ds_unificacao": "AMPLIAÇÃO OU MAGNIFICAÇÃO DE LESÃO MAMÁRIA",
+    "alias": "Também conhecido como Compressão Focal, Compressao Localizada, Compressão Localizada Em Lesão Mamária, Magnificação De Lesão De Mamas",
+    "ds_exa_rx": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 357,
+    "cd_item_agendamento": 617.0,
+    "ds_item_agendamento": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "ds_unificacao": "AMPLIAÇÃO OU MAGNIFICAÇÃO DE LESÃO MAMÁRIA",
+    "alias": "Também conhecido como Compressão Focal, Compressao Localizada, Compressão Localizada Em Lesão Mamária, Magnificação De Lesão De Mamas",
+    "ds_exa_rx": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 357,
+    "cd_item_agendamento": 617.0,
+    "ds_item_agendamento": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "ds_unificacao": "AMPLIAÇÃO OU MAGNIFICAÇÃO DE LESÃO MAMÁRIA",
+    "alias": "Também conhecido como Compressão Focal, Compressao Localizada, Compressão Localizada Em Lesão Mamária, Magnificação De Lesão De Mamas",
+    "ds_exa_rx": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 357,
+    "cd_item_agendamento": 617.0,
+    "ds_item_agendamento": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "ds_unificacao": "AMPLIAÇÃO OU MAGNIFICAÇÃO DE LESÃO MAMÁRIA",
+    "alias": "Também conhecido como Compressão Focal, Compressao Localizada, Compressão Localizada Em Lesão Mamária, Magnificação De Lesão De Mamas",
+    "ds_exa_rx": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 357,
+    "cd_item_agendamento": 617.0,
+    "ds_item_agendamento": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "ds_unificacao": "AMPLIAÇÃO OU MAGNIFICAÇÃO DE LESÃO MAMÁRIA",
+    "alias": "Também conhecido como Compressão Focal, Compressao Localizada, Compressão Localizada Em Lesão Mamária, Magnificação De Lesão De Mamas",
+    "ds_exa_rx": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 357,
+    "cd_item_agendamento": 617.0,
+    "ds_item_agendamento": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "ds_unificacao": "AMPLIAÇÃO OU MAGNIFICAÇÃO DE LESÃO MAMÁRIA",
+    "alias": "Também conhecido como Compressão Focal, Compressao Localizada, Compressão Localizada Em Lesão Mamária, Magnificação De Lesão De Mamas",
+    "ds_exa_rx": "AMPLIACAO OU MAGNIFICACAO DE LESAO MAMARIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  }
+]

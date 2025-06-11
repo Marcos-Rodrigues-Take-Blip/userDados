@@ -1,0 +1,62 @@
+[
+  {
+    "cd_unificacao": 572,
+    "cd_item_agendamento": 8657.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO",
+    "alias": "Também conhecido como Retirada De Corpo Estranho",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 572,
+    "cd_item_agendamento": 8657.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO",
+    "alias": "Também conhecido como Retirada De Corpo Estranho",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 572,
+    "cd_item_agendamento": 8657.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO",
+    "alias": "Também conhecido como Retirada De Corpo Estranho",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 572,
+    "cd_item_agendamento": 8657.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO",
+    "alias": "Também conhecido como Retirada De Corpo Estranho",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 572,
+    "cd_item_agendamento": 8657.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO",
+    "alias": "Também conhecido como Retirada De Corpo Estranho",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 572,
+    "cd_item_agendamento": 8657.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO",
+    "alias": "Também conhecido como Retirada De Corpo Estranho",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  }
+]

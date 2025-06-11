@@ -1,0 +1,1142 @@
+[
+  {
+    "cd_unificacao": 196,
+    "cd_item_agendamento": 301.0,
+    "ds_item_agendamento": "ULTRASSOM PELVICO GINECOLOGICO",
+    "ds_unificacao": "ULTRASSOM PÉLVICO GINECOLÓGICO",
+    "alias": "Também conhecido como Us Abdomen Inferior Ou Abdomen Baixo, Us Genitais Internos E Anexos, Us Pélvico Feminino Com Medida De Resíduo Pós-Miccional, Us Pelvica Ginecologica",
+    "ds_exa_rx": "PELVICA (GINECOLOGICA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 18,
+    "cd_item_agendamento": 23.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM PERFIL BIOFISICO FETAL",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM PERFIL BIOFÍSICO FETAL",
+    "alias": "Também conhecido como Us Obstetrico Com Perfil Biofisico Fetal (Gemelar), Us Obstetrico Com Perfil Biofisico Gemelar",
+    "ds_exa_rx": "OBSTETRICA COM PERFIL BIOFISICO FETAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 618,
+    "cd_item_agendamento": 10145.0,
+    "ds_item_agendamento": "ULTRASSOM DE OMBRO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE OMBRO DIREITO",
+    "alias": "Também conhecido como Us Ombro Direito, Us Clavicula",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 618,
+    "cd_item_agendamento": 10145.0,
+    "ds_item_agendamento": "ULTRASSOM DE OMBRO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE OMBRO DIREITO",
+    "alias": "Também conhecido como Us Ombro Direito, Us Clavicula",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 620,
+    "cd_item_agendamento": 10147.0,
+    "ds_item_agendamento": "ULTRASSOM DE PE DIREITO",
+    "ds_unificacao": "ULTRASSOM DE PÉ DIREITO",
+    "alias": "Também conhecido como Ultrassonografia do Pé Direito, Ecografia do Pé Direito, Ultrassom Doppler do Pé Direito, Sonografia do Pé Direito",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 621,
+    "cd_item_agendamento": 10148.0,
+    "ds_item_agendamento": "ULTRASSOM DE PUNHO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE PUNHO DIREITO",
+    "alias": "Também conhecido como Us Punho Direito, Us Punho, Us Regiao Tenar, Ultrassonografia De Punho Direito",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 622,
+    "cd_item_agendamento": 10149.0,
+    "ds_item_agendamento": "ULTRASSOM DE TORNOZELO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE TORNOZELO DIREITO",
+    "alias": "Também conhecido como Ultrassonografia de Tornozelo Direito, Ultrassonografia Doppler do Tornozelo Direito, Ultrassom para Lesões ou Traumas no Tornozelo Direito, Ultrassom Musculoesquelético do Tornozelo Direito",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 633,
+    "cd_item_agendamento": 10611.0,
+    "ds_item_agendamento": "ULTRASSOM PAREDE ABDOMINAL COM DOPPLER",
+    "ds_unificacao": "ULTRASSOM PAREDE ABDOMINAL COM DOPPLER",
+    "alias": "Também conhecido como Us Regiao Axilar, Ultrassom De Axilas, Usg Axilas",
+    "ds_exa_rx": "ESTRUTURAS SUPERFICIAIS (CERVICAL OU AXILAS OU MÚSCULO OU TE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 633,
+    "cd_item_agendamento": 10611.0,
+    "ds_item_agendamento": "ULTRASSOM PAREDE ABDOMINAL COM DOPPLER",
+    "ds_unificacao": "ULTRASSOM PAREDE ABDOMINAL COM DOPPLER",
+    "alias": "Também conhecido como Us Regiao Axilar, Ultrassom De Axilas, Usg Axilas",
+    "ds_exa_rx": "ESTRUTURAS SUPERFICIAIS (CERVICAL OU AXILAS OU MÚSCULO OU TE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 638,
+    "cd_item_agendamento": 10616.0,
+    "ds_item_agendamento": "US TRANSVAGINAL (INCLUI ABDOME INFERIOR FEMININO) C DOPPLER",
+    "ds_unificacao": "ULTRASSOM TRANSVAGINAL (INCLUI ABDÔMEN INFERIOR FEMININO) C DOPPLER",
+    "alias": "Também conhecido como Us Pelve Femin Transvesical E Endovaginal, Us Pelve Femin Transvesical E Transvaginal, Us Pelvico E Vaginal, Us Pelvica Endovaginal, Usg Pelvico Via Transvaginal, Us Pelvico Transvaginal, Usg Pelvico Transvaginal, Ultrassom Pelvico Transvaginal",
+    "ds_exa_rx": "TRANSVAGINAL(INCLUI ABDOME INFERIOR FEMININO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 16,
+    "cd_item_agendamento": 19.0,
+    "ds_item_agendamento": "ULTRASSOM MORFOLOGICO",
+    "ds_unificacao": "ULTRASSOM MORFOLÓGICO",
+    "alias": "Também conhecido como Ultrassom Morfológico Fetal, Ultrassonografia Morfológica do Feto, Ultrassonografia Morfológica Obstétrica, Ultrassom de Avaliação Morfológica",
+    "ds_exa_rx": "MORFOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 16,
+    "cd_item_agendamento": 9142.0,
+    "ds_item_agendamento": "ULTRASSOM MORFOLOGICO (PR)",
+    "ds_unificacao": "ULTRASSOM MORFOLÓGICO (PR)",
+    "alias": "Também conhecido como Ultrassom Morfológico Fetal, Ultrassonografia Morfológica do Feto, Ultrassonografia Morfológica Obstétrica, Ultrassom de Avaliação Morfológica",
+    "ds_exa_rx": "MORFOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 16,
+    "cd_item_agendamento": 9142.0,
+    "ds_item_agendamento": "ULTRASSOM MORFOLOGICO (PR)",
+    "ds_unificacao": "ULTRASSOM MORFOLÓGICO (PR)",
+    "alias": "Também conhecido como Ultrassom Morfológico Fetal, Ultrassonografia Morfológica do Feto, Ultrassonografia Morfológica Obstétrica, Ultrassom de Avaliação Morfológica",
+    "ds_exa_rx": "MORFOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 16,
+    "cd_item_agendamento": 9142.0,
+    "ds_item_agendamento": "ULTRASSOM MORFOLOGICO (PR)",
+    "ds_unificacao": "ULTRASSOM MORFOLÓGICO (PR)",
+    "alias": "Também conhecido como Ultrassom Morfológico Fetal, Ultrassonografia Morfológica do Feto, Ultrassonografia Morfológica Obstétrica, Ultrassom de Avaliação Morfológica",
+    "ds_exa_rx": "MORFOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 17,
+    "cd_item_agendamento": 20.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM AMNIOCENTESE",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM AMNIOCENTESE",
+    "alias": "Também conhecido como Ultrassom Obstétrico com Amniocentese, Ultrassonografia Obstétrica Guiada por Amniocentese, Procedimento de Amniocentese Assistido por Ultrassom Obstétrico, Amniocentese com Auxílio de Ultrassonografia Obstétrica",
+    "ds_exa_rx": "OBSTETRICA COM AMNIOCENTESE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 17,
+    "cd_item_agendamento": 20.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM AMNIOCENTESE",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM AMNIOCENTESE",
+    "alias": "Também conhecido como Ultrassom Obstétrico com Amniocentese, Ultrassonografia Obstétrica Guiada por Amniocentese, Procedimento de Amniocentese Assistido por Ultrassom Obstétrico, Amniocentese com Auxílio de Ultrassonografia Obstétrica",
+    "ds_exa_rx": "OBSTETRICA COM AMNIOCENTESE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 19,
+    "cd_item_agendamento": 24.0,
+    "ds_item_agendamento": "ULTRASSOM TRANSVAGINAL PARA CONTROLE DE OVULACAO",
+    "ds_unificacao": "ULTRASSOM TRANSVAGINAL PARA CONTROLE DE OVULAÇÃO",
+    "alias": "Também conhecido como Us Para Controle De Ovulacao, Us Transvaginal Para Controle De Ovulacao (3 Ou Mais), Us Pelvico Transvaginal Para Controle De Ovulacao, Usg Transvaginal Controle De Ovulacao",
+    "ds_exa_rx": "TRANSVAGINAL PARA CONTROLE DE OVULACAO (3 OU MAIS EXAMES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 96,
+    "cd_item_agendamento": 159.0,
+    "ds_item_agendamento": "ULTRASSOM GLOBO OCULAR",
+    "ds_unificacao": "ULTRASSOM GLOBO OCULAR",
+    "alias": "Também conhecido como Ultrassonografia Ocular, Ecografia Ocular",
+    "ds_exa_rx": "GLOBO OCULAR",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 19,
+    "cd_item_agendamento": 24.0,
+    "ds_item_agendamento": "ULTRASSOM TRANSVAGINAL PARA CONTROLE DE OVULACAO",
+    "ds_unificacao": "ULTRASSOM TRANSVAGINAL PARA CONTROLE DE OVULAÇÃO",
+    "alias": "Também conhecido como Us Para Controle De Ovulacao, Us Transvaginal Para Controle De Ovulacao (3 Ou Mais), Us Pelvico Transvaginal Para Controle De Ovulacao, Usg Transvaginal Controle De Ovulacao",
+    "ds_exa_rx": "TRANSVAGINAL PARA CONTROLE DE OVULACAO (3 OU MAIS EXAMES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 25,
+    "cd_item_agendamento": 8838.0,
+    "ds_item_agendamento": "CDI - ULTRASSOM PROSTATA - VIA TRANS-RETAL",
+    "ds_unificacao": "ULTRASSOM DE PRÓSTATA - VIA TRANS-RETAL",
+    "alias": "Também conhecido como Us Transretal, Us Prostata Via Transretal, Us Canal Anal Masculino",
+    "ds_exa_rx": "PROSTATA - VIA TRANS-RETAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 178,
+    "cd_item_agendamento": 276.0,
+    "ds_item_agendamento": "ULTRASSOM ABDOMEN SUPERIOR",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN SUPERIOR",
+    "alias": "Também conhecido como Ultrassonografia abdominal, Ultrassom hepático, Ultrassom de fígado, Ultrassonografia do abdome superior",
+    "ds_exa_rx": "ABDOMEN SUPERIOR(FIGADO,VIAS BILIARES,VESICULA,PANCREAS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 174,
+    "cd_item_agendamento": 272.0,
+    "ds_item_agendamento": "ULTRASSOM APARELHO URINARIO MASCULINO",
+    "ds_unificacao": "ULTRASSOM APARELHO URINÁRIO MASCULINO",
+    "alias": "Também conhecido como Ultrassom renal e vesical, Ultrassonografia do trato urinário masculino, Ultrassom do sistema urinário masculino, Ultrassom de rins e bexiga no homem",
+    "ds_exa_rx": "PROSTATA (VIA ABDOMINAL)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 37,
+    "cd_item_agendamento": 50.0,
+    "ds_item_agendamento": "ULTRASSOM CRANIANA",
+    "ds_unificacao": "ULTRASSOM CRANIANA",
+    "alias": "Também conhecido como Us Fontanela, Us Transfontanela Ou Cranio, Us Cranio",
+    "ds_exa_rx": "CRANIANA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 37,
+    "cd_item_agendamento": 50.0,
+    "ds_item_agendamento": "ULTRASSOM CRANIANA",
+    "ds_unificacao": "ULTRASSOM CRANIANA",
+    "alias": "Também conhecido como Us Fontanela, Us Transfontanela Ou Cranio, Us Cranio",
+    "ds_exa_rx": "CRANIANA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 65,
+    "cd_item_agendamento": 102.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO",
+    "alias": "Também conhecido como Ultrassonografia Obstétrica, Ultrassom Pré-natal, Ultrassonografia Gestacional, Ultrassom de Avaliação Fetal",
+    "ds_exa_rx": "OBSTETRICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 65,
+    "cd_item_agendamento": 102.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO",
+    "alias": "Também conhecido como Ultrassonografia Obstétrica, Ultrassom Pré-natal, Ultrassonografia Gestacional, Ultrassom de Avaliação Fetal",
+    "ds_exa_rx": "OBSTETRICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 93,
+    "cd_item_agendamento": 153.0,
+    "ds_item_agendamento": "ULTRASSOM APARELHO URINARIO FEMININO",
+    "ds_unificacao": "ULTRASSOM APARELHO URINÁRIO FEMININO",
+    "alias": "Também conhecido como Ultrassom renal e vesical, Ultrassonografia do trato urinário feminino, Ultrassom do sistema urinário feminino, Ultrassom de rins e bexiga na mulher",
+    "ds_exa_rx": "APARELHO URINÁRIO (RINS, URETERES E BEXIGA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 93,
+    "cd_item_agendamento": 153.0,
+    "ds_item_agendamento": "ULTRASSOM APARELHO URINARIO FEMININO",
+    "ds_unificacao": "ULTRASSOM APARELHO URINÁRIO FEMININO",
+    "alias": "Também conhecido como Ultrassom renal e vesical, Ultrassonografia do trato urinário feminino, Ultrassom do sistema urinário feminino, Ultrassom de rins e bexiga na mulher",
+    "ds_exa_rx": "APARELHO URINÁRIO (RINS, URETERES E BEXIGA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 94,
+    "cd_item_agendamento": 155.0,
+    "ds_item_agendamento": "ULTRASSOM DE TORAX (EXTRA-CARDIACO)",
+    "ds_unificacao": "ULTRASSOM DE TÓRAX (EXTRA CARDÍACO)",
+    "alias": "Também conhecido como Ultrassom Torácico (Não Cardíaco), Ultrassonografia de Tórax (Excluindo o Coração), Ultrassom de Parede Torácica e Órgãos Adjacentes, Ultrassonografia de Órgãos Torácicos não Cardíacos",
+    "ds_exa_rx": "TORAX (EXTRA-CARDIACO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 94,
+    "cd_item_agendamento": 155.0,
+    "ds_item_agendamento": "ULTRASSOM DE TORAX (EXTRA-CARDIACO)",
+    "ds_unificacao": "ULTRASSOM DE TÓRAX (EXTRA CARDÍACO)",
+    "alias": "Também conhecido como Ultrassom Torácico (Não Cardíaco), Ultrassonografia de Tórax (Excluindo o Coração), Ultrassom de Parede Torácica e Órgãos Adjacentes, Ultrassonografia de Órgãos Torácicos não Cardíacos",
+    "ds_exa_rx": "TORAX (EXTRA-CARDIACO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 94,
+    "cd_item_agendamento": 8844.0,
+    "ds_item_agendamento": "CDI - ULTRASSOM TORAX (EXTRA-CARDIACO)",
+    "ds_unificacao": "ULTRASSOM DE TÓRAX (EXTRA CARDÍACO)",
+    "alias": "Também conhecido como Ultrassom Torácico (Não Cardíaco), Ultrassonografia de Tórax (Excluindo o Coração), Ultrassom de Parede Torácica e Órgãos Adjacentes, Ultrassonografia de Órgãos Torácicos não Cardíacos",
+    "ds_exa_rx": "TORAX (EXTRA-CARDIACO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 96,
+    "cd_item_agendamento": 159.0,
+    "ds_item_agendamento": "ULTRASSOM GLOBO OCULAR",
+    "ds_unificacao": "ULTRASSOM GLOBO OCULAR",
+    "alias": "Também conhecido como Ultrassonografia Ocular, Ecografia Ocular",
+    "ds_exa_rx": "GLOBO OCULAR",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 616,
+    "cd_item_agendamento": 10143.0,
+    "ds_item_agendamento": "ULTRASSOM DE JOELHO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE JOELHO DIREITO",
+    "alias": "Também conhecido como Us Joelho Direito, Us De Ligamentos De Joelho, Us Tendao Patelar, Us Tendao Quadriceps",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 616,
+    "cd_item_agendamento": 10143.0,
+    "ds_item_agendamento": "ULTRASSOM DE JOELHO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE JOELHO DIREITO",
+    "alias": "Também conhecido como Us Joelho Direito, Us De Ligamentos De Joelho, Us Tendao Patelar, Us Tendao Quadriceps",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 616,
+    "cd_item_agendamento": 10143.0,
+    "ds_item_agendamento": "ULTRASSOM DE JOELHO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE JOELHO DIREITO",
+    "alias": "Também conhecido como Us Joelho Direito, Us De Ligamentos De Joelho, Us Tendao Patelar, Us Tendao Quadriceps",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 616,
+    "cd_item_agendamento": 10143.0,
+    "ds_item_agendamento": "ULTRASSOM DE JOELHO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE JOELHO DIREITO",
+    "alias": "Também conhecido como Us Joelho Direito, Us De Ligamentos De Joelho, Us Tendao Patelar, Us Tendao Quadriceps",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 179,
+    "cd_item_agendamento": 277.0,
+    "ds_item_agendamento": "ULTRASSOM DE ESCROTO",
+    "ds_unificacao": "ULTRASSOM DE ESCROTO",
+    "alias": "Também conhecido como Avaliação Testiculo Criptorquidio, Us Testiculos E Cordões Espermáticos, Us Testiculos, Us Vasos Espermaticos",
+    "ds_exa_rx": "ORGAOS SUPERFICIAIS(TIREOIDE OU ESCROTO OU PENIS OU CRANIO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 179,
+    "cd_item_agendamento": 277.0,
+    "ds_item_agendamento": "ULTRASSOM DE ESCROTO",
+    "ds_unificacao": "ULTRASSOM DE ESCROTO",
+    "alias": "Também conhecido como Avaliação Testiculo Criptorquidio, Us Testiculos E Cordões Espermáticos, Us Testiculos, Us Vasos Espermaticos",
+    "ds_exa_rx": "ORGAOS SUPERFICIAIS(TIREOIDE OU ESCROTO OU PENIS OU CRANIO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 179,
+    "cd_item_agendamento": 9002.0,
+    "ds_item_agendamento": "CDI - ULTRASSOM DE ESCROTO",
+    "ds_unificacao": "ULTRASSOM DE ESCROTO",
+    "alias": "Também conhecido como Avaliação Testiculo Criptorquidio, Us Testiculos E Cordões Espermáticos, Us Testiculos, Us Vasos Espermaticos",
+    "ds_exa_rx": "ORGAOS SUPERFICIAIS(TIREOIDE OU ESCROTO OU PENIS OU CRANIO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 184,
+    "cd_item_agendamento": 282.0,
+    "ds_item_agendamento": "BIOPSIA DE PAREDE ABDOMINAL POR ULTRASSOM",
+    "ds_unificacao": "BIÓPSIA DE PAREDE ABDOMINAL POR ULTRASSOM",
+    "alias": "Também conhecido como Biopsia De Parede Abdominal Por Ultrassom",
+    "ds_exa_rx": "BIOPSIA DE PAREDE ABDOMINAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 184,
+    "cd_item_agendamento": 282.0,
+    "ds_item_agendamento": "BIOPSIA DE PAREDE ABDOMINAL POR ULTRASSOM",
+    "ds_unificacao": "BIÓPSIA DE PAREDE ABDOMINAL POR ULTRASSOM",
+    "alias": "Também conhecido como Biopsia De Parede Abdominal Por Ultrassom",
+    "ds_exa_rx": "BIOPSIA DE PAREDE ABDOMINAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 185,
+    "cd_item_agendamento": 283.0,
+    "ds_item_agendamento": "BIOPSIA DE TIREOIDE POR ULTRASSOM",
+    "ds_unificacao": "BIÓPSIA DE TIREÓIDE POR ULTRASSOM",
+    "alias": "Também conhecido como Puncao De Tireoide, Paaf Tireoide Guia Por Us, Paaf De Tireoide, Biopsia De Parotidas",
+    "ds_exa_rx": "BIOPSIA DE TIREOIDE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 186,
+    "cd_item_agendamento": 284.0,
+    "ds_item_agendamento": "PUNCAO BIOPSIA/ASPIRATIVA, ORIENTADA POR RX, US OU CT (ACRES",
+    "ds_unificacao": "PUNÇÃO BIÓPSIA/ASPIRATIVA, ORIENTADA POR RX, US OU CT (ACRES",
+    "alias": "Também conhecido como Puncao Biopsia/Aspirativa, Orientada Por Rx, Us Ou Ct (Acres",
+    "ds_exa_rx": "PUNCAO PERCUTANEA DE ORGAOS E CAVIDADES OU ESPAÇO ANATOMICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 186,
+    "cd_item_agendamento": 284.0,
+    "ds_item_agendamento": "PUNCAO BIOPSIA/ASPIRATIVA, ORIENTADA POR RX, US OU CT (ACRES",
+    "ds_unificacao": "PUNÇÃO BIÓPSIA/ASPIRATIVA, ORIENTADA POR RX, US OU CT (ACRES",
+    "alias": "Também conhecido como Puncao Biopsia/Aspirativa, Orientada Por Rx, Us Ou Ct (Acres",
+    "ds_exa_rx": "PUNCAO PERCUTANEA DE ORGAOS E CAVIDADES OU ESPAÇO ANATOMICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 189,
+    "cd_item_agendamento": 290.0,
+    "ds_item_agendamento": "MARCACAO PRE-CIRURGICA POR NODULO - ORIENTADA POR ULTRASSOM",
+    "ds_unificacao": "MARCAÇÃO PRÉ-CIRÚRGICA POR NÓDULO - ORIENTADA POR ULTRASSOM",
+    "alias": "Também conhecido como Marcação Pré-cirúrgica de Nódulo por Ultrassonografia, Marcação para Cirurgia de Nódulo Orientada por Ultrassom, Marcação Ultrassonográfica para Procedimento Cirúrgico, Marcação Cirúrgica de Lesão Nodular por Ultrassom",
+    "ds_exa_rx": "MARCACAO PRE-CIRURGICA POR NODULO - ORIENTADA POR US",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 189,
+    "cd_item_agendamento": 290.0,
+    "ds_item_agendamento": "MARCACAO PRE-CIRURGICA POR NODULO - ORIENTADA POR ULTRASSOM",
+    "ds_unificacao": "MARCAÇÃO PRÉ-CIRÚRGICA POR NÓDULO - ORIENTADA POR ULTRASSOM",
+    "alias": "Também conhecido como Marcação Pré-cirúrgica de Nódulo por Ultrassonografia, Marcação para Cirurgia de Nódulo Orientada por Ultrassom, Marcação Ultrassonográfica para Procedimento Cirúrgico, Marcação Cirúrgica de Lesão Nodular por Ultrassom",
+    "ds_exa_rx": "MARCACAO PRE-CIRURGICA POR NODULO - ORIENTADA POR US",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 190,
+    "cd_item_agendamento": 291.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM TRANSLUCENCIA NUCAL",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM TRANSLUSCÊNCIA NUCAL",
+    "alias": "Também conhecido como Us Obstetrica Com Translucencia Nucal, Us Translucencia Nucal",
+    "ds_exa_rx": "OBSTETRICO COM TRANSLUCENCIA NUCAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 190,
+    "cd_item_agendamento": 291.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM TRANSLUCENCIA NUCAL",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM TRANSLUSCÊNCIA NUCAL",
+    "alias": "Também conhecido como Us Obstetrica Com Translucencia Nucal, Us Translucencia Nucal",
+    "ds_exa_rx": "OBSTETRICO COM TRANSLUCENCIA NUCAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 190,
+    "cd_item_agendamento": 9154.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM TRANSLUCENCIA NUCAL (PR)",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM TRANSLUSCÊNCIA NUCAL (PR)",
+    "alias": "Também conhecido como Us Obstetrica Com Translucencia Nucal, Us Translucencia Nucal",
+    "ds_exa_rx": "OBSTETRICO COM TRANSLUCENCIA NUCAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 190,
+    "cd_item_agendamento": 9154.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM TRANSLUCENCIA NUCAL (PR)",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM TRANSLUSCÊNCIA NUCAL (PR)",
+    "alias": "Também conhecido como Us Obstetrica Com Translucencia Nucal, Us Translucencia Nucal",
+    "ds_exa_rx": "OBSTETRICO COM TRANSLUCENCIA NUCAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 196,
+    "cd_item_agendamento": 301.0,
+    "ds_item_agendamento": "ULTRASSOM PELVICO GINECOLOGICO",
+    "ds_unificacao": "ULTRASSOM PÉLVICO GINECOLÓGICO",
+    "alias": "Também conhecido como Us Abdomen Inferior Ou Abdomen Baixo, Us Genitais Internos E Anexos, Us Pélvico Feminino Com Medida De Resíduo Pós-Miccional, Us Pelvica Ginecologica",
+    "ds_exa_rx": "PELVICA (GINECOLOGICA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 196,
+    "cd_item_agendamento": 301.0,
+    "ds_item_agendamento": "ULTRASSOM PELVICO GINECOLOGICO",
+    "ds_unificacao": "ULTRASSOM PÉLVICO GINECOLÓGICO",
+    "alias": "Também conhecido como Us Abdomen Inferior Ou Abdomen Baixo, Us Genitais Internos E Anexos, Us Pélvico Feminino Com Medida De Resíduo Pós-Miccional, Us Pelvica Ginecologica",
+    "ds_exa_rx": "PELVICA (GINECOLOGICA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 551,
+    "cd_item_agendamento": 8563.0,
+    "ds_item_agendamento": "PUNCAO OU BIOPSIA MAMARIA PERCUTANEA POR AGULHA FINA POR TOMOGRAFIA",
+    "ds_unificacao": "PUNÇÃO OU BIÓPSIA MAMÁRIA PERCUTÂNEA POR AGULHA FINA POR TOMOGRAFIA",
+    "alias": "Também conhecido como Punção ou Biópsia Mamária por Agulha Fina Orientada por Tomografia Computadorizada, Biopsia Percutânea Mamária por Agulha Fina com Auxílio de Tomografia, Procedimento de Punção Mamária por Agulha Fina Guiada por Tomografia, Biópsia Mamária por Agulha Fina Assistida por Tomografia",
+    "ds_exa_rx": "PUNCAO OU BIOPSIA MAMARIA PER. POR AGULHA FINA POR TC",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 178,
+    "cd_item_agendamento": 276.0,
+    "ds_item_agendamento": "ULTRASSOM ABDOMEN SUPERIOR",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN SUPERIOR",
+    "alias": "Também conhecido como Ultrassonografia abdominal, Ultrassom hepático, Ultrassom de fígado, Ultrassonografia do abdome superior",
+    "ds_exa_rx": "ABDOMEN SUPERIOR(FIGADO,VIAS BILIARES,VESICULA,PANCREAS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 570,
+    "cd_item_agendamento": 8630.0,
+    "ds_item_agendamento": "ULTRASSOM DOPPLER TRANSCRANIANO COM MICROBOLHAS",
+    "ds_unificacao": "ULTRASSOM DOPPLER TRANSCRANIANO COM MICROBOLHAS",
+    "alias": "Também conhecido como Ultrassom Doppler Transcraniano com Contraste de Microbolhas, Ultrassonografia Doppler Transcraniana com Agentes de Contraste de Microbolhas, Ultrassonografia Doppler Transcraniana com Injeção de Microbolhas",
+    "ds_exa_rx": "DOPPLER TRANSCRANIANO COM MICROBOLHAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 580,
+    "cd_item_agendamento": 9143.0,
+    "ds_item_agendamento": "ULTRASSOM DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA (PR)",
+    "ds_unificacao": "ULTRASSOM DOPPLER COLORIDO DE ÓRGÃO OU ESTRUTURA ISOLADA (PR)",
+    "alias": "Também conhecido como Us Doppler Colorido De Orgao Ou Estrutura Isolada(Ex: Rins, Massa, Nodulo, Ovario",
+    "ds_exa_rx": "DOPPLER COLORIDO DE ORGAO OU ESTRUTURA ISOLADA (EX: RINS,",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 581,
+    "cd_item_agendamento": 9144.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM PERFIL BIOFISICO FETAL (PR)",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM PERFIL BIOFÍSICO FETAL (PR)",
+    "alias": "Também conhecido como Us Obstetrico Com Perfil Biofisico Fetal (Gemelar), Us Obstetrico Com Perfil Biofisico Gemelar",
+    "ds_exa_rx": "OBSTETRICA COM PERFIL BIOFISICO FETAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 582,
+    "cd_item_agendamento": 9145.0,
+    "ds_item_agendamento": "ULTRASSOM PELVICA TRANSVAGINAL OU ENDOVAGINAL (PR)",
+    "ds_unificacao": "ULTRASSOM PÉLVICA TRANSVAGINAL OU ENDOVAGINAL (PR)",
+    "alias": "Também conhecido como Us Pelve Femin Transvesical E Endovaginal, Us Pelve Femin Transvesical E Transvaginal, Us Pelvico E Vaginal, Us Pelvica Endovaginal, Usg Pelvico Via Transvaginal, Us Pelvico Transvaginal, Usg Pelvico Transvaginal, Ultrassom Pelvico Transvaginal",
+    "ds_exa_rx": "TRANSVAGINAL PARA ENDOMETRIOSE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 582,
+    "cd_item_agendamento": 9145.0,
+    "ds_item_agendamento": "ULTRASSOM PELVICA TRANSVAGINAL OU ENDOVAGINAL (PR)",
+    "ds_unificacao": "ULTRASSOM PÉLVICA TRANSVAGINAL OU ENDOVAGINAL (PR)",
+    "alias": "Também conhecido como Us Pelve Femin Transvesical E Endovaginal, Us Pelve Femin Transvesical E Transvaginal, Us Pelvico E Vaginal, Us Pelvica Endovaginal, Usg Pelvico Via Transvaginal, Us Pelvico Transvaginal, Usg Pelvico Transvaginal, Ultrassom Pelvico Transvaginal",
+    "ds_exa_rx": "TRANSVAGINAL PARA ENDOMETRIOSE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 586,
+    "cd_item_agendamento": 9902.0,
+    "ds_item_agendamento": "ULTRASSOM DERMATOLOGICO",
+    "ds_unificacao": "ULTRASSOM DERMATOLÓGICO",
+    "alias": "Também conhecido como Ultrassonografia Dermatológica, Ultrassom Cutâneo, Ultrassonografia de Pele, Ultrassom de Superfície Cutânea",
+    "ds_exa_rx": "ESTRUTURAS SUPERFICIAIS (CERVICAL OU AXILAS OU MÚSCULO OU TE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 586,
+    "cd_item_agendamento": 9902.0,
+    "ds_item_agendamento": "ULTRASSOM DERMATOLOGICO",
+    "ds_unificacao": "ULTRASSOM DERMATOLÓGICO",
+    "alias": "Também conhecido como Ultrassonografia Dermatológica, Ultrassom Cutâneo, Ultrassonografia de Pele, Ultrassom de Superfície Cutânea",
+    "ds_exa_rx": "ESTRUTURAS SUPERFICIAIS (CERVICAL OU AXILAS OU MÚSCULO OU TE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 588,
+    "cd_item_agendamento": 9922.0,
+    "ds_item_agendamento": "ULTRASSOM PAREDE ABDOMINAL",
+    "ds_unificacao": "ULTRASSOM PAREDE ABDOMINAL",
+    "alias": "Também conhecido como Us Parede Abdominal, Us Umbilical, Usg Parede Abdominal, Ultrassom De Parede Abdominal",
+    "ds_exa_rx": "ESTRUTURAS SUPERFICIAIS (CERVICAL OU AXILAS OU MÚSCULO OU TE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 614,
+    "cd_item_agendamento": 10141.0,
+    "ds_item_agendamento": "ULTRASSOM DE COTOVELO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE COTOVELO DIREITO",
+    "alias": "Também conhecido como Us Epicondilo, Us Fossa Olecraniana, Us Supracondileana Umeral Unilateral, Us Artilacoes",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 616,
+    "cd_item_agendamento": 10143.0,
+    "ds_item_agendamento": "ULTRASSOM DE JOELHO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE JOELHO DIREITO",
+    "alias": "Também conhecido como Us Joelho Direito, Us De Ligamentos De Joelho, Us Tendao Patelar, Us Tendao Quadriceps",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 616,
+    "cd_item_agendamento": 10143.0,
+    "ds_item_agendamento": "ULTRASSOM DE JOELHO DIREITO",
+    "ds_unificacao": "ULTRASSOM DE JOELHO DIREITO",
+    "alias": "Também conhecido como Us Joelho Direito, Us De Ligamentos De Joelho, Us Tendao Patelar, Us Tendao Quadriceps",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 96,
+    "cd_item_agendamento": 159.0,
+    "ds_item_agendamento": "ULTRASSOM GLOBO OCULAR",
+    "ds_unificacao": "ULTRASSOM GLOBO OCULAR",
+    "alias": "Também conhecido como Ultrassonografia Ocular, Ecografia Ocular",
+    "ds_exa_rx": "GLOBO OCULAR",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 96,
+    "cd_item_agendamento": 159.0,
+    "ds_item_agendamento": "ULTRASSOM GLOBO OCULAR",
+    "ds_unificacao": "ULTRASSOM GLOBO OCULAR",
+    "alias": "Também conhecido como Ultrassonografia Ocular, Ecografia Ocular",
+    "ds_exa_rx": "GLOBO OCULAR",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 173,
+    "cd_item_agendamento": 9150.0,
+    "ds_item_agendamento": "ULTRASSOM DE MAMAS (PR)",
+    "ds_unificacao": "ULTRASSOM DE MAMAS (PR)",
+    "alias": "Também conhecido como Us Mamas E Axilas, Ecomastografia, Us Botao Mamario, Ultrassom De Mamas",
+    "ds_exa_rx": "US MAMAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 323,
+    "cd_item_agendamento": 549.0,
+    "ds_item_agendamento": "ULTRASSOM GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "ds_unificacao": "ULTRASSOM GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "alias": "Também conhecido como Ultrassonografia Ocular com Doppler Colorido Bilateral",
+    "ds_exa_rx": "GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 237,
+    "cd_item_agendamento": 352.0,
+    "ds_item_agendamento": "ULTRASSOM DOPPLER DAS ARTERIAS ILIACAS",
+    "ds_unificacao": "ULTRASSOM DOPPLER DAS ARTÉRIAS ILÍACAS",
+    "alias": "Também conhecido como Ultrassom Doppler Colorido das Artérias Ilíacas, Ultrassonografia Doppler das Artérias Ilíacas, Doppler das Artérias Ilíacas, Ultrassonografia Vascular das Artérias Ilíacas",
+    "ds_exa_rx": "DOPPLER COLORIDO DE AORTA E ILIACAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 171,
+    "cd_item_agendamento": 9149.0,
+    "ds_item_agendamento": "ULTRASSOM ABDOME INFERIOR MASCULINO (PR)",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN INFERIOR MASCULINO (PR)",
+    "alias": "Também conhecido como Us Transabominal Mapeamento Pelvico, Us Trans Abdominal, Us Supra Pubico, Us Prostata Trans-Pelvico",
+    "ds_exa_rx": "ABDOME INFERIOR MASC. (BEXIGA,PROSTATA E VESICULAS SEMINAIS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 171,
+    "cd_item_agendamento": 268.0,
+    "ds_item_agendamento": "ULTRASSOM ABDOME INFERIOR MASCULINO",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN INFERIOR MASCULINO",
+    "alias": "Também conhecido como Us Transabominal Mapeamento Pelvico, Us Trans Abdominal, Us Supra Pubico, Us Prostata Trans-Pelvico",
+    "ds_exa_rx": "ABDOME INFERIOR MASC. (BEXIGA,PROSTATA E VESICULAS SEMINAIS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 284,
+    "cd_item_agendamento": 9158.0,
+    "ds_item_agendamento": "ULTRASSOM TRANSVAGINAL (INCLUI ABDOME INFERIOR FEMININO) (PR)",
+    "ds_unificacao": "ULTRASSOM TRANSVAGINAL (INCLUI ABDÔMEN INFERIOR FEMININO) (PR)",
+    "alias": "Também conhecido como Us Pelve Femin Transvesical E Endovaginal, Us Pelve Femin Transvesical E Transvaginal, Us Pelvico E Vaginal, Us Pelvica Endovaginal",
+    "ds_exa_rx": "TRANSVAGINAL(INCLUI ABDOME INFERIOR FEMININO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 284,
+    "cd_item_agendamento": 9158.0,
+    "ds_item_agendamento": "ULTRASSOM TRANSVAGINAL (INCLUI ABDOME INFERIOR FEMININO) (PR)",
+    "ds_unificacao": "ULTRASSOM TRANSVAGINAL (INCLUI ABDÔMEN INFERIOR FEMININO) (PR)",
+    "alias": "Também conhecido como Us Pelve Femin Transvesical E Endovaginal, Us Pelve Femin Transvesical E Transvaginal, Us Pelvico E Vaginal, Us Pelvica Endovaginal",
+    "ds_exa_rx": "TRANSVAGINAL(INCLUI ABDOME INFERIOR FEMININO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 284,
+    "cd_item_agendamento": 9158.0,
+    "ds_item_agendamento": "ULTRASSOM TRANSVAGINAL (INCLUI ABDOME INFERIOR FEMININO) (PR)",
+    "ds_unificacao": "ULTRASSOM TRANSVAGINAL (INCLUI ABDÔMEN INFERIOR FEMININO) (PR)",
+    "alias": "Também conhecido como Us Pelve Femin Transvesical E Endovaginal, Us Pelve Femin Transvesical E Transvaginal, Us Pelvico E Vaginal, Us Pelvica Endovaginal",
+    "ds_exa_rx": "TRANSVAGINAL(INCLUI ABDOME INFERIOR FEMININO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 170,
+    "cd_item_agendamento": 267.0,
+    "ds_item_agendamento": "ULTRASSOM DOPPLER COLORIDO DE ÓRGÃO OU ESTRUTURA ISOLADA",
+    "ds_unificacao": "ULTRASSOM DOPPLER COLORIDO DE ÓRGÃO OU ESTRUTURA ISOLADA",
+    "alias": "Também conhecido como Us Doppler Colorido De Orgao Ou Estrutura Isolada(Ex: Rins, Massa, Nodulo, Ovario",
+    "ds_exa_rx": "DOPPLER COLORIDO 3 OU MAIS VASOS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 167,
+    "cd_item_agendamento": 264.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM DOPPLER COLORIDO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM DOPPLER COLORIDO",
+    "alias": "Também conhecido como Us Gestacional C/Doppler, Us Gestacional Com Doppler Colorido, Us Obstetrico + Dopplerfluxometria, Us Dopplerfluxometria Obsterico",
+    "ds_exa_rx": "OBSTETRICA COM DOPPLER COLORIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 291,
+    "cd_item_agendamento": 468.0,
+    "ds_item_agendamento": "DRENAGEM PERCUTANEA ORIENTADA POR ULTRASSOM",
+    "ds_unificacao": "DRENAGEM PERCUTÂNEA ORIENTADA POR ULTRASSOM",
+    "alias": "Também conhecido como DPOU",
+    "ds_exa_rx": "DRENAGEM PERCUTANEA ORIENTADA POR US (ACRESCENTAR O EXAME DE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 291,
+    "cd_item_agendamento": 468.0,
+    "ds_item_agendamento": "DRENAGEM PERCUTANEA ORIENTADA POR ULTRASSOM",
+    "ds_unificacao": "DRENAGEM PERCUTÂNEA ORIENTADA POR ULTRASSOM",
+    "alias": "Também conhecido como DPOU",
+    "ds_exa_rx": "DRENAGEM PERCUTANEA ORIENTADA POR US (ACRESCENTAR O EXAME DE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 292,
+    "cd_item_agendamento": 470.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO GESTACAO MULTIPLA: CADA FETO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO GESTAÇÃO MÚLTIPLA: CADA FETO",
+    "alias": "Também conhecido como Us Obsterico Cada Feto",
+    "ds_exa_rx": "OBSTETRICA GESTACAO MULTIPLA : CADA FETO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 292,
+    "cd_item_agendamento": 470.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO GESTACAO MULTIPLA: CADA FETO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO GESTAÇÃO MÚLTIPLA: CADA FETO",
+    "alias": "Também conhecido como Us Obsterico Cada Feto",
+    "ds_exa_rx": "OBSTETRICA GESTACAO MULTIPLA : CADA FETO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 323,
+    "cd_item_agendamento": 549.0,
+    "ds_item_agendamento": "ULTRASSOM GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "ds_unificacao": "ULTRASSOM GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "alias": "Também conhecido como Ultrassonografia Ocular com Doppler Colorido Bilateral",
+    "ds_exa_rx": "GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 323,
+    "cd_item_agendamento": 549.0,
+    "ds_item_agendamento": "ULTRASSOM GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "ds_unificacao": "ULTRASSOM GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "alias": "Também conhecido como Ultrassonografia Ocular com Doppler Colorido Bilateral",
+    "ds_exa_rx": "GLOBO OCULAR COM DOPPLER COLORIDO-BILATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 65,
+    "cd_item_agendamento": 102.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO",
+    "alias": "Também conhecido como Ultrassonografia Obstétrica, Ultrassom Pré-natal, Ultrassonografia Gestacional, Ultrassom de Avaliação Fetal",
+    "ds_exa_rx": "OBSTETRICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 97,
+    "cd_item_agendamento": 160.0,
+    "ds_item_agendamento": "ULTRASSOM DE TIREOIDE",
+    "ds_unificacao": "ULTRASSOM DE TIREÓIDE",
+    "alias": "Também conhecido como Us Tireoide, Ultrassom De Tireoide Simples, Ultrassonografia De Tireoide, Usg Tireoide",
+    "ds_exa_rx": "ORGAOS SUPERFICIAIS (TIREOIDE OU ESCROTO OU PENIS OU CRANIO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 65,
+    "cd_item_agendamento": 102.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO",
+    "alias": "Também conhecido como Ultrassonografia Obstétrica, Ultrassom Pré-natal, Ultrassonografia Gestacional, Ultrassom de Avaliação Fetal",
+    "ds_exa_rx": "OBSTETRICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 93,
+    "cd_item_agendamento": 153.0,
+    "ds_item_agendamento": "ULTRASSOM APARELHO URINARIO FEMININO",
+    "ds_unificacao": "ULTRASSOM APARELHO URINÁRIO FEMININO",
+    "alias": "Também conhecido como Ultrassom renal e vesical, Ultrassonografia do trato urinário feminino, Ultrassom do sistema urinário feminino, Ultrassom de rins e bexiga na mulher",
+    "ds_exa_rx": "APARELHO URINÁRIO (RINS, URETERES E BEXIGA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 93,
+    "cd_item_agendamento": 153.0,
+    "ds_item_agendamento": "ULTRASSOM APARELHO URINARIO FEMININO",
+    "ds_unificacao": "ULTRASSOM APARELHO URINÁRIO FEMININO",
+    "alias": "Também conhecido como Ultrassom renal e vesical, Ultrassonografia do trato urinário feminino, Ultrassom do sistema urinário feminino, Ultrassom de rins e bexiga na mulher",
+    "ds_exa_rx": "APARELHO URINÁRIO (RINS, URETERES E BEXIGA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 93,
+    "cd_item_agendamento": 9147.0,
+    "ds_item_agendamento": "ULTRASSOM APARELHO URINARIO FEMININO (PR)",
+    "ds_unificacao": "ULTRASSOM APARELHO URINÁRIO FEMININO (PR)",
+    "alias": "Também conhecido como Ultrassom renal e vesical, Ultrassonografia do trato urinário feminino, Ultrassom do sistema urinário feminino, Ultrassom de rins e bexiga na mulher",
+    "ds_exa_rx": "APARELHO URINÁRIO (RINS, URETERES E BEXIGA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 94,
+    "cd_item_agendamento": 155.0,
+    "ds_item_agendamento": "ULTRASSOM DE TORAX (EXTRA-CARDIACO)",
+    "ds_unificacao": "ULTRASSOM DE TÓRAX (EXTRA CARDÍACO)",
+    "alias": "Também conhecido como Ultrassom Torácico (Não Cardíaco), Ultrassonografia de Tórax (Excluindo o Coração), Ultrassom de Parede Torácica e Órgãos Adjacentes, Ultrassonografia de Órgãos Torácicos não Cardíacos",
+    "ds_exa_rx": "TORAX (EXTRA-CARDIACO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 97,
+    "cd_item_agendamento": 9153.0,
+    "ds_item_agendamento": "ULTRASSOM DE TIREOIDE (PR)",
+    "ds_unificacao": "ULTRASSOM DE TIREÓIDE (PR)",
+    "alias": "Também conhecido como Us Tireoide, Ultrassom De Tireoide Simples, Ultrassonografia De Tireoide, Usg Tireoide",
+    "ds_exa_rx": "ORGAOS SUPERFICIAIS(TIREOIDE OU ESCROTO OU PENIS OU CRANIO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 105,
+    "cd_item_agendamento": 178.0,
+    "ds_item_agendamento": "ULTRASSOM DE TORNOZELO ESQUERDO",
+    "ds_unificacao": "ULTRASSOM DE TORNOZELO ESQUERDO",
+    "alias": "Também conhecido como Ultrassonografia de Tornozelo Esquerdo, Ultrassonografia Doppler do Tornozelo Esquerdo, Ultrassom para Lesões ou Traumas no Tornozelo Esquerdo, Ultrassom Musculoesquelético do Tornozelo Esquerdo",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 129,
+    "cd_item_agendamento": 210.0,
+    "ds_item_agendamento": "ULTRASSOM DOPPLER COLORIDO DE AORTA E ILIACAS",
+    "ds_unificacao": "ULTRASSOM DOPPLER COLORIDO DE AORTA E ILÍACAS",
+    "alias": "Também conhecido como Ultrassonografia Doppler Colorido de Aorta Abdominal e Artérias Ilíacas, Eco-Doppler Colorido de Aorta e Ilíacas, Ultrassonografia Vascular de Aorta e Artérias Ilíacas com Doppler Colorido, Exame de Ultrassom Doppler para Avaliação da Aorta e Artérias Ilíacas",
+    "ds_exa_rx": "DOPPLER COLORIDO DE AORTA E ILIACAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 129,
+    "cd_item_agendamento": 8851.0,
+    "ds_item_agendamento": "CDI - ULTRASSOM DOPPLER COLORIDO DE AORTA E ILIACAS",
+    "ds_unificacao": "ULTRASSOM DOPPLER COLORIDO DE AORTA E ILÍACAS",
+    "alias": "Também conhecido como Ultrassonografia Doppler Colorido de Aorta Abdominal e Artérias Ilíacas, Eco-Doppler Colorido de Aorta e Ilíacas, Ultrassonografia Vascular de Aorta e Artérias Ilíacas com Doppler Colorido, Exame de Ultrassom Doppler para Avaliação da Aorta e Artérias Ilíacas",
+    "ds_exa_rx": "DOPPLER COLORIDO DE AORTA E ILIACAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 167,
+    "cd_item_agendamento": 264.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM DOPPLER COLORIDO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM DOPPLER COLORIDO",
+    "alias": "Também conhecido como Us Gestacional C/Doppler, Us Gestacional Com Doppler Colorido, Us Obstetrico + Dopplerfluxometria, Us Dopplerfluxometria Obsterico",
+    "ds_exa_rx": "OBSTETRICA COM DOPPLER COLORIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 167,
+    "cd_item_agendamento": 264.0,
+    "ds_item_agendamento": "ULTRASSOM OBSTETRICO COM DOPPLER COLORIDO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM DOPPLER COLORIDO",
+    "alias": "Também conhecido como Us Gestacional C/Doppler, Us Gestacional Com Doppler Colorido, Us Obstetrico + Dopplerfluxometria, Us Dopplerfluxometria Obsterico",
+    "ds_exa_rx": "OBSTETRICA COM DOPPLER COLORIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 167,
+    "cd_item_agendamento": 8825.0,
+    "ds_item_agendamento": "CDI - ULTRASSOM OBSTETRICA COM DOPPLER COLORIDO",
+    "ds_unificacao": "ULTRASSOM OBSTÉTRICO COM DOPPLER COLORIDO",
+    "alias": "Também conhecido como Us Gestacional C/Doppler, Us Gestacional Com Doppler Colorido, Us Obstetrico + Dopplerfluxometria, Us Dopplerfluxometria Obsterico",
+    "ds_exa_rx": "OBSTETRICA COM DOPPLER COLORIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 170,
+    "cd_item_agendamento": 267.0,
+    "ds_item_agendamento": "ULTRASSOM DOPPLER COLORIDO DE ÓRGÃO OU ESTRUTURA ISOLADA",
+    "ds_unificacao": "ULTRASSOM DOPPLER COLORIDO DE ÓRGÃO OU ESTRUTURA ISOLADA",
+    "alias": "Também conhecido como Us Doppler Colorido De Orgao Ou Estrutura Isolada(Ex: Rins, Massa, Nodulo, Ovario",
+    "ds_exa_rx": "DOPPLER COLORIDO 3 OU MAIS VASOS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 171,
+    "cd_item_agendamento": 8826.0,
+    "ds_item_agendamento": "CDI - ULTRASSOM ABDOME INFERIOR MASCULINO",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN INFERIOR MASCULINO",
+    "alias": "Também conhecido como Us Transabominal Mapeamento Pelvico, Us Trans Abdominal, Us Supra Pubico, Us Prostata Trans-Pelvico",
+    "ds_exa_rx": "ABDOME INFERIOR MASC. (BEXIGA,PROSTATA E VESICULAS SEMINAIS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 236,
+    "cd_item_agendamento": 351.0,
+    "ds_item_agendamento": "ULTRASSOM ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN TOTAL (INCLUI ABDÔMEN INFERIOR)",
+    "alias": "Também conhecido como Us Abdome Superior E Trato Urinario, Us Abdominal Total, Ultrassom Abdomen Total, Usg Abdomen Total",
+    "ds_exa_rx": "ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 236,
+    "cd_item_agendamento": 351.0,
+    "ds_item_agendamento": "ULTRASSOM ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN TOTAL (INCLUI ABDÔMEN INFERIOR)",
+    "alias": "Também conhecido como Us Abdome Superior E Trato Urinario, Us Abdominal Total, Ultrassom Abdomen Total, Usg Abdomen Total",
+    "ds_exa_rx": "ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 236,
+    "cd_item_agendamento": 351.0,
+    "ds_item_agendamento": "ULTRASSOM ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN TOTAL (INCLUI ABDÔMEN INFERIOR)",
+    "alias": "Também conhecido como Us Abdome Superior E Trato Urinario, Us Abdominal Total, Ultrassom Abdomen Total, Usg Abdomen Total",
+    "ds_exa_rx": "ABDOME TOTAL (INCLUI ABDOME INFERIOR)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 171,
+    "cd_item_agendamento": 9149.0,
+    "ds_item_agendamento": "ULTRASSOM ABDOME INFERIOR MASCULINO (PR)",
+    "ds_unificacao": "ULTRASSOM ABDÔMEN INFERIOR MASCULINO (PR)",
+    "alias": "Também conhecido como Us Transabominal Mapeamento Pelvico, Us Trans Abdominal, Us Supra Pubico, Us Prostata Trans-Pelvico",
+    "ds_exa_rx": "ABDOME INFERIOR MASC. (BEXIGA,PROSTATA E VESICULAS SEMINAIS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 97,
+    "cd_item_agendamento": 160.0,
+    "ds_item_agendamento": "ULTRASSOM DE TIREOIDE",
+    "ds_unificacao": "ULTRASSOM DE TIREÓIDE",
+    "alias": "Também conhecido como Us Tireoide, Ultrassom De Tireoide Simples, Ultrassonografia De Tireoide, Usg Tireoide",
+    "ds_exa_rx": "ORGAOS SUPERFICIAIS (TIREOIDE OU ESCROTO OU PENIS OU CRANIO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 97,
+    "cd_item_agendamento": 9153.0,
+    "ds_item_agendamento": "ULTRASSOM DE TIREOIDE (PR)",
+    "ds_unificacao": "ULTRASSOM DE TIREÓIDE (PR)",
+    "alias": "Também conhecido como Us Tireoide, Ultrassom De Tireoide Simples, Ultrassonografia De Tireoide, Usg Tireoide",
+    "ds_exa_rx": "ORGAOS SUPERFICIAIS(TIREOIDE OU ESCROTO OU PENIS OU CRANIO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 387,
+    "cd_item_agendamento": 667.0,
+    "ds_item_agendamento": "PARACENTESE ORIENTADA POR ULTRASSOM",
+    "ds_unificacao": "PARACENTESE ORIENTADA POR ULTRASSOM",
+    "alias": "Também conhecido como Paracentese Guiada por Ultrassom, Drenagem Abdominal Orientada por Ultrassonografia, Punção Aspirativa por Ultrassom no Abdômen, Paracentese Assistida por Ultrassonografia",
+    "ds_exa_rx": "PARACENTESE ORIENTADA POR US",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 409,
+    "cd_item_agendamento": 710.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA OU ULTRASSOM",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA OU ULTRASSOM",
+    "alias": "Também conhecido como Biópsia Mamária Estereotáxica/Ultrassonográfica, Mamotomia com Estereotaxia e Ultrassom, Biópsia Mamária Guiada por Estereotaxia ou Ultrassom, Mamotomia Estereotáxica e Ultrassonográfica",
+    "ds_exa_rx": "MAMOTOMIA POR US",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 409,
+    "cd_item_agendamento": 710.0,
+    "ds_item_agendamento": "MAMOTOMIA POR ESTEREOTAXIA OU ULTRASSOM",
+    "ds_unificacao": "MAMOTOMIA POR ESTEREOTAXIA OU ULTRASSOM",
+    "alias": "Também conhecido como Biópsia Mamária Estereotáxica/Ultrassonográfica, Mamotomia com Estereotaxia e Ultrassom, Biópsia Mamária Guiada por Estereotaxia ou Ultrassom, Mamotomia Estereotáxica e Ultrassonográfica",
+    "ds_exa_rx": "MAMOTOMIA POR US",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 412,
+    "cd_item_agendamento": 2201.0,
+    "ds_item_agendamento": "ULTRASSOM DE MUSCULO",
+    "ds_unificacao": "ULTRASSOM DE MÚSCULO",
+    "alias": "Também conhecido como Ultrassonografia Muscular, Ecografia Muscular, Ultrassom de Tecidos Moles, Ultrassonografia de Músculos",
+    "ds_exa_rx": "ESTRUTURAS SUPERFICIAIS (CERVICAL OU AXILAS OU MÚSCULO OU TE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 415,
+    "cd_item_agendamento": 2261.0,
+    "ds_item_agendamento": "ULTRASSOM TRANSVAGINAL PARA ENDOMETRIOSE",
+    "ds_unificacao": "ULTRASSOM TRANSVAGINAL PARA ENDOMETRIOSE",
+    "alias": "Também conhecido como Ultrassom Transvaginal para Endometriose, Ultrassonografia Pélvica Transvaginal para Endometriose, Ultrassom Ginecológico Transvaginal para Endometriose, Ultrassonografia Endovaginal para Endometriose",
+    "ds_exa_rx": "TRANSVAGINAL PARA ENDOMETRIOSE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 415,
+    "cd_item_agendamento": 2261.0,
+    "ds_item_agendamento": "ULTRASSOM TRANSVAGINAL PARA ENDOMETRIOSE",
+    "ds_unificacao": "ULTRASSOM TRANSVAGINAL PARA ENDOMETRIOSE",
+    "alias": "Também conhecido como Ultrassom Transvaginal para Endometriose, Ultrassonografia Pélvica Transvaginal para Endometriose, Ultrassom Ginecológico Transvaginal para Endometriose, Ultrassonografia Endovaginal para Endometriose",
+    "ds_exa_rx": "TRANSVAGINAL PARA ENDOMETRIOSE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 416,
+    "cd_item_agendamento": 8934.0,
+    "ds_item_agendamento": "CDI - ULTRASSOM DE JOELHO ESQUERDO",
+    "ds_unificacao": "ULTRASSOM DE JOELHO ESQUERDO",
+    "alias": "Também conhecido como Us Joelho Esquerdo, Us De Ligamentos De Joelho, Us Tendao Patelar, Us Tendao Quadriceps",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 418,
+    "cd_item_agendamento": 8936.0,
+    "ds_item_agendamento": "CDI - ULTRASSOM DE PUNHO ESQUERDO",
+    "ds_unificacao": "ULTRASSOM DE PUNHO ESQUERDO",
+    "alias": "Também conhecido como Us Do Carpo, Us Tendoes Flexores E Extensores Do Carpo, Us Tunel Do Carpo, Us Punho",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 420,
+    "cd_item_agendamento": 2286.0,
+    "ds_item_agendamento": "ULTRASSOM DE COXOFEMORAL ESQUERDO",
+    "ds_unificacao": "ULTRASSOM DE COXOFEMORAL ESQUERDO",
+    "alias": "Também conhecido como Ultrassonografia de Quadril Esquerdo, Ultrassonografia de Coxofemoral Esquerda, Ecografia de Quadril Esquerdo, Ecografia de Coxofemoral Esquerda",
+    "ds_exa_rx": "ARTICULACOES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  }
+]

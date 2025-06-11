@@ -1,0 +1,1132 @@
+[
+  {
+    "cd_unificacao": 13,
+    "cd_item_agendamento": 16.0,
+    "ds_item_agendamento": "RESSONANCIA CRANIO (ENCEFALO)",
+    "ds_unificacao": "RESSONÂNCIA CRÂNIO (ENCÉFALO)",
+    "alias": "Também conhecido como Ressonância Magnética do Encéfalo, Ressonância Magnética Craniana",
+    "ds_exa_rx": "RM CRANIO (ENCEFALO)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 250,
+    "cd_item_agendamento": 368.0,
+    "ds_item_agendamento": "RESSONANCIA POR ESPECTROSCOPIA",
+    "ds_unificacao": "RESSONÂNCIA POR ESPECTROSCOPIA",
+    "alias": "Também conhecido como Ressonância por Espectroscopia, Espectroscopia de Ressonância Magnética (ERM), Ressonância Magnética Espectroscópica, Espectroscopia por RM",
+    "ds_exa_rx": "RM POR ESPECTROSCOPIA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 246,
+    "cd_item_agendamento": 364.0,
+    "ds_item_agendamento": "RESSONANCIA PESCOCO",
+    "ds_unificacao": "RESSONÂNCIA PESCOÇO",
+    "alias": "Também conhecido como Ressonância Magnética do Pescoço, RM Pescoço, Ressonância Magnética da Região Cervical, Ressonância Magnética das Estruturas Cervicais",
+    "ds_exa_rx": "RM PESCOCO (NASOFARINGE, OROFARINGE, LARINGE, TRAQUEIA, TIRE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 246,
+    "cd_item_agendamento": 10859.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA PESCOCO",
+    "ds_unificacao": "RESSONÂNCIA PESCOÇO",
+    "alias": "Também conhecido como Ressonância Magnética do Pescoço, RM Pescoço, Ressonância Magnética da Região Cervical, Ressonância Magnética das Estruturas Cervicais",
+    "ds_exa_rx": "RM PESCOCO (NASOFARINGE, OROFARINGE, LARINGE, TRAQUEIA, TIRE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 246,
+    "cd_item_agendamento": 10859.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA PESCOCO",
+    "ds_unificacao": "RESSONÂNCIA PESCOÇO",
+    "alias": "Também conhecido como Ressonância Magnética do Pescoço, RM Pescoço, Ressonância Magnética da Região Cervical, Ressonância Magnética das Estruturas Cervicais",
+    "ds_exa_rx": "RM PESCOCO (NASOFARINGE, OROFARINGE, LARINGE, TRAQUEIA, TIRE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 246,
+    "cd_item_agendamento": 10859.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA PESCOCO",
+    "ds_unificacao": "RESSONÂNCIA PESCOÇO",
+    "alias": "Também conhecido como Ressonância Magnética do Pescoço, RM Pescoço, Ressonância Magnética da Região Cervical, Ressonância Magnética das Estruturas Cervicais",
+    "ds_exa_rx": "RM PESCOCO (NASOFARINGE, OROFARINGE, LARINGE, TRAQUEIA, TIRE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 246,
+    "cd_item_agendamento": 11223.0,
+    "ds_item_agendamento": "RESSONANCIA PESCOCO (NL)",
+    "ds_unificacao": "RESSONÂNCIA PESCOÇO",
+    "alias": "Também conhecido como Ressonância Magnética do Pescoço, RM Pescoço, Ressonância Magnética da Região Cervical, Ressonância Magnética das Estruturas Cervicais",
+    "ds_exa_rx": "RM PESCOCO (NASOFARINGE, OROFARINGE, LARINGE, TRAQUEIA, TIRE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 247,
+    "cd_item_agendamento": 365.0,
+    "ds_item_agendamento": "RESSONANCIA COTOVELO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA COTOVELO DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Cotovelo Direito, Rm Articulacao Radio Umeral, Ressonancia Magnetica Articulacao Radio Umeral, Rm Cotovelo",
+    "ds_exa_rx": "RM COTOVELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 247,
+    "cd_item_agendamento": 365.0,
+    "ds_item_agendamento": "RESSONANCIA COTOVELO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA COTOVELO DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Cotovelo Direito, Rm Articulacao Radio Umeral, Ressonancia Magnetica Articulacao Radio Umeral, Rm Cotovelo",
+    "ds_exa_rx": "RM COTOVELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 247,
+    "cd_item_agendamento": 10863.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA COTOVELO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA COTOVELO DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Cotovelo Direito, Rm Articulacao Radio Umeral, Ressonancia Magnetica Articulacao Radio Umeral, Rm Cotovelo",
+    "ds_exa_rx": "RM COTOVELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 247,
+    "cd_item_agendamento": 11207.0,
+    "ds_item_agendamento": "RESSONANCIA COTOVELO DIREITO (NL)",
+    "ds_unificacao": "RESSONÂNCIA COTOVELO DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Cotovelo Direito, Rm Articulacao Radio Umeral, Ressonancia Magnetica Articulacao Radio Umeral, Rm Cotovelo",
+    "ds_exa_rx": "RM COTOVELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 247,
+    "cd_item_agendamento": 11207.0,
+    "ds_item_agendamento": "RESSONANCIA COTOVELO DIREITO (NL)",
+    "ds_unificacao": "RESSONÂNCIA COTOVELO DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Cotovelo Direito, Rm Articulacao Radio Umeral, Ressonancia Magnetica Articulacao Radio Umeral, Rm Cotovelo",
+    "ds_exa_rx": "RM COTOVELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 247,
+    "cd_item_agendamento": 11207.0,
+    "ds_item_agendamento": "RESSONANCIA COTOVELO DIREITO (NL)",
+    "ds_unificacao": "RESSONÂNCIA COTOVELO DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Cotovelo Direito, Rm Articulacao Radio Umeral, Ressonancia Magnetica Articulacao Radio Umeral, Rm Cotovelo",
+    "ds_exa_rx": "RM COTOVELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 248,
+    "cd_item_agendamento": 366.0,
+    "ds_item_agendamento": "RESSONANCIA COXOFEMORAL DIREITO",
+    "ds_unificacao": "RESSONÂNCIA COXOFEMORAL DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Coxo Femural Direito, Rm Quadril Direito, Ressonancia Magnetica Quadril Direito",
+    "ds_exa_rx": "RM COXO FEMORAL DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 248,
+    "cd_item_agendamento": 366.0,
+    "ds_item_agendamento": "RESSONANCIA COXOFEMORAL DIREITO",
+    "ds_unificacao": "RESSONÂNCIA COXOFEMORAL DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Coxo Femural Direito, Rm Quadril Direito, Ressonancia Magnetica Quadril Direito",
+    "ds_exa_rx": "RM COXO FEMORAL DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 249,
+    "cd_item_agendamento": 367.0,
+    "ds_item_agendamento": "RESSONANCIA COLUNA CERVICAL",
+    "ds_unificacao": "RESSONÂNCIA COLUNA CERVICAL",
+    "alias": "Também conhecido como Ressonancia Magnetica Coluna Cervical, Rm Medula Cervical, Ressonancia Magnetica Medula Cervical",
+    "ds_exa_rx": "RM COLUNA CERVICAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 249,
+    "cd_item_agendamento": 367.0,
+    "ds_item_agendamento": "RESSONANCIA COLUNA CERVICAL",
+    "ds_unificacao": "RESSONÂNCIA COLUNA CERVICAL",
+    "alias": "Também conhecido como Ressonancia Magnetica Coluna Cervical, Rm Medula Cervical, Ressonancia Magnetica Medula Cervical",
+    "ds_exa_rx": "RM COLUNA CERVICAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 246,
+    "cd_item_agendamento": 364.0,
+    "ds_item_agendamento": "RESSONANCIA PESCOCO",
+    "ds_unificacao": "RESSONÂNCIA PESCOÇO",
+    "alias": "Também conhecido como Ressonância Magnética do Pescoço, RM Pescoço, Ressonância Magnética da Região Cervical, Ressonância Magnética das Estruturas Cervicais",
+    "ds_exa_rx": "RM PESCOCO (NASOFARINGE, OROFARINGE, LARINGE, TRAQUEIA, TIRE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 245,
+    "cd_item_agendamento": 10861.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA PELVE",
+    "ds_unificacao": "RESSONÂNCIA PELVE",
+    "alias": "Também conhecido como Ressonância Magnética da Pelve, RM Pelve, Ressonância Magnética da Região Pélvica, Ressonância Magnética da Bacia",
+    "ds_exa_rx": "RM PELVE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 244,
+    "cd_item_agendamento": 11203.0,
+    "ds_item_agendamento": "RESSONANCIA PLEXO BRAQUIAL DIREITO (NL)",
+    "ds_unificacao": "RESSONÂNCIA PLEXO BRAQUIAL DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Plexo Braquial Direito, Rm Plexo Braquial, Ressonancia Magnetica Plexo Braquial, Rm Desfiladeiro Toracico",
+    "ds_exa_rx": "RM PLEXO BRAQUIAL DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 235,
+    "cd_item_agendamento": 10846.0,
+    "ds_item_agendamento": "SAL - COLANGIO RESSONANCIA",
+    "ds_unificacao": "COLANGIO RESSONÂNCIA",
+    "alias": "Também conhecido como Colangiorressonância Magnética (C-RM), Colangiopancreatografia por Ressonância Magnética (CPRM), Ressonância Magnética da Via Biliar (RMVB), Colangiografia Ressonância Magnética (CRM)",
+    "ds_exa_rx": "COLANGIO RM",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 229,
+    "cd_item_agendamento": 10844.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA COXOFEMORAL ESQUERDO",
+    "ds_unificacao": "RESSONÂNCIA COXOFEMORAL ESQUERDO",
+    "alias": "Também conhecido como Ressonancia Magnetica Coxo Femural Esquerdo, Rm Quadril Esquerdo, Ressonancia Magnetica Quadril Esquerdo",
+    "ds_exa_rx": "RM COXO FEMORAL ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 229,
+    "cd_item_agendamento": 11257.0,
+    "ds_item_agendamento": "RESSONANCIA COXOFEMORAL ESQUERDO (NL) ",
+    "ds_unificacao": "RESSONÂNCIA COXOFEMORAL ESQUERDO",
+    "alias": "Também conhecido como Ressonancia Magnetica Coxo Femural Esquerdo, Rm Quadril Esquerdo, Ressonancia Magnetica Quadril Esquerdo",
+    "ds_exa_rx": "RM COXO FEMORAL ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 230,
+    "cd_item_agendamento": 343.0,
+    "ds_item_agendamento": "RESSONANCIA JOELHO ESQUERDO",
+    "ds_unificacao": "RESSONÂNCIA JOELHO ESQUERDO",
+    "alias": "Também conhecido como Ressonância Magnética do Joelho Esquerdo, RM do Joelho Esquerdo, Ressonância Magnética Nuclear do Joelho Esquerdo, Ressonância Magnética com Contraste do Joelho Esquerdo",
+    "ds_exa_rx": "RM JOELHO ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 230,
+    "cd_item_agendamento": 11258.0,
+    "ds_item_agendamento": "RESSONANCIA JOELHO ESQUERDO (NL) ",
+    "ds_unificacao": "RESSONÂNCIA JOELHO ESQUERDO",
+    "alias": "Também conhecido como Ressonância Magnética do Joelho Esquerdo, RM do Joelho Esquerdo, Ressonância Magnética Nuclear do Joelho Esquerdo, Ressonância Magnética com Contraste do Joelho Esquerdo",
+    "ds_exa_rx": "RM JOELHO ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 230,
+    "cd_item_agendamento": 11258.0,
+    "ds_item_agendamento": "RESSONANCIA JOELHO ESQUERDO (NL) ",
+    "ds_unificacao": "RESSONÂNCIA JOELHO ESQUERDO",
+    "alias": "Também conhecido como Ressonância Magnética do Joelho Esquerdo, RM do Joelho Esquerdo, Ressonância Magnética Nuclear do Joelho Esquerdo, Ressonância Magnética com Contraste do Joelho Esquerdo",
+    "ds_exa_rx": "RM JOELHO ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 235,
+    "cd_item_agendamento": 350.0,
+    "ds_item_agendamento": "COLANGIO RESSONANCIA",
+    "ds_unificacao": "COLANGIO RESSONÂNCIA",
+    "alias": "Também conhecido como Colangiorressonância Magnética (C-RM), Colangiopancreatografia por Ressonância Magnética (CPRM), Ressonância Magnética da Via Biliar (RMVB), Colangiografia Ressonância Magnética (CRM)",
+    "ds_exa_rx": "COLANGIO RM",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 235,
+    "cd_item_agendamento": 10846.0,
+    "ds_item_agendamento": "SAL - COLANGIO RESSONANCIA",
+    "ds_unificacao": "COLANGIO RESSONÂNCIA",
+    "alias": "Também conhecido como Colangiorressonância Magnética (C-RM), Colangiopancreatografia por Ressonância Magnética (CPRM), Ressonância Magnética da Via Biliar (RMVB), Colangiografia Ressonância Magnética (CRM)",
+    "ds_exa_rx": "COLANGIO RM",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 244,
+    "cd_item_agendamento": 11203.0,
+    "ds_item_agendamento": "RESSONANCIA PLEXO BRAQUIAL DIREITO (NL)",
+    "ds_unificacao": "RESSONÂNCIA PLEXO BRAQUIAL DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Plexo Braquial Direito, Rm Plexo Braquial, Ressonancia Magnetica Plexo Braquial, Rm Desfiladeiro Toracico",
+    "ds_exa_rx": "RM PLEXO BRAQUIAL DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 235,
+    "cd_item_agendamento": 11266.0,
+    "ds_item_agendamento": "COLANGIO RESSONANCIA (NL)",
+    "ds_unificacao": "COLANGIO RESSONÂNCIA",
+    "alias": "Também conhecido como Colangiorressonância Magnética (C-RM), Colangiopancreatografia por Ressonância Magnética (CPRM), Ressonância Magnética da Via Biliar (RMVB), Colangiografia Ressonância Magnética (CRM)",
+    "ds_exa_rx": "COLANGIO RM",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 243,
+    "cd_item_agendamento": 361.0,
+    "ds_item_agendamento": "RESSONANCIA TORNOZELO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA TORNOZELO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Tornozelo Direito, RM Tornozelo Direito, Ressonância Magnética do Pé e Tornozelo Direito, Ressonância Magnética da Articulação do Tornozelo Direito",
+    "ds_exa_rx": "RM TORNOZELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 243,
+    "cd_item_agendamento": 10895.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA TORNOZELO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA TORNOZELO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Tornozelo Direito, RM Tornozelo Direito, Ressonância Magnética do Pé e Tornozelo Direito, Ressonância Magnética da Articulação do Tornozelo Direito",
+    "ds_exa_rx": "RM TORNOZELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 243,
+    "cd_item_agendamento": 10895.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA TORNOZELO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA TORNOZELO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Tornozelo Direito, RM Tornozelo Direito, Ressonância Magnética do Pé e Tornozelo Direito, Ressonância Magnética da Articulação do Tornozelo Direito",
+    "ds_exa_rx": "RM TORNOZELO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 244,
+    "cd_item_agendamento": 10890.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA PLEXO BRAQUIAL DIREITO",
+    "ds_unificacao": "RESSONÂNCIA PLEXO BRAQUIAL DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Plexo Braquial Direito, Rm Plexo Braquial, Ressonancia Magnetica Plexo Braquial, Rm Desfiladeiro Toracico",
+    "ds_exa_rx": "RM PLEXO BRAQUIAL DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 244,
+    "cd_item_agendamento": 10890.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA PLEXO BRAQUIAL DIREITO",
+    "ds_unificacao": "RESSONÂNCIA PLEXO BRAQUIAL DIREITO",
+    "alias": "Também conhecido como Ressonancia Magnetica Plexo Braquial Direito, Rm Plexo Braquial, Ressonancia Magnetica Plexo Braquial, Rm Desfiladeiro Toracico",
+    "ds_exa_rx": "RM PLEXO BRAQUIAL DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 250,
+    "cd_item_agendamento": 368.0,
+    "ds_item_agendamento": "RESSONANCIA POR ESPECTROSCOPIA",
+    "ds_unificacao": "RESSONÂNCIA POR ESPECTROSCOPIA",
+    "alias": "Também conhecido como Ressonância por Espectroscopia, Espectroscopia de Ressonância Magnética (ERM), Ressonância Magnética Espectroscópica, Espectroscopia por RM",
+    "ds_exa_rx": "RM POR ESPECTROSCOPIA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 250,
+    "cd_item_agendamento": 368.0,
+    "ds_item_agendamento": "RESSONANCIA POR ESPECTROSCOPIA",
+    "ds_unificacao": "RESSONÂNCIA POR ESPECTROSCOPIA",
+    "alias": "Também conhecido como Ressonância por Espectroscopia, Espectroscopia de Ressonância Magnética (ERM), Ressonância Magnética Espectroscópica, Espectroscopia por RM",
+    "ds_exa_rx": "RM POR ESPECTROSCOPIA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 229,
+    "cd_item_agendamento": 342.0,
+    "ds_item_agendamento": "RESSONANCIA COXOFEMORAL ESQUERDO",
+    "ds_unificacao": "RESSONÂNCIA COXOFEMORAL ESQUERDO",
+    "alias": "Também conhecido como Ressonancia Magnetica Coxo Femural Esquerdo, Rm Quadril Esquerdo, Ressonancia Magnetica Quadril Esquerdo",
+    "ds_exa_rx": "RM COXO FEMORAL ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 250,
+    "cd_item_agendamento": 10866.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA POR ESPECTROSCOPIA",
+    "ds_unificacao": "RESSONÂNCIA POR ESPECTROSCOPIA",
+    "alias": "Também conhecido como Ressonância por Espectroscopia, Espectroscopia de Ressonância Magnética (ERM), Ressonância Magnética Espectroscópica, Espectroscopia por RM",
+    "ds_exa_rx": "RM POR ESPECTROSCOPIA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 296,
+    "cd_item_agendamento": 10872.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA CORACAO MORFOLOGICO E FUNCIONAL",
+    "ds_unificacao": "RESSONÂNCIA CORAÇÃO MORFOLÓGICO E FUNCIONAL",
+    "alias": "Também conhecido como Ressonância Magnética Cardíaca Morfológica e Funcional, RM Cardíaca Morfofuncional",
+    "ds_exa_rx": "RM CORACAO - MORFOLOGICO E FUNCIONAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 296,
+    "cd_item_agendamento": 10872.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA CORACAO MORFOLOGICO E FUNCIONAL",
+    "ds_unificacao": "RESSONÂNCIA CORAÇÃO MORFOLÓGICO E FUNCIONAL",
+    "alias": "Também conhecido como Ressonância Magnética Cardíaca Morfológica e Funcional, RM Cardíaca Morfofuncional",
+    "ds_exa_rx": "RM CORACAO - MORFOLOGICO E FUNCIONAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 296,
+    "cd_item_agendamento": 11329.0,
+    "ds_item_agendamento": "RESSONANCIA CORACAO MORFOLOGICO E FUNCIONAL (NL) ",
+    "ds_unificacao": "RESSONÂNCIA CORAÇÃO MORFOLÓGICO E FUNCIONAL",
+    "alias": "Também conhecido como Ressonância Magnética Cardíaca Morfológica e Funcional, RM Cardíaca Morfofuncional",
+    "ds_exa_rx": "RM CORACAO - MORFOLOGICO E FUNCIONAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 296,
+    "cd_item_agendamento": 11329.0,
+    "ds_item_agendamento": "RESSONANCIA CORACAO MORFOLOGICO E FUNCIONAL (NL) ",
+    "ds_unificacao": "RESSONÂNCIA CORAÇÃO MORFOLÓGICO E FUNCIONAL",
+    "alias": "Também conhecido como Ressonância Magnética Cardíaca Morfológica e Funcional, RM Cardíaca Morfofuncional",
+    "ds_exa_rx": "RM CORACAO - MORFOLOGICO E FUNCIONAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 297,
+    "cd_item_agendamento": 521.0,
+    "ds_item_agendamento": "ANGIO RESSONANCIA ARTERIAL DE CRANIO",
+    "ds_unificacao": "ANGIO RESSONÂNCIA ARTERIAL DE CRÂNIO",
+    "alias": "Também conhecido como Angiorressonância craniana, Angio-IRM craniano, Ressonância magnética das artérias intracranianas, Angiografia por ressonância magnética do crânio",
+    "ds_exa_rx": "ANGIO RM ARTERIAL DE CRANIO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 298,
+    "cd_item_agendamento": 10874.0,
+    "ds_item_agendamento": "SAL - ANGIO RESSONANCIA ARTERIAL DE PESCOCO",
+    "ds_unificacao": "ANGIO RESSONÂNCIA ARTERIAL DE PESCOÇO",
+    "alias": "Também conhecido como Angiorressonância cervical, Angio-IRM cervical, Ressonância magnética das artérias do pescoço, Angiografia por ressonância magnética do pescoço",
+    "ds_exa_rx": "ANGIO RM  ARTERIAL DE PESCOCO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 298,
+    "cd_item_agendamento": 10874.0,
+    "ds_item_agendamento": "SAL - ANGIO RESSONANCIA ARTERIAL DE PESCOCO",
+    "ds_unificacao": "ANGIO RESSONÂNCIA ARTERIAL DE PESCOÇO",
+    "alias": "Também conhecido como Angiorressonância cervical, Angio-IRM cervical, Ressonância magnética das artérias do pescoço, Angiografia por ressonância magnética do pescoço",
+    "ds_exa_rx": "ANGIO RM  ARTERIAL DE PESCOCO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 298,
+    "cd_item_agendamento": 11272.0,
+    "ds_item_agendamento": "ANGIO RESSONANCIA ARTERIAL DE PESCOCO (NL)",
+    "ds_unificacao": "ANGIO RESSONÂNCIA ARTERIAL DE PESCOÇO",
+    "alias": "Também conhecido como Angiorressonância cervical, Angio-IRM cervical, Ressonância magnética das artérias do pescoço, Angiografia por ressonância magnética do pescoço",
+    "ds_exa_rx": "ANGIO RM  ARTERIAL DE PESCOCO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 299,
+    "cd_item_agendamento": 11273.0,
+    "ds_item_agendamento": "ANGIO RESSONANCIA ARTERIAL PULMONAR (NL)",
+    "ds_unificacao": "ANGIO RESSONÂNCIA ARTERIAL PULMONAR",
+    "alias": "Também conhecido como Angiorressonância pulmonar, Angio-IRM pulmonar, Ressonância magnética das artérias pulmonares, Angiografia por ressonância magnética pulmonar",
+    "ds_exa_rx": "ANGIO RM ARTERIAL PULMONAR",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 299,
+    "cd_item_agendamento": 11273.0,
+    "ds_item_agendamento": "ANGIO RESSONANCIA ARTERIAL PULMONAR (NL)",
+    "ds_unificacao": "ANGIO RESSONÂNCIA ARTERIAL PULMONAR",
+    "alias": "Também conhecido como Angiorressonância pulmonar, Angio-IRM pulmonar, Ressonância magnética das artérias pulmonares, Angiografia por ressonância magnética pulmonar",
+    "ds_exa_rx": "ANGIO RM ARTERIAL PULMONAR",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 300,
+    "cd_item_agendamento": 10875.0,
+    "ds_item_agendamento": "SAL - ANGIO RESSONANCIA DE AORTA TORACICA",
+    "ds_unificacao": "ANGIO RESSONÂNCIA DE AORTA TORÁCICA",
+    "alias": "Também conhecido como Angiorressonância da aorta torácica, Angio-IRM da aorta torácica, Ressonância magnética da aorta torácica, Angiografia por ressonância magnética da aorta torácica",
+    "ds_exa_rx": "ANGIO RM DE AORTA TORACICA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 300,
+    "cd_item_agendamento": 11274.0,
+    "ds_item_agendamento": "ANGIO RESSONANCIA DE AORTA TORACICA (NL) ",
+    "ds_unificacao": "ANGIO RESSONÂNCIA DE AORTA TORÁCICA",
+    "alias": "Também conhecido como Angiorressonância da aorta torácica, Angio-IRM da aorta torácica, Ressonância magnética da aorta torácica, Angiografia por ressonância magnética da aorta torácica",
+    "ds_exa_rx": "ANGIO RM DE AORTA TORACICA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 301,
+    "cd_item_agendamento": 525.0,
+    "ds_item_agendamento": "ANGIO RESSONANCIA AORTA ABDOMINAL",
+    "ds_unificacao": "ANGIO RESSONÂNCIA AORTA ABDOMINAL",
+    "alias": "Também conhecido como Angiorressonância Magnética (Angio-RM) Abdominal, Ressonância Magnética da Aorta Abdominal, Angio-IRM Abdominal, Angio-Ressonância Vascular Abdominal",
+    "ds_exa_rx": "ANGIO RM AORTA ABDOMINAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 301,
+    "cd_item_agendamento": 525.0,
+    "ds_item_agendamento": "ANGIO RESSONANCIA AORTA ABDOMINAL",
+    "ds_unificacao": "ANGIO RESSONÂNCIA AORTA ABDOMINAL",
+    "alias": "Também conhecido como Angiorressonância Magnética (Angio-RM) Abdominal, Ressonância Magnética da Aorta Abdominal, Angio-IRM Abdominal, Angio-Ressonância Vascular Abdominal",
+    "ds_exa_rx": "ANGIO RM AORTA ABDOMINAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 301,
+    "cd_item_agendamento": 11275.0,
+    "ds_item_agendamento": "ANGIO RESSONANCIA AORTA ABDOMINAL (NL) ",
+    "ds_unificacao": "ANGIO RESSONÂNCIA AORTA ABDOMINAL",
+    "alias": "Também conhecido como Angiorressonância Magnética (Angio-RM) Abdominal, Ressonância Magnética da Aorta Abdominal, Angio-IRM Abdominal, Angio-Ressonância Vascular Abdominal",
+    "ds_exa_rx": "ANGIO RM AORTA ABDOMINAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 296,
+    "cd_item_agendamento": 10872.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA CORACAO MORFOLOGICO E FUNCIONAL",
+    "ds_unificacao": "RESSONÂNCIA CORAÇÃO MORFOLÓGICO E FUNCIONAL",
+    "alias": "Também conhecido como Ressonância Magnética Cardíaca Morfológica e Funcional, RM Cardíaca Morfofuncional",
+    "ds_exa_rx": "RM CORACAO - MORFOLOGICO E FUNCIONAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 296,
+    "cd_item_agendamento": 520.0,
+    "ds_item_agendamento": "RESSONANCIA CORACAO MORFOLOGICO E FUNCIONAL",
+    "ds_unificacao": "RESSONÂNCIA CORAÇÃO MORFOLÓGICO E FUNCIONAL",
+    "alias": "Também conhecido como Ressonância Magnética Cardíaca Morfológica e Funcional, RM Cardíaca Morfofuncional",
+    "ds_exa_rx": "RM CORACAO - MORFOLOGICO E FUNCIONAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 296,
+    "cd_item_agendamento": 520.0,
+    "ds_item_agendamento": "RESSONANCIA CORACAO MORFOLOGICO E FUNCIONAL",
+    "ds_unificacao": "RESSONÂNCIA CORAÇÃO MORFOLÓGICO E FUNCIONAL",
+    "alias": "Também conhecido como Ressonância Magnética Cardíaca Morfológica e Funcional, RM Cardíaca Morfofuncional",
+    "ds_exa_rx": "RM CORACAO - MORFOLOGICO E FUNCIONAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 251,
+    "cd_item_agendamento": 11267.0,
+    "ds_item_agendamento": "RESSONANCIA MAMA (NL)",
+    "ds_unificacao": "RESSONÂNCIA MAMA",
+    "alias": "Também conhecido como Ressonancia Magnetica Mama, Rm De Mama, Ressonancia Magnetica De Mama",
+    "ds_exa_rx": "RM MAMA (BILATERAL)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 250,
+    "cd_item_agendamento": 10866.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA POR ESPECTROSCOPIA",
+    "ds_unificacao": "RESSONÂNCIA POR ESPECTROSCOPIA",
+    "alias": "Também conhecido como Ressonância por Espectroscopia, Espectroscopia de Ressonância Magnética (ERM), Ressonância Magnética Espectroscópica, Espectroscopia por RM",
+    "ds_exa_rx": "RM POR ESPECTROSCOPIA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 250,
+    "cd_item_agendamento": 11268.0,
+    "ds_item_agendamento": "RESSONANCIA POR ESPECTROSCOPIA (NL)",
+    "ds_unificacao": "RESSONÂNCIA POR ESPECTROSCOPIA",
+    "alias": "Também conhecido como Ressonância por Espectroscopia, Espectroscopia de Ressonância Magnética (ERM), Ressonância Magnética Espectroscópica, Espectroscopia por RM",
+    "ds_exa_rx": "RM POR ESPECTROSCOPIA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 250,
+    "cd_item_agendamento": 11268.0,
+    "ds_item_agendamento": "RESSONANCIA POR ESPECTROSCOPIA (NL)",
+    "ds_unificacao": "RESSONÂNCIA POR ESPECTROSCOPIA",
+    "alias": "Também conhecido como Ressonância por Espectroscopia, Espectroscopia de Ressonância Magnética (ERM), Ressonância Magnética Espectroscópica, Espectroscopia por RM",
+    "ds_exa_rx": "RM POR ESPECTROSCOPIA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 251,
+    "cd_item_agendamento": 10867.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA MAMA",
+    "ds_unificacao": "RESSONÂNCIA MAMA",
+    "alias": "Também conhecido como Ressonancia Magnetica Mama, Rm De Mama, Ressonancia Magnetica De Mama",
+    "ds_exa_rx": "RM MAMA (BILATERAL)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 251,
+    "cd_item_agendamento": 10867.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA MAMA",
+    "ds_unificacao": "RESSONÂNCIA MAMA",
+    "alias": "Também conhecido como Ressonancia Magnetica Mama, Rm De Mama, Ressonancia Magnetica De Mama",
+    "ds_exa_rx": "RM MAMA (BILATERAL)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 251,
+    "cd_item_agendamento": 10867.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA MAMA",
+    "ds_unificacao": "RESSONÂNCIA MAMA",
+    "alias": "Também conhecido como Ressonancia Magnetica Mama, Rm De Mama, Ressonancia Magnetica De Mama",
+    "ds_exa_rx": "RM MAMA (BILATERAL)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 281,
+    "cd_item_agendamento": 11323.0,
+    "ds_item_agendamento": "RESSONANCIA FACE (NL)",
+    "ds_unificacao": "RESSONÂNCIA FACE",
+    "alias": "Também conhecido como Ressonância Magnética da Face",
+    "ds_exa_rx": "RM FACE (INCLUI SEIOS DA FACE)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 295,
+    "cd_item_agendamento": 10871.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA ORBITAS",
+    "ds_unificacao": "RESSONÂNCIA ÓRBITAS",
+    "alias": "Também conhecido como Ressonância Magnética das Órbitas, RM Órbitas, Ressonância Magnética das Estruturas Oculares, Ressonância Magnética das Regiões Periorbitais",
+    "ds_exa_rx": "RM ORBITA BILATERAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 283,
+    "cd_item_agendamento": 411.0,
+    "ds_item_agendamento": "RESSONANCIA PERNA ESQUERDA",
+    "ds_unificacao": "RESSONÂNCIA PERNA ESQUERDA",
+    "alias": "Também conhecido como Ressonancia Magnetica Perna Esquerda, Rm Perna Unilateral, Ressonancia Perna Unilateral",
+    "ds_exa_rx": "RM PERNA ESQUERDA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 283,
+    "cd_item_agendamento": 411.0,
+    "ds_item_agendamento": "RESSONANCIA PERNA ESQUERDA",
+    "ds_unificacao": "RESSONÂNCIA PERNA ESQUERDA",
+    "alias": "Também conhecido como Ressonancia Magnetica Perna Esquerda, Rm Perna Unilateral, Ressonancia Perna Unilateral",
+    "ds_exa_rx": "RM PERNA ESQUERDA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 283,
+    "cd_item_agendamento": 11327.0,
+    "ds_item_agendamento": "RESSONANCIA PERNA ESQUERDA (NL) ",
+    "ds_unificacao": "RESSONÂNCIA PERNA ESQUERDA",
+    "alias": "Também conhecido como Ressonancia Magnetica Perna Esquerda, Rm Perna Unilateral, Ressonancia Perna Unilateral",
+    "ds_exa_rx": "RM PERNA ESQUERDA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 283,
+    "cd_item_agendamento": 11327.0,
+    "ds_item_agendamento": "RESSONANCIA PERNA ESQUERDA (NL) ",
+    "ds_unificacao": "RESSONÂNCIA PERNA ESQUERDA",
+    "alias": "Também conhecido como Ressonancia Magnetica Perna Esquerda, Rm Perna Unilateral, Ressonancia Perna Unilateral",
+    "ds_exa_rx": "RM PERNA ESQUERDA",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 295,
+    "cd_item_agendamento": 519.0,
+    "ds_item_agendamento": "RESSONANCIA ORBITAS",
+    "ds_unificacao": "RESSONÂNCIA ÓRBITAS",
+    "alias": "Também conhecido como Ressonância Magnética das Órbitas, RM Órbitas, Ressonância Magnética das Estruturas Oculares, Ressonância Magnética das Regiões Periorbitais",
+    "ds_exa_rx": "RM ORBITA BILATERAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 295,
+    "cd_item_agendamento": 519.0,
+    "ds_item_agendamento": "RESSONANCIA ORBITAS",
+    "ds_unificacao": "RESSONÂNCIA ÓRBITAS",
+    "alias": "Também conhecido como Ressonância Magnética das Órbitas, RM Órbitas, Ressonância Magnética das Estruturas Oculares, Ressonância Magnética das Regiões Periorbitais",
+    "ds_exa_rx": "RM ORBITA BILATERAL",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 229,
+    "cd_item_agendamento": 342.0,
+    "ds_item_agendamento": "RESSONANCIA COXOFEMORAL ESQUERDO",
+    "ds_unificacao": "RESSONÂNCIA COXOFEMORAL ESQUERDO",
+    "alias": "Também conhecido como Ressonancia Magnetica Coxo Femural Esquerdo, Rm Quadril Esquerdo, Ressonancia Magnetica Quadril Esquerdo",
+    "ds_exa_rx": "RM COXO FEMORAL ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 229,
+    "cd_item_agendamento": 342.0,
+    "ds_item_agendamento": "RESSONANCIA COXOFEMORAL ESQUERDO",
+    "ds_unificacao": "RESSONÂNCIA COXOFEMORAL ESQUERDO",
+    "alias": "Também conhecido como Ressonancia Magnetica Coxo Femural Esquerdo, Rm Quadril Esquerdo, Ressonancia Magnetica Quadril Esquerdo",
+    "ds_exa_rx": "RM COXO FEMORAL ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 14,
+    "cd_item_agendamento": 17.0,
+    "ds_item_agendamento": "RESSONANCIA JOELHO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA JOELHO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Joelho Direito, RM do Joelho Direito, Ressonância Magnética Nuclear do Joelho Direito, Ressonância Magnética com Contraste do Joelho Direito",
+    "ds_exa_rx": "RM JOELHO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 74,
+    "cd_item_agendamento": 11206.0,
+    "ds_item_agendamento": "RESSONANCIA ARTICULACAO TEMPOROMANDIBULAR (BILATERAL) (NL)",
+    "ds_unificacao": "RESSONÂNCIA ARTICULAÇÃO TEMPOROMANDIBULAR (BILATERAL)",
+    "alias": "Também conhecido como Ressonancia Magnetica Atm Bilaterla, Rm De Atm, Ressonancia Magnetica De Atm, Rm Condilo Mandibular",
+    "ds_exa_rx": "RM ARTICULACAO TEMPOROMANDIBULAR (BILATERAL)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 20,
+    "cd_item_agendamento": 10684.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA COLUNA LOMBOSSACRA",
+    "ds_unificacao": "RESSONÂNCIA COLUNA LOMBOSSACRA",
+    "alias": "Também conhecido como Ressonancia Magnetica Coluna Lombar, Rm Coluna Lombo Sacra, Ressonancia Magnetica Coluna Lombo Sacra, Rm Coluna Toraco Lombar",
+    "ds_exa_rx": "RM COLUNA LOMBAR",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 20,
+    "cd_item_agendamento": 10684.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA COLUNA LOMBOSSACRA",
+    "ds_unificacao": "RESSONÂNCIA COLUNA LOMBOSSACRA",
+    "alias": "Também conhecido como Ressonancia Magnetica Coluna Lombar, Rm Coluna Lombo Sacra, Ressonancia Magnetica Coluna Lombo Sacra, Rm Coluna Toraco Lombar",
+    "ds_exa_rx": "RM COLUNA LOMBAR",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 20,
+    "cd_item_agendamento": 10684.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA COLUNA LOMBOSSACRA",
+    "ds_unificacao": "RESSONÂNCIA COLUNA LOMBOSSACRA",
+    "alias": "Também conhecido como Ressonancia Magnetica Coluna Lombar, Rm Coluna Lombo Sacra, Ressonancia Magnetica Coluna Lombo Sacra, Rm Coluna Toraco Lombar",
+    "ds_exa_rx": "RM COLUNA LOMBAR",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 21,
+    "cd_item_agendamento": 10685.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA OMBRO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA OMBRO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Ombro Direito, RM Ombro Direito, Ressonância Magnética Articulação do Ombro Direito, Ressonância Magnética do Complexo Articular do Ombro Direito",
+    "ds_exa_rx": "RM OMBRO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 21,
+    "cd_item_agendamento": 10685.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA OMBRO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA OMBRO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Ombro Direito, RM Ombro Direito, Ressonância Magnética Articulação do Ombro Direito, Ressonância Magnética do Complexo Articular do Ombro Direito",
+    "ds_exa_rx": "RM OMBRO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 21,
+    "cd_item_agendamento": 10685.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA OMBRO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA OMBRO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Ombro Direito, RM Ombro Direito, Ressonância Magnética Articulação do Ombro Direito, Ressonância Magnética do Complexo Articular do Ombro Direito",
+    "ds_exa_rx": "RM OMBRO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 21,
+    "cd_item_agendamento": 10685.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA OMBRO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA OMBRO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Ombro Direito, RM Ombro Direito, Ressonância Magnética Articulação do Ombro Direito, Ressonância Magnética do Complexo Articular do Ombro Direito",
+    "ds_exa_rx": "RM OMBRO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 21,
+    "cd_item_agendamento": 11243.0,
+    "ds_item_agendamento": "RESSONANCIA OMBRO DIREITO (NL)",
+    "ds_unificacao": "RESSONÂNCIA OMBRO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Ombro Direito, RM Ombro Direito, Ressonância Magnética Articulação do Ombro Direito, Ressonância Magnética do Complexo Articular do Ombro Direito",
+    "ds_exa_rx": "RM OMBRO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 41,
+    "cd_item_agendamento": 11264.0,
+    "ds_item_agendamento": "RESSONANCIA TORAX (NL)",
+    "ds_unificacao": "RESSONÂNCIA TÓRAX",
+    "alias": "Também conhecido como Ressonância Magnética do Tórax, RM Tórax, Ressonância Magnética da Caixa Torácica, Ressonância Magnética da Região Torácica",
+    "ds_exa_rx": "RM TORAX (MEDIASTINO, PULMAO, PAREDE TORACICA)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 42,
+    "cd_item_agendamento": 63.0,
+    "ds_item_agendamento": "RESSONANCIA TORNOZELO ESQUERDO",
+    "ds_unificacao": "RESSONÂNCIA TORNOZELO ESQUERDO",
+    "alias": "Também conhecido como Ressonância Magnética do Tornozelo Esquerdo, RM Tornozelo Esquerdo, Ressonância Magnética do Pé e Tornozelo Esquerdo, Ressonância Magnética da Articulação do Tornozelo Esquerdo",
+    "ds_exa_rx": "RM TORNOZELO ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 42,
+    "cd_item_agendamento": 10687.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA TORNOZELO ESQUERDO",
+    "ds_unificacao": "RESSONÂNCIA TORNOZELO ESQUERDO",
+    "alias": "Também conhecido como Ressonância Magnética do Tornozelo Esquerdo, RM Tornozelo Esquerdo, Ressonância Magnética do Pé e Tornozelo Esquerdo, Ressonância Magnética da Articulação do Tornozelo Esquerdo",
+    "ds_exa_rx": "RM TORNOZELO ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 42,
+    "cd_item_agendamento": 11246.0,
+    "ds_item_agendamento": "RESSONANCIA TORNOZELO ESQUERDO (NL)",
+    "ds_unificacao": "RESSONÂNCIA TORNOZELO ESQUERDO",
+    "alias": "Também conhecido como Ressonância Magnética do Tornozelo Esquerdo, RM Tornozelo Esquerdo, Ressonância Magnética do Pé e Tornozelo Esquerdo, Ressonância Magnética da Articulação do Tornozelo Esquerdo",
+    "ds_exa_rx": "RM TORNOZELO ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 73,
+    "cd_item_agendamento": 119.0,
+    "ds_item_agendamento": "RESSONANCIA MEMBRO SUPERIOR ESQUERDO (NAO INCLUI MAO E ARTICULACOES)",
+    "ds_unificacao": "RESSONÂNCIA MEMBRO SUPERIOR ESQUERDO (NÃO INCLUI MÃO E ARTICULAÇÕES)",
+    "alias": "Também conhecido como Ressonância Magnética do Membro Superior Esquerdo, RM do Membro Superior Esquerdo, Ressonância Magnética Nuclear do Membro Superior Esquerdo, Ressonância Magnética do Membro Superior Esquerdo Excluindo Articulações",
+    "ds_exa_rx": "RM MEMBRO SUPERIOR UNILATERAL (NAO INCLUI MAO E ARTICULACOE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 73,
+    "cd_item_agendamento": 10888.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA MEMBRO SUPERIOR ESQUERDO (NAO INCLUI MAO E ARTICULAC",
+    "ds_unificacao": "RESSONÂNCIA MEMBRO SUPERIOR ESQUERDO (NÃO INCLUI MÃO E ARTICULAÇÕES)",
+    "alias": "Também conhecido como Ressonância Magnética do Membro Superior Esquerdo, RM do Membro Superior Esquerdo, Ressonância Magnética Nuclear do Membro Superior Esquerdo, Ressonância Magnética do Membro Superior Esquerdo Excluindo Articulações",
+    "ds_exa_rx": "RM MEMBRO SUPERIOR UNILATERAL (NAO INCLUI MAO E ARTICULACOE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 73,
+    "cd_item_agendamento": 10888.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA MEMBRO SUPERIOR ESQUERDO (NAO INCLUI MAO E ARTICULAC",
+    "ds_unificacao": "RESSONÂNCIA MEMBRO SUPERIOR ESQUERDO (NÃO INCLUI MÃO E ARTICULAÇÕES)",
+    "alias": "Também conhecido como Ressonância Magnética do Membro Superior Esquerdo, RM do Membro Superior Esquerdo, Ressonância Magnética Nuclear do Membro Superior Esquerdo, Ressonância Magnética do Membro Superior Esquerdo Excluindo Articulações",
+    "ds_exa_rx": "RM MEMBRO SUPERIOR UNILATERAL (NAO INCLUI MAO E ARTICULACOE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 20,
+    "cd_item_agendamento": 25.0,
+    "ds_item_agendamento": "RESSONANCIA COLUNA LOMBOSSACRA",
+    "ds_unificacao": "RESSONÂNCIA COLUNA LOMBOSSACRA",
+    "alias": "Também conhecido como Ressonancia Magnetica Coluna Lombar, Rm Coluna Lombo Sacra, Ressonancia Magnetica Coluna Lombo Sacra, Rm Coluna Toraco Lombar",
+    "ds_exa_rx": "RM COLUNA LOMBAR",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 20,
+    "cd_item_agendamento": 25.0,
+    "ds_item_agendamento": "RESSONANCIA COLUNA LOMBOSSACRA",
+    "ds_unificacao": "RESSONÂNCIA COLUNA LOMBOSSACRA",
+    "alias": "Também conhecido como Ressonancia Magnetica Coluna Lombar, Rm Coluna Lombo Sacra, Ressonancia Magnetica Coluna Lombo Sacra, Rm Coluna Toraco Lombar",
+    "ds_exa_rx": "RM COLUNA LOMBAR",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 20,
+    "cd_item_agendamento": 25.0,
+    "ds_item_agendamento": "RESSONANCIA COLUNA LOMBOSSACRA",
+    "ds_unificacao": "RESSONÂNCIA COLUNA LOMBOSSACRA",
+    "alias": "Também conhecido como Ressonancia Magnetica Coluna Lombar, Rm Coluna Lombo Sacra, Ressonancia Magnetica Coluna Lombo Sacra, Rm Coluna Toraco Lombar",
+    "ds_exa_rx": "RM COLUNA LOMBAR",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 611,
+    "cd_item_agendamento": 11263.0,
+    "ds_item_agendamento": "RM MEMBRO SUPERIOR DIREITO (NAO INCLUI MAO E ARTICULACOES) (NL)",
+    "ds_unificacao": "RESSONÂNCIA MEMBRO SUPERIOR DIREITO (NÃO INCLUI MÃO E ARTICULAÇÕES)",
+    "alias": "Também conhecido como Ressonância Magnética do Membro Superior Direito, RM do Membro Superior Direito, Ressonância Magnética Nuclear do Membro Superior Direito, Ressonância Magnética do Membro Superior Direito Excluindo Articulações",
+    "ds_exa_rx": "RM MEMBRO SUPERIOR UNILATERAL (NAO INCLUI MAO E ARTICULACOE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 4508.0,
+    "ds_item_agendamento": "RESSONANCIA DE SACOCOCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RESSONANCIA DE SACROCOCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 4508.0,
+    "ds_item_agendamento": "RESSONANCIA DE SACOCOCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RESSONANCIA DE SACROCOCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 562,
+    "cd_item_agendamento": 11252.0,
+    "ds_item_agendamento": "PERFUSAO CEREBRAL POR RESSONANCIA COM CONTRASTE (NL)",
+    "ds_unificacao": "PERFUSÃO CEREBRAL POR RESSONÂNCIA COM CONTRASTE",
+    "alias": "Também conhecido como Ressonância Magnética de Perfusão Cerebral, RM com Estudo de Perfusão Cerebral, Ressonância Magnética de Fluxo Sanguíneo Cerebral, RM com Mapeamento de Perfusão Cerebral",
+    "ds_exa_rx": "PERFUSAO CEREBRAL POR RM COM CONTRASTE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 562,
+    "cd_item_agendamento": 11252.0,
+    "ds_item_agendamento": "PERFUSAO CEREBRAL POR RESSONANCIA COM CONTRASTE (NL)",
+    "ds_unificacao": "PERFUSÃO CEREBRAL POR RESSONÂNCIA COM CONTRASTE",
+    "alias": "Também conhecido como Ressonância Magnética de Perfusão Cerebral, RM com Estudo de Perfusão Cerebral, Ressonância Magnética de Fluxo Sanguíneo Cerebral, RM com Mapeamento de Perfusão Cerebral",
+    "ds_exa_rx": "PERFUSAO CEREBRAL POR RM COM CONTRASTE",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 563,
+    "cd_item_agendamento": 8610.0,
+    "ds_item_agendamento": "RESSONANCIA DE CORPO INTEIRO",
+    "ds_unificacao": "RESSONÂNCIA DE CORPO INTEIRO",
+    "alias": "Também conhecido como Ressonancia De Corpo Inteiro",
+    "ds_exa_rx": "RESSONANCIA DE CORPO INTEIRO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 611,
+    "cd_item_agendamento": 10137.0,
+    "ds_item_agendamento": "RESSONANCIA MEMBRO SUPERIOR DIREITO (NAO INCLUI MAO E ARTICULACOES)",
+    "ds_unificacao": "RESSONÂNCIA MEMBRO SUPERIOR DIREITO (NÃO INCLUI MÃO E ARTICULAÇÕES)",
+    "alias": "Também conhecido como Ressonância Magnética do Membro Superior Direito, RM do Membro Superior Direito, Ressonância Magnética Nuclear do Membro Superior Direito, Ressonância Magnética do Membro Superior Direito Excluindo Articulações",
+    "ds_exa_rx": "RM MEMBRO SUPERIOR UNILATERAL (NAO INCLUI MAO E ARTICULACOE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 654,
+    "cd_item_agendamento": 11186.0,
+    "ds_item_agendamento": " RESSONANCIA PELVE MASCULINA (NL)",
+    "ds_unificacao": "RESSONANCIA PELVE MASCULINA",
+    "alias": "Também conhecido como Ressonância Magnética da Pelve, RM Pelve, Ressonância Magnética da Região Pélvica, Ressonância Magnética da Bacia",
+    "ds_exa_rx": "RM PELVE MASCULINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 14,
+    "cd_item_agendamento": 10683.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA JOELHO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA JOELHO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Joelho Direito, RM do Joelho Direito, Ressonância Magnética Nuclear do Joelho Direito, Ressonância Magnética com Contraste do Joelho Direito",
+    "ds_exa_rx": "RM JOELHO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 655,
+    "cd_item_agendamento": 10942.0,
+    "ds_item_agendamento": "RESSONANCIA DE PROSTATA",
+    "ds_unificacao": "RESSONANCIA PROSTATA",
+    "alias": "Também conhecido como Ressonância Magnética da Pelve, RM Pelve, Ressonância Magnética da Região Pélvica, Ressonância Magnética da Bacia",
+    "ds_exa_rx": "RM PELVE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 655,
+    "cd_item_agendamento": 10942.0,
+    "ds_item_agendamento": "RESSONANCIA DE PROSTATA",
+    "ds_unificacao": "RESSONANCIA PROSTATA",
+    "alias": "Também conhecido como Ressonância Magnética da Pelve, RM Pelve, Ressonância Magnética da Região Pélvica, Ressonância Magnética da Bacia",
+    "ds_exa_rx": "RM PELVE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 13,
+    "cd_item_agendamento": 10682.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA CRANIO (ENCEFALO)",
+    "ds_unificacao": "RESSONÂNCIA CRÂNIO (ENCÉFALO)",
+    "alias": "Também conhecido como Ressonância Magnética do Encéfalo, Ressonância Magnética Craniana",
+    "ds_exa_rx": "RM CRANIO (ENCEFALO)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 13,
+    "cd_item_agendamento": 11205.0,
+    "ds_item_agendamento": "RESSONANCIA CRANIO (ENCEFALO) (NL)",
+    "ds_unificacao": "RESSONÂNCIA CRÂNIO (ENCÉFALO)",
+    "alias": "Também conhecido como Ressonância Magnética do Encéfalo, Ressonância Magnética Craniana",
+    "ds_exa_rx": "RM CRANIO (ENCEFALO)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 14,
+    "cd_item_agendamento": 17.0,
+    "ds_item_agendamento": "RESSONANCIA JOELHO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA JOELHO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Joelho Direito, RM do Joelho Direito, Ressonância Magnética Nuclear do Joelho Direito, Ressonância Magnética com Contraste do Joelho Direito",
+    "ds_exa_rx": "RM JOELHO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 14,
+    "cd_item_agendamento": 10683.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA JOELHO DIREITO",
+    "ds_unificacao": "RESSONÂNCIA JOELHO DIREITO",
+    "alias": "Também conhecido como Ressonância Magnética do Joelho Direito, RM do Joelho Direito, Ressonância Magnética Nuclear do Joelho Direito, Ressonância Magnética com Contraste do Joelho Direito",
+    "ds_exa_rx": "RM JOELHO DIREITO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 74,
+    "cd_item_agendamento": 10851.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA ARTICULACAO TEMPOROMANDIBULAR (BILATERAL)",
+    "ds_unificacao": "RESSONÂNCIA ARTICULAÇÃO TEMPOROMANDIBULAR (BILATERAL)",
+    "alias": "Também conhecido como Ressonancia Magnetica Atm Bilaterla, Rm De Atm, Ressonancia Magnetica De Atm, Rm Condilo Mandibular",
+    "ds_exa_rx": "RM ARTICULACAO TEMPOROMANDIBULAR (BILATERAL)",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 91,
+    "cd_item_agendamento": 149.0,
+    "ds_item_agendamento": "RESSONANCIA DE ABDOME SUPERIOR",
+    "ds_unificacao": "RESSONÂNCIA DE ABDÔMEN SUPERIOR",
+    "alias": "Também conhecido como Ressonância Magnética do Abdome Superior, RM de Abdome Superior, Ressonância Magnética Abdominal Superior, RM de Região Superior do Abdome",
+    "ds_exa_rx": "RM ABDOME SUPERIOR (FIGADO, PANCREAS, BACO, RINS, SUPRA-REN",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 228,
+    "cd_item_agendamento": 11251.0,
+    "ds_item_agendamento": "RESSONANCIA PUNHO ESQUERDO (NL) ",
+    "ds_unificacao": "RESSONÂNCIA PUNHO ESQUERDO",
+    "alias": "Também conhecido como Ressonancia Magnetica Punho Esquerdo, Rm Punho, Ressonancia Magnetica Punho, Rm Tunel Carpo",
+    "ds_exa_rx": "RM PUNHO ESQUERDO",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 91,
+    "cd_item_agendamento": 149.0,
+    "ds_item_agendamento": "RESSONANCIA DE ABDOME SUPERIOR",
+    "ds_unificacao": "RESSONÂNCIA DE ABDÔMEN SUPERIOR",
+    "alias": "Também conhecido como Ressonância Magnética do Abdome Superior, RM de Abdome Superior, Ressonância Magnética Abdominal Superior, RM de Região Superior do Abdome",
+    "ds_exa_rx": "RM ABDOME SUPERIOR (FIGADO, PANCREAS, BACO, RINS, SUPRA-REN",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  }
+]

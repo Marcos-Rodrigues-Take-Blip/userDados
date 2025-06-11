@@ -1,0 +1,62 @@
+[
+  {
+    "cd_unificacao": 194,
+    "cd_item_agendamento": 297.0,
+    "ds_item_agendamento": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "ds_unificacao": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "alias": "Também conhecido como Teste de Inclinação Ortostática, Teste de Inclinação Postural, Tilt Test, Teste de Basculamento",
+    "ds_exa_rx": "TILT TESTE - TESTE DE INCLINACAO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 194,
+    "cd_item_agendamento": 297.0,
+    "ds_item_agendamento": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "ds_unificacao": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "alias": "Também conhecido como Teste de Inclinação Ortostática, Teste de Inclinação Postural, Tilt Test, Teste de Basculamento",
+    "ds_exa_rx": "TILT TESTE - TESTE DE INCLINACAO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 194,
+    "cd_item_agendamento": 297.0,
+    "ds_item_agendamento": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "ds_unificacao": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "alias": "Também conhecido como Teste de Inclinação Ortostática, Teste de Inclinação Postural, Tilt Test, Teste de Basculamento",
+    "ds_exa_rx": "TILT TESTE - TESTE DE INCLINACAO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 194,
+    "cd_item_agendamento": 297.0,
+    "ds_item_agendamento": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "ds_unificacao": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "alias": "Também conhecido como Teste de Inclinação Ortostática, Teste de Inclinação Postural, Tilt Test, Teste de Basculamento",
+    "ds_exa_rx": "TILT TESTE - TESTE DE INCLINACAO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 194,
+    "cd_item_agendamento": 297.0,
+    "ds_item_agendamento": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "ds_unificacao": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "alias": "Também conhecido como Teste de Inclinação Ortostática, Teste de Inclinação Postural, Tilt Test, Teste de Basculamento",
+    "ds_exa_rx": "TILT TESTE - TESTE DE INCLINACAO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 194,
+    "cd_item_agendamento": 297.0,
+    "ds_item_agendamento": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "ds_unificacao": "TILT TESTE - TESTE DE INCLINAÇÃO",
+    "alias": "Também conhecido como Teste de Inclinação Ortostática, Teste de Inclinação Postural, Tilt Test, Teste de Basculamento",
+    "ds_exa_rx": "TILT TESTE - TESTE DE INCLINACAO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  }
+]

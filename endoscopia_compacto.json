@@ -1,0 +1,1312 @@
+[
+  {
+    "cd_unificacao": 546,
+    "cd_item_agendamento": 8124.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA BAIXA",
+    "ds_unificacao": "ECOENDOSCOPIA BAIXA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA BAIXA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 546,
+    "cd_item_agendamento": 8124.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA BAIXA",
+    "ds_unificacao": "ECOENDOSCOPIA BAIXA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA BAIXA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 407,
+    "cd_item_agendamento": 707.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO DO ESÔFAGO, ESTÔMAGO OU DUODENO",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta, EDA",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 72,
+    "cd_item_agendamento": 115.0,
+    "ds_item_agendamento": "BRONCOSCOPIA FLEXIVEL COM BIOPSIA TRANSBRONQUICA",
+    "ds_unificacao": "BRONCOSCOPIA FLEXÍVEL COM BIÓPSIA TRANS BRÔNQUICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "BRONCOSCOPIA COM BIOPSIA TRANSBRONQUICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 517,
+    "cd_item_agendamento": 4104.0,
+    "ds_item_agendamento": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "ds_unificacao": "INJEÇÃO DE SUBSTÂNCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "alias": "Também conhecido como Injeção Terapêutica por Endoscopia, Injeção Endoscópica de Medicamento, Injeção Endoscópica Terapêutica",
+    "ds_exa_rx": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 517,
+    "cd_item_agendamento": 4104.0,
+    "ds_item_agendamento": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "ds_unificacao": "INJEÇÃO DE SUBSTÂNCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "alias": "Também conhecido como Injeção Terapêutica por Endoscopia, Injeção Endoscópica de Medicamento, Injeção Endoscópica Terapêutica",
+    "ds_exa_rx": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 547,
+    "cd_item_agendamento": 8125.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "ds_unificacao": "ECOENDOSCOPIA COM PUNÇÃO POR AGULHA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 407,
+    "cd_item_agendamento": 707.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO DO ESÔFAGO, ESTÔMAGO OU DUODENO",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta, EDA",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 503,
+    "cd_item_agendamento": 3103.0,
+    "ds_item_agendamento": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "ds_unificacao": "COLONOSCOPIA COM BIÓPSIA E/OU CITOLOGIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 72,
+    "cd_item_agendamento": 115.0,
+    "ds_item_agendamento": "BRONCOSCOPIA FLEXIVEL COM BIOPSIA TRANSBRONQUICA",
+    "ds_unificacao": "BRONCOSCOPIA FLEXÍVEL COM BIÓPSIA TRANS BRÔNQUICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "BRONCOSCOPIA COM BIOPSIA TRANSBRONQUICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 549,
+    "cd_item_agendamento": 8128.0,
+    "ds_item_agendamento": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCOPICO",
+    "ds_unificacao": "PRÉ-CONSULTA DE PROCEDIMENTO ENDOSCÓPICO",
+    "alias": "Também conhecido como Pré-Consulta De Procedimento Endoscopico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 547,
+    "cd_item_agendamento": 8125.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "ds_unificacao": "ECOENDOSCOPIA COM PUNÇÃO POR AGULHA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 547,
+    "cd_item_agendamento": 8125.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "ds_unificacao": "ECOENDOSCOPIA COM PUNÇÃO POR AGULHA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 547,
+    "cd_item_agendamento": 8125.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "ds_unificacao": "ECOENDOSCOPIA COM PUNÇÃO POR AGULHA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 547,
+    "cd_item_agendamento": 8125.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "ds_unificacao": "ECOENDOSCOPIA COM PUNÇÃO POR AGULHA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 517,
+    "cd_item_agendamento": 4104.0,
+    "ds_item_agendamento": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "ds_unificacao": "INJEÇÃO DE SUBSTÂNCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "alias": "Também conhecido como Injeção Terapêutica por Endoscopia, Injeção Endoscópica de Medicamento, Injeção Endoscópica Terapêutica",
+    "ds_exa_rx": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 503,
+    "cd_item_agendamento": 3103.0,
+    "ds_item_agendamento": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "ds_unificacao": "COLONOSCOPIA COM BIÓPSIA E/OU CITOLOGIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 407,
+    "cd_item_agendamento": 707.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO DO ESÔFAGO, ESTÔMAGO OU DUODENO",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta, EDA",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 72,
+    "cd_item_agendamento": 115.0,
+    "ds_item_agendamento": "BRONCOSCOPIA FLEXIVEL COM BIOPSIA TRANSBRONQUICA",
+    "ds_unificacao": "BRONCOSCOPIA FLEXÍVEL COM BIÓPSIA TRANS BRÔNQUICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "BRONCOSCOPIA COM BIOPSIA TRANSBRONQUICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 72,
+    "cd_item_agendamento": 115.0,
+    "ds_item_agendamento": "BRONCOSCOPIA FLEXIVEL COM BIOPSIA TRANSBRONQUICA",
+    "ds_unificacao": "BRONCOSCOPIA FLEXÍVEL COM BIÓPSIA TRANS BRÔNQUICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "BRONCOSCOPIA COM BIOPSIA TRANSBRONQUICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 503,
+    "cd_item_agendamento": 3103.0,
+    "ds_item_agendamento": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "ds_unificacao": "COLONOSCOPIA COM BIÓPSIA E/OU CITOLOGIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 547,
+    "cd_item_agendamento": 8125.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "ds_unificacao": "ECOENDOSCOPIA COM PUNÇÃO POR AGULHA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 546,
+    "cd_item_agendamento": 8124.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA BAIXA",
+    "ds_unificacao": "ECOENDOSCOPIA BAIXA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA BAIXA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 72,
+    "cd_item_agendamento": 115.0,
+    "ds_item_agendamento": "BRONCOSCOPIA FLEXIVEL COM BIOPSIA TRANSBRONQUICA",
+    "ds_unificacao": "BRONCOSCOPIA FLEXÍVEL COM BIÓPSIA TRANS BRÔNQUICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "BRONCOSCOPIA COM BIOPSIA TRANSBRONQUICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 72,
+    "cd_item_agendamento": 115.0,
+    "ds_item_agendamento": "BRONCOSCOPIA FLEXIVEL COM BIOPSIA TRANSBRONQUICA",
+    "ds_unificacao": "BRONCOSCOPIA FLEXÍVEL COM BIÓPSIA TRANS BRÔNQUICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "BRONCOSCOPIA COM BIOPSIA TRANSBRONQUICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 71,
+    "cd_item_agendamento": 113.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "alias": "Também conhecido como EDA, Esofagogastroduodenoscopia, Endoscopia Alta, Gastroscopia",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA (ESOF GASTRO-DUODENOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 546,
+    "cd_item_agendamento": 8124.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA BAIXA",
+    "ds_unificacao": "ECOENDOSCOPIA BAIXA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA BAIXA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 517,
+    "cd_item_agendamento": 4104.0,
+    "ds_item_agendamento": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "ds_unificacao": "INJEÇÃO DE SUBSTÂNCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "alias": "Também conhecido como Injeção Terapêutica por Endoscopia, Injeção Endoscópica de Medicamento, Injeção Endoscópica Terapêutica",
+    "ds_exa_rx": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 517,
+    "cd_item_agendamento": 4104.0,
+    "ds_item_agendamento": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "ds_unificacao": "INJEÇÃO DE SUBSTÂNCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "alias": "Também conhecido como Injeção Terapêutica por Endoscopia, Injeção Endoscópica de Medicamento, Injeção Endoscópica Terapêutica",
+    "ds_exa_rx": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 503,
+    "cd_item_agendamento": 3103.0,
+    "ds_item_agendamento": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "ds_unificacao": "COLONOSCOPIA COM BIÓPSIA E/OU CITOLOGIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 503,
+    "cd_item_agendamento": 3103.0,
+    "ds_item_agendamento": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "ds_unificacao": "COLONOSCOPIA COM BIÓPSIA E/OU CITOLOGIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 503,
+    "cd_item_agendamento": 3103.0,
+    "ds_item_agendamento": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "ds_unificacao": "COLONOSCOPIA COM BIÓPSIA E/OU CITOLOGIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 492,
+    "cd_item_agendamento": 2907.0,
+    "ds_item_agendamento": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "ds_unificacao": "HEMOSTASIA TÉRMICA POR ENDOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA TERMICA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 407,
+    "cd_item_agendamento": 707.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO DO ESÔFAGO, ESTÔMAGO OU DUODENO",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta, EDA",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 547,
+    "cd_item_agendamento": 8125.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "ds_unificacao": "ECOENDOSCOPIA COM PUNÇÃO POR AGULHA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA COM PUNCAO POR AGULHA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 546,
+    "cd_item_agendamento": 8124.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA BAIXA",
+    "ds_unificacao": "ECOENDOSCOPIA BAIXA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA BAIXA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 546,
+    "cd_item_agendamento": 8124.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA BAIXA",
+    "ds_unificacao": "ECOENDOSCOPIA BAIXA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA BAIXA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 545,
+    "cd_item_agendamento": 8123.0,
+    "ds_item_agendamento": "ECOENDOSCOPIA ALTA",
+    "ds_unificacao": "ECOENDOSCOPIA ALTA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ECOENDOSCOPIA ALTA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 407,
+    "cd_item_agendamento": 707.0,
+    "ds_item_agendamento": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "ds_unificacao": "RETIRADA DE CORPO ESTRANHO DO ESÔFAGO, ESTÔMAGO OU DUODENO",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta, EDA",
+    "ds_exa_rx": "RETIRADA DE CORPO ESTRANHO DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 100,
+    "cd_item_agendamento": 166.0,
+    "ds_item_agendamento": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE",
+    "ds_unificacao": "ENDOSCOPIA DIGESTIVA ALTA COM BIÓPSIA E TESTE DE UREASE",
+    "alias": "Também conhecido como Endoscopia Digestiva Alta com Biópsia Gástrica, EDA com Biópsia e Teste de Urease, Endoscopia Gastrointestinal com Coleta de Biópsia, Gastroscopia com Exame Histológico",
+    "ds_exa_rx": "ENDOSCOPIA DIGESTIVA ALTA COM BIOPSIA E TESTE DE UREASE (PES",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 70,
+    "cd_item_agendamento": 112.0,
+    "ds_item_agendamento": "COLONOSCOPIA",
+    "ds_unificacao": "COLONOSCOPIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA (INCLUI A RETOSSIGMOIDOSCOPIA)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 517,
+    "cd_item_agendamento": 4104.0,
+    "ds_item_agendamento": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "ds_unificacao": "INJEÇÃO DE SUBSTÂNCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "alias": "Também conhecido como Injeção Terapêutica por Endoscopia, Injeção Endoscópica de Medicamento, Injeção Endoscópica Terapêutica",
+    "ds_exa_rx": "INJECAO DE SUBSTANCIA MEDICAMENTOSA POR ENDOSCOPIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 503,
+    "cd_item_agendamento": 3103.0,
+    "ds_item_agendamento": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "ds_unificacao": "COLONOSCOPIA COM BIÓPSIA E/OU CITOLOGIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLONOSCOPIA COM BIOPSIA E/OU CITOLOGIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 493,
+    "cd_item_agendamento": 2943.0,
+    "ds_item_agendamento": "POLIPECTOMIA DO ESOFAGO, ESTOMAGO OU DUODENO (INDEPENDENTE D",
+    "ds_unificacao": "POLIPECTOMIA DO ESÔFAGO, ESTÔMAGO OU DUODENO (INDEPENDENTE D",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DO ESOFAGO, ESTOMAGO OU DUODENO (INDEPENDENTE D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 103,
+    "cd_item_agendamento": 176.0,
+    "ds_item_agendamento": "POLIPECTOMIA DE COLON",
+    "ds_unificacao": "POLIPECTOMIA DE CÓLON",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DE COLON (INDEPENDENTE DO NUMERO DE POLIPOS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 103,
+    "cd_item_agendamento": 176.0,
+    "ds_item_agendamento": "POLIPECTOMIA DE COLON",
+    "ds_unificacao": "POLIPECTOMIA DE CÓLON",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DE COLON (INDEPENDENTE DO NUMERO DE POLIPOS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 103,
+    "cd_item_agendamento": 176.0,
+    "ds_item_agendamento": "POLIPECTOMIA DE COLON",
+    "ds_unificacao": "POLIPECTOMIA DE CÓLON",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DE COLON (INDEPENDENTE DO NUMERO DE POLIPOS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 360,
+    "cd_item_agendamento": 636.0,
+    "ds_item_agendamento": "GASTROSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "GASTROSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "GASTROSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 360,
+    "cd_item_agendamento": 636.0,
+    "ds_item_agendamento": "GASTROSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "GASTROSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "GASTROSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 360,
+    "cd_item_agendamento": 636.0,
+    "ds_item_agendamento": "GASTROSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "GASTROSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "GASTROSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 504,
+    "cd_item_agendamento": 3104.0,
+    "ds_item_agendamento": "MUCOSECTOMIA",
+    "ds_unificacao": "MUSECTOMIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "MUSECTOMIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 504,
+    "cd_item_agendamento": 3104.0,
+    "ds_item_agendamento": "MUCOSECTOMIA",
+    "ds_unificacao": "MUSECTOMIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "MUSECTOMIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 494,
+    "cd_item_agendamento": 2944.0,
+    "ds_item_agendamento": "JEJUNOSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "JEJUNOSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "JEJUNOSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 494,
+    "cd_item_agendamento": 2944.0,
+    "ds_item_agendamento": "JEJUNOSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "JEJUNOSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "JEJUNOSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 493,
+    "cd_item_agendamento": 2943.0,
+    "ds_item_agendamento": "POLIPECTOMIA DO ESOFAGO, ESTOMAGO OU DUODENO (INDEPENDENTE D",
+    "ds_unificacao": "POLIPECTOMIA DO ESÔFAGO, ESTÔMAGO OU DUODENO (INDEPENDENTE D",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DO ESOFAGO, ESTOMAGO OU DUODENO (INDEPENDENTE D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 359,
+    "cd_item_agendamento": 624.0,
+    "ds_item_agendamento": "PAPILOTOMIA ENDOSCOPICA (RET. DE CALCULOS COLED. OU DRENAGEM",
+    "ds_unificacao": "PAPILOTOMIA ENDOSCÓPICA (RET. DE CÁLCULOS COLED. OU DRENAGEM",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "PAPILOTOMIA ENDOSCOPICA (RET. DE CALCULOS COLED. OU DRENAGEM",
+    "sn_anestesia": "S",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 28,
+    "cd_item_agendamento": 37.0,
+    "ds_item_agendamento": "RETOSSIGMOIDOSCOPIA FLEXIVEL",
+    "ds_unificacao": "RETOSSIGMOIDOSCOPIA FLEXÍVEL",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "RETOSSIGMOIDOSCOPIA FLEXIVEL",
+    "sn_anestesia": "S",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 479,
+    "cd_item_agendamento": 2802.0,
+    "ds_item_agendamento": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "ds_unificacao": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 479,
+    "cd_item_agendamento": 2802.0,
+    "ds_item_agendamento": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "ds_unificacao": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 491,
+    "cd_item_agendamento": 2906.0,
+    "ds_item_agendamento": "HEMOSTASIA MECANICA DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "ds_unificacao": "HEMOSTASIA MECÂNICA DO ESÔFAGO, ESTÔMAGO OU DUODENO",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA MECANICA DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 360,
+    "cd_item_agendamento": 636.0,
+    "ds_item_agendamento": "GASTROSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "GASTROSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "GASTROSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 359,
+    "cd_item_agendamento": 624.0,
+    "ds_item_agendamento": "PAPILOTOMIA ENDOSCOPICA (RET. DE CALCULOS COLED. OU DRENAGEM",
+    "ds_unificacao": "PAPILOTOMIA ENDOSCÓPICA (RET. DE CÁLCULOS COLED. OU DRENAGEM",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "PAPILOTOMIA ENDOSCOPICA (RET. DE CALCULOS COLED. OU DRENAGEM",
+    "sn_anestesia": "S",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 104,
+    "cd_item_agendamento": 177.0,
+    "ds_item_agendamento": "ESTENOSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "ESTENOSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ESTENOSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 103,
+    "cd_item_agendamento": 176.0,
+    "ds_item_agendamento": "POLIPECTOMIA DE COLON",
+    "ds_unificacao": "POLIPECTOMIA DE CÓLON",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DE COLON (INDEPENDENTE DO NUMERO DE POLIPOS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 103,
+    "cd_item_agendamento": 176.0,
+    "ds_item_agendamento": "POLIPECTOMIA DE COLON",
+    "ds_unificacao": "POLIPECTOMIA DE CÓLON",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DE COLON (INDEPENDENTE DO NUMERO DE POLIPOS)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 491,
+    "cd_item_agendamento": 2906.0,
+    "ds_item_agendamento": "HEMOSTASIA MECANICA DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "ds_unificacao": "HEMOSTASIA MECÂNICA DO ESÔFAGO, ESTÔMAGO OU DUODENO",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA MECANICA DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 491,
+    "cd_item_agendamento": 2906.0,
+    "ds_item_agendamento": "HEMOSTASIA MECANICA DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "ds_unificacao": "HEMOSTASIA MECÂNICA DO ESÔFAGO, ESTÔMAGO OU DUODENO",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "HEMOSTASIA MECANICA DO ESOFAGO, ESTOMAGO OU DUODENO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 479,
+    "cd_item_agendamento": 2802.0,
+    "ds_item_agendamento": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "ds_unificacao": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 28,
+    "cd_item_agendamento": 37.0,
+    "ds_item_agendamento": "RETOSSIGMOIDOSCOPIA FLEXIVEL",
+    "ds_unificacao": "RETOSSIGMOIDOSCOPIA FLEXÍVEL",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "RETOSSIGMOIDOSCOPIA FLEXIVEL",
+    "sn_anestesia": "S",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 569,
+    "cd_item_agendamento": 8629.0,
+    "ds_item_agendamento": "PH-METRIA ESOFAGICA COMPUTADORIZADA COM TRES CANAIS",
+    "ds_unificacao": "PH-METRIA ESOFÁGICA COMPUTADORIZADA COM TRÊS CANAIS",
+    "alias": "Também conhecido como PHmetria Esofágica Computadorizada Três Canais, PHmetria Esofágica com Três Canais, PHmetria Esofágica Três Canais Computadorizada, Exame de pH do Esôfago com Três Canais",
+    "ds_exa_rx": "PH-METRIA ESOFAGICA COMPUTADORIZADA COM TRES CANAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 493,
+    "cd_item_agendamento": 2943.0,
+    "ds_item_agendamento": "POLIPECTOMIA DO ESOFAGO, ESTOMAGO OU DUODENO (INDEPENDENTE D",
+    "ds_unificacao": "POLIPECTOMIA DO ESÔFAGO, ESTÔMAGO OU DUODENO (INDEPENDENTE D",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DO ESOFAGO, ESTOMAGO OU DUODENO (INDEPENDENTE D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 104,
+    "cd_item_agendamento": 177.0,
+    "ds_item_agendamento": "ESTENOSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "ESTENOSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ESTENOSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 479,
+    "cd_item_agendamento": 2802.0,
+    "ds_item_agendamento": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "ds_unificacao": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 479,
+    "cd_item_agendamento": 2802.0,
+    "ds_item_agendamento": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "ds_unificacao": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "COLANGIOPANCREATOGRAFIA RETROGRADA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 493,
+    "cd_item_agendamento": 2943.0,
+    "ds_item_agendamento": "POLIPECTOMIA DO ESOFAGO, ESTOMAGO OU DUODENO (INDEPENDENTE D",
+    "ds_unificacao": "POLIPECTOMIA DO ESÔFAGO, ESTÔMAGO OU DUODENO (INDEPENDENTE D",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "POLIPECTOMIA DO ESOFAGO, ESTOMAGO OU DUODENO (INDEPENDENTE D",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 494,
+    "cd_item_agendamento": 2944.0,
+    "ds_item_agendamento": "JEJUNOSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "JEJUNOSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "JEJUNOSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 504,
+    "cd_item_agendamento": 3104.0,
+    "ds_item_agendamento": "MUCOSECTOMIA",
+    "ds_unificacao": "MUSECTOMIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "MUSECTOMIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 520,
+    "cd_item_agendamento": 4109.0,
+    "ds_item_agendamento": "ENTEROSCOPIA DO INTESTINO DELGADO COM CÁPSULA ENDOSCÓPICA",
+    "ds_unificacao": "ENTEROSCOPIA DO INTESTINO DELGADO COM CÁPSULA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ENTEROSCOPIA DO INTESTINO DELGADO COM CÁPSULA ENDOSCÓPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 504,
+    "cd_item_agendamento": 3104.0,
+    "ds_item_agendamento": "MUCOSECTOMIA",
+    "ds_unificacao": "MUSECTOMIA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "MUSECTOMIA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 520,
+    "cd_item_agendamento": 4109.0,
+    "ds_item_agendamento": "ENTEROSCOPIA DO INTESTINO DELGADO COM CÁPSULA ENDOSCÓPICA",
+    "ds_unificacao": "ENTEROSCOPIA DO INTESTINO DELGADO COM CÁPSULA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "ENTEROSCOPIA DO INTESTINO DELGADO COM CÁPSULA ENDOSCÓPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 494,
+    "cd_item_agendamento": 2944.0,
+    "ds_item_agendamento": "JEJUNOSTOMIA ENDOSCOPICA",
+    "ds_unificacao": "JEJUNOSTOMIA ENDOSCÓPICA",
+    "alias": "Este exame necessita de uma pré-consulta.",
+    "ds_exa_rx": "JEJUNOSTOMIA ENDOSCOPICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 540,
+    "cd_item_agendamento": 6262.0,
+    "ds_item_agendamento": "TESTE DE HIDROGENIO EXPIRADO",
+    "ds_unificacao": "TESTE DE HIDROGÊNIO EXPIRADO",
+    "alias": "Também conhecido como Teste De Hidrogenio Expirado",
+    "ds_exa_rx": "TESTE RESPIRATORIO DE INTOLERANICA A LACTOSE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 569,
+    "cd_item_agendamento": 8629.0,
+    "ds_item_agendamento": "PH-METRIA ESOFAGICA COMPUTADORIZADA COM TRES CANAIS",
+    "ds_unificacao": "PH-METRIA ESOFÁGICA COMPUTADORIZADA COM TRÊS CANAIS",
+    "alias": "Também conhecido como PHmetria Esofágica Computadorizada Três Canais, PHmetria Esofágica com Três Canais, PHmetria Esofágica Três Canais Computadorizada, Exame de pH do Esôfago com Três Canais",
+    "ds_exa_rx": "PH-METRIA ESOFAGICA COMPUTADORIZADA COM TRES CANAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  }
+]

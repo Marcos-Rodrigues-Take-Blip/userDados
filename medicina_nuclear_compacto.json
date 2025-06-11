@@ -1,0 +1,962 @@
+[
+  {
+    "cd_unificacao": 568,
+    "cd_item_agendamento": 8627.0,
+    "ds_item_agendamento": "TRATAMENTO COM FARMACO RADIO 223 (XOFIGO)",
+    "ds_unificacao": "TRATAMENTO COM FÁRMACO RADIO 223 (XOFIGO)",
+    "alias": "Também conhecido como Tratamento com Radiofármaco 223 (Xofigo), Terapia com Rádio 223 (Xofigo), Tratamento Radiofarmacêutico 223 (Xofigo) para Câncer de Próstata, Radioterapia com Xofigo para Metástases Ósseas de Câncer de Próstata",
+    "ds_exa_rx": "TRATAMENTO COM FARMACO RADIO 223 (XOFIGO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 156,
+    "cd_item_agendamento": 249.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (ESTRÔNCIO-90)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Estrôncio-89, Terapia de Estrôncio-89 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Estrôncio-89), Terapia de Rádio-89 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 29,
+    "cd_item_agendamento": 40.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "ds_unificacao": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "alias": "Também conhecido como Cintilografia Mamária Bilateral, Cintilografia de Mama Dupla, Cintilografia de Mama Bilateral, Mamografia Molecular",
+    "ds_exa_rx": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 29,
+    "cd_item_agendamento": 40.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "ds_unificacao": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "alias": "Também conhecido como Cintilografia Mamária Bilateral, Cintilografia de Mama Dupla, Cintilografia de Mama Bilateral, Mamografia Molecular",
+    "ds_exa_rx": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 102,
+    "cd_item_agendamento": 173.0,
+    "ds_item_agendamento": "CINTILOGRAFIA CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA CEREBRAL",
+    "alias": "Também conhecido como Cintilografia cerebral, Tomografia computadorizada por emissão de fóton único (SPECT, do inglês Single Photon Emission Computed Tomography) cerebral, Cintilografia com tecnécio do cérebro",
+    "ds_exa_rx": "CINTILOGRAFIA CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 159,
+    "cd_item_agendamento": 253.0,
+    "ds_item_agendamento": "CINTILOGRAFIA MIOCARDIO PERFUSÃO - REPOUSO E ESTRESSE ",
+    "ds_unificacao": "CINTILOGRAFIA  MIOCÁRDIO PERFUSÃO - REPOUSO E STRESS (P1)",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão (CMP), Cintilografia Miocárdica de Repouso e Estresse, SPECT (Tomografia Computadorizada por Emissão de Fóton Único) do Miocárdio, Teste de Esforço Nuclear",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 195,
+    "cd_item_agendamento": 300.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO (P2)",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO (P2)",
+    "alias": "Também conhecido como Cintilografia Miocárdica com Talio-201 ou Sestamibi, SPECT (Tomografia Computadorizada de Emissão de Fóton Único) Cardíaco, PET (Tomografia por Emissão de Pósitrons) Cardíaco",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSÃO - ESTRESSE FARMACOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 195,
+    "cd_item_agendamento": 300.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO (P2)",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO (P2)",
+    "alias": "Também conhecido como Cintilografia Miocárdica com Talio-201 ou Sestamibi, SPECT (Tomografia Computadorizada de Emissão de Fóton Único) Cardíaco, PET (Tomografia por Emissão de Pósitrons) Cardíaco",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSÃO - ESTRESSE FARMACOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 402,
+    "cd_item_agendamento": 693.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CÂMARA HÍBRIDA",
+    "alias": "Também conhecido como PET-CT (Tomografia por Emissão de Pósitrons com Tomografia Computadorizada), PET-CT com FDG-18F",
+    "ds_exa_rx": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 403,
+    "cd_item_agendamento": 696.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (SAMÁRIO-153)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Samário-153, Terapia de Samário-153 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Samário-153), Terapia de Rádio-153 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 568,
+    "cd_item_agendamento": 8627.0,
+    "ds_item_agendamento": "TRATAMENTO COM FARMACO RADIO 223 (XOFIGO)",
+    "ds_unificacao": "TRATAMENTO COM FÁRMACO RADIO 223 (XOFIGO)",
+    "alias": "Também conhecido como Tratamento com Radiofármaco 223 (Xofigo), Terapia com Rádio 223 (Xofigo), Tratamento Radiofarmacêutico 223 (Xofigo) para Câncer de Próstata, Radioterapia com Xofigo para Metástases Ósseas de Câncer de Próstata",
+    "ds_exa_rx": "TRATAMENTO COM FARMACO RADIO 223 (XOFIGO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 29,
+    "cd_item_agendamento": 40.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "ds_unificacao": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "alias": "Também conhecido como Cintilografia Mamária Bilateral, Cintilografia de Mama Dupla, Cintilografia de Mama Bilateral, Mamografia Molecular",
+    "ds_exa_rx": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 48,
+    "cd_item_agendamento": 70.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TOMOGRAFIA 04)",
+    "ds_unificacao": "CINTILOGRAFIA DA TIREÓIDE E/OU CAPTAÇÃO (99M TOMOGRAFIA 04)",
+    "alias": "Também conhecido como Cintilografia da Tireoide com Tecnécio-99m, Cintilografia Tireoidiana, Cintilografia da Tireoide e Captação de Tecnécio-99m, Exame de Captação de Tecnécio-99m para a Tireoide",
+    "ds_exa_rx": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TC 04)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 48,
+    "cd_item_agendamento": 70.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TOMOGRAFIA 04)",
+    "ds_unificacao": "CINTILOGRAFIA DA TIREÓIDE E/OU CAPTAÇÃO (99M TOMOGRAFIA 04)",
+    "alias": "Também conhecido como Cintilografia da Tireoide com Tecnécio-99m, Cintilografia Tireoidiana, Cintilografia da Tireoide e Captação de Tecnécio-99m, Exame de Captação de Tecnécio-99m para a Tireoide",
+    "ds_exa_rx": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TC 04)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 102,
+    "cd_item_agendamento": 173.0,
+    "ds_item_agendamento": "CINTILOGRAFIA CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA CEREBRAL",
+    "alias": "Também conhecido como Cintilografia cerebral, Tomografia computadorizada por emissão de fóton único (SPECT, do inglês Single Photon Emission Computed Tomography) cerebral, Cintilografia com tecnécio do cérebro",
+    "ds_exa_rx": "CINTILOGRAFIA CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 113,
+    "cd_item_agendamento": 190.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "ds_unificacao": "CINTILOGRAFIA PULMONAR (PERFUSÃO)",
+    "alias": "Também conhecido como Cintilografia Pulmonar de Perfusão, Cintilografia Pulmonar de Perfusão e Ventilação, Scintigrafia Pulmonar de Perfusão, Tomografia Computadorizada de Emissão de Fóton Único (SPECT) Pulmonar",
+    "ds_exa_rx": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 145,
+    "cd_item_agendamento": 234.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA DE PERFUSÃO CEREBRAL",
+    "alias": "Também conhecido como SPECT cerebral (Single Photon Emission Computed Tomography), Cintilografia cerebral de perfusão, Tomografia por emissão de pósitrons (PET) cerebral, Scintigrafia cerebral",
+    "ds_exa_rx": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 403,
+    "cd_item_agendamento": 696.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (SAMÁRIO-153)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Samário-153, Terapia de Samário-153 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Samário-153), Terapia de Rádio-153 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 398,
+    "cd_item_agendamento": 683.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO PERFUSÃO - ESTRESSE FÍSICO",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão com Esforço Físico, Cintilografia Miocárdica de Estresse, Cintilografia de Perfusão Miocárdica sob Estresse, Teste de Esforço Miocárdico com Cintilografia",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 397,
+    "cd_item_agendamento": 682.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "alias": "Também conhecido como Cintilografia do Miocárdio com FDG-18F, PET/CT Cardíaco com FDG-18F, Tomografia por Emissão de Pósitrons (PET) Cardíaca com FDG-18F em Câmara Híbrida, Cintilografia Cardíaca com FDG-18F e PET/CT",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 402,
+    "cd_item_agendamento": 693.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CÂMARA HÍBRIDA",
+    "alias": "Também conhecido como PET-CT (Tomografia por Emissão de Pósitrons com Tomografia Computadorizada), PET-CT com FDG-18F",
+    "ds_exa_rx": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 159,
+    "cd_item_agendamento": 253.0,
+    "ds_item_agendamento": "CINTILOGRAFIA MIOCARDIO PERFUSÃO - REPOUSO E ESTRESSE ",
+    "ds_unificacao": "CINTILOGRAFIA  MIOCÁRDIO PERFUSÃO - REPOUSO E STRESS (P1)",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão (CMP), Cintilografia Miocárdica de Repouso e Estresse, SPECT (Tomografia Computadorizada por Emissão de Fóton Único) do Miocárdio, Teste de Esforço Nuclear",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 403,
+    "cd_item_agendamento": 696.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (SAMÁRIO-153)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Samário-153, Terapia de Samário-153 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Samário-153), Terapia de Rádio-153 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 397,
+    "cd_item_agendamento": 682.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "alias": "Também conhecido como Cintilografia do Miocárdio com FDG-18F, PET/CT Cardíaco com FDG-18F, Tomografia por Emissão de Pósitrons (PET) Cardíaca com FDG-18F em Câmara Híbrida, Cintilografia Cardíaca com FDG-18F e PET/CT",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 398,
+    "cd_item_agendamento": 683.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO PERFUSÃO - ESTRESSE FÍSICO",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão com Esforço Físico, Cintilografia Miocárdica de Estresse, Cintilografia de Perfusão Miocárdica sob Estresse, Teste de Esforço Miocárdico com Cintilografia",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 398,
+    "cd_item_agendamento": 683.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO PERFUSÃO - ESTRESSE FÍSICO",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão com Esforço Físico, Cintilografia Miocárdica de Estresse, Cintilografia de Perfusão Miocárdica sob Estresse, Teste de Esforço Miocárdico com Cintilografia",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 402,
+    "cd_item_agendamento": 693.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CÂMARA HÍBRIDA",
+    "alias": "Também conhecido como PET-CT (Tomografia por Emissão de Pósitrons com Tomografia Computadorizada), PET-CT com FDG-18F",
+    "ds_exa_rx": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 403,
+    "cd_item_agendamento": 696.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (SAMÁRIO-153)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Samário-153, Terapia de Samário-153 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Samário-153), Terapia de Rádio-153 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 195,
+    "cd_item_agendamento": 300.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO (P2)",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO (P2)",
+    "alias": "Também conhecido como Cintilografia Miocárdica com Talio-201 ou Sestamibi, SPECT (Tomografia Computadorizada de Emissão de Fóton Único) Cardíaco, PET (Tomografia por Emissão de Pósitrons) Cardíaco",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSÃO - ESTRESSE FARMACOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 29,
+    "cd_item_agendamento": 40.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "ds_unificacao": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "alias": "Também conhecido como Cintilografia Mamária Bilateral, Cintilografia de Mama Dupla, Cintilografia de Mama Bilateral, Mamografia Molecular",
+    "ds_exa_rx": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 48,
+    "cd_item_agendamento": 70.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TOMOGRAFIA 04)",
+    "ds_unificacao": "CINTILOGRAFIA DA TIREÓIDE E/OU CAPTAÇÃO (99M TOMOGRAFIA 04)",
+    "alias": "Também conhecido como Cintilografia da Tireoide com Tecnécio-99m, Cintilografia Tireoidiana, Cintilografia da Tireoide e Captação de Tecnécio-99m, Exame de Captação de Tecnécio-99m para a Tireoide",
+    "ds_exa_rx": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TC 04)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 48,
+    "cd_item_agendamento": 70.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TOMOGRAFIA 04)",
+    "ds_unificacao": "CINTILOGRAFIA DA TIREÓIDE E/OU CAPTAÇÃO (99M TOMOGRAFIA 04)",
+    "alias": "Também conhecido como Cintilografia da Tireoide com Tecnécio-99m, Cintilografia Tireoidiana, Cintilografia da Tireoide e Captação de Tecnécio-99m, Exame de Captação de Tecnécio-99m para a Tireoide",
+    "ds_exa_rx": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TC 04)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 113,
+    "cd_item_agendamento": 190.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "ds_unificacao": "CINTILOGRAFIA PULMONAR (PERFUSÃO)",
+    "alias": "Também conhecido como Cintilografia Pulmonar de Perfusão, Cintilografia Pulmonar de Perfusão e Ventilação, Scintigrafia Pulmonar de Perfusão, Tomografia Computadorizada de Emissão de Fóton Único (SPECT) Pulmonar",
+    "ds_exa_rx": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 156,
+    "cd_item_agendamento": 249.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (ESTRÔNCIO-90)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Estrôncio-89, Terapia de Estrôncio-89 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Estrôncio-89), Terapia de Rádio-89 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 195,
+    "cd_item_agendamento": 300.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO (P2)",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO (P2)",
+    "alias": "Também conhecido como Cintilografia Miocárdica com Talio-201 ou Sestamibi, SPECT (Tomografia Computadorizada de Emissão de Fóton Único) Cardíaco, PET (Tomografia por Emissão de Pósitrons) Cardíaco",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSÃO - ESTRESSE FARMACOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 145,
+    "cd_item_agendamento": 234.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA DE PERFUSÃO CEREBRAL",
+    "alias": "Também conhecido como SPECT cerebral (Single Photon Emission Computed Tomography), Cintilografia cerebral de perfusão, Tomografia por emissão de pósitrons (PET) cerebral, Scintigrafia cerebral",
+    "ds_exa_rx": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 159,
+    "cd_item_agendamento": 253.0,
+    "ds_item_agendamento": "CINTILOGRAFIA MIOCARDIO PERFUSÃO - REPOUSO E ESTRESSE ",
+    "ds_unificacao": "CINTILOGRAFIA  MIOCÁRDIO PERFUSÃO - REPOUSO E STRESS (P1)",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão (CMP), Cintilografia Miocárdica de Repouso e Estresse, SPECT (Tomografia Computadorizada por Emissão de Fóton Único) do Miocárdio, Teste de Esforço Nuclear",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 113,
+    "cd_item_agendamento": 190.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "ds_unificacao": "CINTILOGRAFIA PULMONAR (PERFUSÃO)",
+    "alias": "Também conhecido como Cintilografia Pulmonar de Perfusão, Cintilografia Pulmonar de Perfusão e Ventilação, Scintigrafia Pulmonar de Perfusão, Tomografia Computadorizada de Emissão de Fóton Único (SPECT) Pulmonar",
+    "ds_exa_rx": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 159,
+    "cd_item_agendamento": 253.0,
+    "ds_item_agendamento": "CINTILOGRAFIA MIOCARDIO PERFUSÃO - REPOUSO E ESTRESSE ",
+    "ds_unificacao": "CINTILOGRAFIA  MIOCÁRDIO PERFUSÃO - REPOUSO E STRESS (P1)",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão (CMP), Cintilografia Miocárdica de Repouso e Estresse, SPECT (Tomografia Computadorizada por Emissão de Fóton Único) do Miocárdio, Teste de Esforço Nuclear",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 145,
+    "cd_item_agendamento": 234.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA DE PERFUSÃO CEREBRAL",
+    "alias": "Também conhecido como SPECT cerebral (Single Photon Emission Computed Tomography), Cintilografia cerebral de perfusão, Tomografia por emissão de pósitrons (PET) cerebral, Scintigrafia cerebral",
+    "ds_exa_rx": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 145,
+    "cd_item_agendamento": 234.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA DE PERFUSÃO CEREBRAL",
+    "alias": "Também conhecido como SPECT cerebral (Single Photon Emission Computed Tomography), Cintilografia cerebral de perfusão, Tomografia por emissão de pósitrons (PET) cerebral, Scintigrafia cerebral",
+    "ds_exa_rx": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 156,
+    "cd_item_agendamento": 249.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (ESTRÔNCIO-90)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Estrôncio-89, Terapia de Estrôncio-89 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Estrôncio-89), Terapia de Rádio-89 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 159,
+    "cd_item_agendamento": 253.0,
+    "ds_item_agendamento": "CINTILOGRAFIA MIOCARDIO PERFUSÃO - REPOUSO E ESTRESSE ",
+    "ds_unificacao": "CINTILOGRAFIA  MIOCÁRDIO PERFUSÃO - REPOUSO E STRESS (P1)",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão (CMP), Cintilografia Miocárdica de Repouso e Estresse, SPECT (Tomografia Computadorizada por Emissão de Fóton Único) do Miocárdio, Teste de Esforço Nuclear",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 195,
+    "cd_item_agendamento": 300.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO (P2)",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO (P2)",
+    "alias": "Também conhecido como Cintilografia Miocárdica com Talio-201 ou Sestamibi, SPECT (Tomografia Computadorizada de Emissão de Fóton Único) Cardíaco, PET (Tomografia por Emissão de Pósitrons) Cardíaco",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSÃO - ESTRESSE FARMACOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 398,
+    "cd_item_agendamento": 683.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO PERFUSÃO - ESTRESSE FÍSICO",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão com Esforço Físico, Cintilografia Miocárdica de Estresse, Cintilografia de Perfusão Miocárdica sob Estresse, Teste de Esforço Miocárdico com Cintilografia",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 29,
+    "cd_item_agendamento": 40.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "ds_unificacao": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "alias": "Também conhecido como Cintilografia Mamária Bilateral, Cintilografia de Mama Dupla, Cintilografia de Mama Bilateral, Mamografia Molecular",
+    "ds_exa_rx": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 102,
+    "cd_item_agendamento": 173.0,
+    "ds_item_agendamento": "CINTILOGRAFIA CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA CEREBRAL",
+    "alias": "Também conhecido como Cintilografia cerebral, Tomografia computadorizada por emissão de fóton único (SPECT, do inglês Single Photon Emission Computed Tomography) cerebral, Cintilografia com tecnécio do cérebro",
+    "ds_exa_rx": "CINTILOGRAFIA CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 113,
+    "cd_item_agendamento": 190.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "ds_unificacao": "CINTILOGRAFIA PULMONAR (PERFUSÃO)",
+    "alias": "Também conhecido como Cintilografia Pulmonar de Perfusão, Cintilografia Pulmonar de Perfusão e Ventilação, Scintigrafia Pulmonar de Perfusão, Tomografia Computadorizada de Emissão de Fóton Único (SPECT) Pulmonar",
+    "ds_exa_rx": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 145,
+    "cd_item_agendamento": 234.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA DE PERFUSÃO CEREBRAL",
+    "alias": "Também conhecido como SPECT cerebral (Single Photon Emission Computed Tomography), Cintilografia cerebral de perfusão, Tomografia por emissão de pósitrons (PET) cerebral, Scintigrafia cerebral",
+    "ds_exa_rx": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 156,
+    "cd_item_agendamento": 249.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (ESTRÔNCIO-90)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Estrôncio-89, Terapia de Estrôncio-89 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Estrôncio-89), Terapia de Rádio-89 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 159,
+    "cd_item_agendamento": 253.0,
+    "ds_item_agendamento": "CINTILOGRAFIA MIOCARDIO PERFUSÃO - REPOUSO E ESTRESSE ",
+    "ds_unificacao": "CINTILOGRAFIA  MIOCÁRDIO PERFUSÃO - REPOUSO E STRESS (P1)",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão (CMP), Cintilografia Miocárdica de Repouso e Estresse, SPECT (Tomografia Computadorizada por Emissão de Fóton Único) do Miocárdio, Teste de Esforço Nuclear",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 159,
+    "cd_item_agendamento": 253.0,
+    "ds_item_agendamento": "CINTILOGRAFIA MIOCARDIO PERFUSÃO - REPOUSO E ESTRESSE ",
+    "ds_unificacao": "CINTILOGRAFIA  MIOCÁRDIO PERFUSÃO - REPOUSO E STRESS (P1)",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão (CMP), Cintilografia Miocárdica de Repouso e Estresse, SPECT (Tomografia Computadorizada por Emissão de Fóton Único) do Miocárdio, Teste de Esforço Nuclear",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 397,
+    "cd_item_agendamento": 682.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "alias": "Também conhecido como Cintilografia do Miocárdio com FDG-18F, PET/CT Cardíaco com FDG-18F, Tomografia por Emissão de Pósitrons (PET) Cardíaca com FDG-18F em Câmara Híbrida, Cintilografia Cardíaca com FDG-18F e PET/CT",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 397,
+    "cd_item_agendamento": 682.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "alias": "Também conhecido como Cintilografia do Miocárdio com FDG-18F, PET/CT Cardíaco com FDG-18F, Tomografia por Emissão de Pósitrons (PET) Cardíaca com FDG-18F em Câmara Híbrida, Cintilografia Cardíaca com FDG-18F e PET/CT",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 145,
+    "cd_item_agendamento": 234.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA DE PERFUSÃO CEREBRAL",
+    "alias": "Também conhecido como SPECT cerebral (Single Photon Emission Computed Tomography), Cintilografia cerebral de perfusão, Tomografia por emissão de pósitrons (PET) cerebral, Scintigrafia cerebral",
+    "ds_exa_rx": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 113,
+    "cd_item_agendamento": 190.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "ds_unificacao": "CINTILOGRAFIA PULMONAR (PERFUSÃO)",
+    "alias": "Também conhecido como Cintilografia Pulmonar de Perfusão, Cintilografia Pulmonar de Perfusão e Ventilação, Scintigrafia Pulmonar de Perfusão, Tomografia Computadorizada de Emissão de Fóton Único (SPECT) Pulmonar",
+    "ds_exa_rx": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 102,
+    "cd_item_agendamento": 173.0,
+    "ds_item_agendamento": "CINTILOGRAFIA CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA CEREBRAL",
+    "alias": "Também conhecido como Cintilografia cerebral, Tomografia computadorizada por emissão de fóton único (SPECT, do inglês Single Photon Emission Computed Tomography) cerebral, Cintilografia com tecnécio do cérebro",
+    "ds_exa_rx": "CINTILOGRAFIA CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 397,
+    "cd_item_agendamento": 682.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "alias": "Também conhecido como Cintilografia do Miocárdio com FDG-18F, PET/CT Cardíaco com FDG-18F, Tomografia por Emissão de Pósitrons (PET) Cardíaca com FDG-18F em Câmara Híbrida, Cintilografia Cardíaca com FDG-18F e PET/CT",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 568,
+    "cd_item_agendamento": 8627.0,
+    "ds_item_agendamento": "TRATAMENTO COM FARMACO RADIO 223 (XOFIGO)",
+    "ds_unificacao": "TRATAMENTO COM FÁRMACO RADIO 223 (XOFIGO)",
+    "alias": "Também conhecido como Tratamento com Radiofármaco 223 (Xofigo), Terapia com Rádio 223 (Xofigo), Tratamento Radiofarmacêutico 223 (Xofigo) para Câncer de Próstata, Radioterapia com Xofigo para Metástases Ósseas de Câncer de Próstata",
+    "ds_exa_rx": "TRATAMENTO COM FARMACO RADIO 223 (XOFIGO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 29,
+    "cd_item_agendamento": 40.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "ds_unificacao": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "alias": "Também conhecido como Cintilografia Mamária Bilateral, Cintilografia de Mama Dupla, Cintilografia de Mama Bilateral, Mamografia Molecular",
+    "ds_exa_rx": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 48,
+    "cd_item_agendamento": 70.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TOMOGRAFIA 04)",
+    "ds_unificacao": "CINTILOGRAFIA DA TIREÓIDE E/OU CAPTAÇÃO (99M TOMOGRAFIA 04)",
+    "alias": "Também conhecido como Cintilografia da Tireoide com Tecnécio-99m, Cintilografia Tireoidiana, Cintilografia da Tireoide e Captação de Tecnécio-99m, Exame de Captação de Tecnécio-99m para a Tireoide",
+    "ds_exa_rx": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TC 04)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 102,
+    "cd_item_agendamento": 173.0,
+    "ds_item_agendamento": "CINTILOGRAFIA CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA CEREBRAL",
+    "alias": "Também conhecido como Cintilografia cerebral, Tomografia computadorizada por emissão de fóton único (SPECT, do inglês Single Photon Emission Computed Tomography) cerebral, Cintilografia com tecnécio do cérebro",
+    "ds_exa_rx": "CINTILOGRAFIA CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 113,
+    "cd_item_agendamento": 190.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "ds_unificacao": "CINTILOGRAFIA PULMONAR (PERFUSÃO)",
+    "alias": "Também conhecido como Cintilografia Pulmonar de Perfusão, Cintilografia Pulmonar de Perfusão e Ventilação, Scintigrafia Pulmonar de Perfusão, Tomografia Computadorizada de Emissão de Fóton Único (SPECT) Pulmonar",
+    "ds_exa_rx": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 195,
+    "cd_item_agendamento": 300.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO (P2)",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO (P2)",
+    "alias": "Também conhecido como Cintilografia Miocárdica com Talio-201 ou Sestamibi, SPECT (Tomografia Computadorizada de Emissão de Fóton Único) Cardíaco, PET (Tomografia por Emissão de Pósitrons) Cardíaco",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSÃO - ESTRESSE FARMACOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 397,
+    "cd_item_agendamento": 682.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "alias": "Também conhecido como Cintilografia do Miocárdio com FDG-18F, PET/CT Cardíaco com FDG-18F, Tomografia por Emissão de Pósitrons (PET) Cardíaca com FDG-18F em Câmara Híbrida, Cintilografia Cardíaca com FDG-18F e PET/CT",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 102,
+    "cd_item_agendamento": 173.0,
+    "ds_item_agendamento": "CINTILOGRAFIA CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA CEREBRAL",
+    "alias": "Também conhecido como Cintilografia cerebral, Tomografia computadorizada por emissão de fóton único (SPECT, do inglês Single Photon Emission Computed Tomography) cerebral, Cintilografia com tecnécio do cérebro",
+    "ds_exa_rx": "CINTILOGRAFIA CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 398,
+    "cd_item_agendamento": 683.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO PERFUSÃO - ESTRESSE FÍSICO",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão com Esforço Físico, Cintilografia Miocárdica de Estresse, Cintilografia de Perfusão Miocárdica sob Estresse, Teste de Esforço Miocárdico com Cintilografia",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 402,
+    "cd_item_agendamento": 693.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CÂMARA HÍBRIDA",
+    "alias": "Também conhecido como PET-CT (Tomografia por Emissão de Pósitrons com Tomografia Computadorizada), PET-CT com FDG-18F",
+    "ds_exa_rx": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 398,
+    "cd_item_agendamento": 683.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO PERFUSÃO - ESTRESSE FÍSICO",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão com Esforço Físico, Cintilografia Miocárdica de Estresse, Cintilografia de Perfusão Miocárdica sob Estresse, Teste de Esforço Miocárdico com Cintilografia",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 402,
+    "cd_item_agendamento": 693.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "ds_unificacao": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CÂMARA HÍBRIDA",
+    "alias": "Também conhecido como PET-CT (Tomografia por Emissão de Pósitrons com Tomografia Computadorizada), PET-CT com FDG-18F",
+    "ds_exa_rx": "CINTILOGRAFIA DE CORPO TOTAL COM FDG-18 F, EM CAMARA HIBRIDA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 48,
+    "cd_item_agendamento": 70.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TOMOGRAFIA 04)",
+    "ds_unificacao": "CINTILOGRAFIA DA TIREÓIDE E/OU CAPTAÇÃO (99M TOMOGRAFIA 04)",
+    "alias": "Também conhecido como Cintilografia da Tireoide com Tecnécio-99m, Cintilografia Tireoidiana, Cintilografia da Tireoide e Captação de Tecnécio-99m, Exame de Captação de Tecnécio-99m para a Tireoide",
+    "ds_exa_rx": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TC 04)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 102,
+    "cd_item_agendamento": 173.0,
+    "ds_item_agendamento": "CINTILOGRAFIA CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA CEREBRAL",
+    "alias": "Também conhecido como Cintilografia cerebral, Tomografia computadorizada por emissão de fóton único (SPECT, do inglês Single Photon Emission Computed Tomography) cerebral, Cintilografia com tecnécio do cérebro",
+    "ds_exa_rx": "CINTILOGRAFIA CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 145,
+    "cd_item_agendamento": 234.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "ds_unificacao": "CINTILOGRAFIA DE PERFUSÃO CEREBRAL",
+    "alias": "Também conhecido como SPECT cerebral (Single Photon Emission Computed Tomography), Cintilografia cerebral de perfusão, Tomografia por emissão de pósitrons (PET) cerebral, Scintigrafia cerebral",
+    "ds_exa_rx": "CINTILOGRAFIA DE PERFUSAO CEREBRAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 398,
+    "cd_item_agendamento": 683.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO PERFUSÃO - ESTRESSE FÍSICO",
+    "alias": "Também conhecido como Cintilografia Miocárdica de Perfusão com Esforço Físico, Cintilografia Miocárdica de Estresse, Cintilografia de Perfusão Miocárdica sob Estresse, Teste de Esforço Miocárdico com Cintilografia",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSAO - ESTRESSE FISICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 113,
+    "cd_item_agendamento": 190.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "ds_unificacao": "CINTILOGRAFIA PULMONAR (PERFUSÃO)",
+    "alias": "Também conhecido como Cintilografia Pulmonar de Perfusão, Cintilografia Pulmonar de Perfusão e Ventilação, Scintigrafia Pulmonar de Perfusão, Tomografia Computadorizada de Emissão de Fóton Único (SPECT) Pulmonar",
+    "ds_exa_rx": "CINTILOGRAFIA PULMONAR (PERFUSAO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 195,
+    "cd_item_agendamento": 300.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DO MIOCARDIO (P2)",
+    "ds_unificacao": "CINTILOGRAFIA DO MIOCÁRDIO (P2)",
+    "alias": "Também conhecido como Cintilografia Miocárdica com Talio-201 ou Sestamibi, SPECT (Tomografia Computadorizada de Emissão de Fóton Único) Cardíaco, PET (Tomografia por Emissão de Pósitrons) Cardíaco",
+    "ds_exa_rx": "CINTILOGRAFIA DO MIOCARDIO PERFUSÃO - ESTRESSE FARMACOLOGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 29,
+    "cd_item_agendamento": 40.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "ds_unificacao": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "alias": "Também conhecido como Cintilografia Mamária Bilateral, Cintilografia de Mama Dupla, Cintilografia de Mama Bilateral, Mamografia Molecular",
+    "ds_exa_rx": "CINTILOGRAFIA DE MAMA (BILATERAL)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 48,
+    "cd_item_agendamento": 70.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TOMOGRAFIA 04)",
+    "ds_unificacao": "CINTILOGRAFIA DA TIREÓIDE E/OU CAPTAÇÃO (99M TOMOGRAFIA 04)",
+    "alias": "Também conhecido como Cintilografia da Tireoide com Tecnécio-99m, Cintilografia Tireoidiana, Cintilografia da Tireoide e Captação de Tecnécio-99m, Exame de Captação de Tecnécio-99m para a Tireoide",
+    "ds_exa_rx": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (99M TC 04)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 156,
+    "cd_item_agendamento": 249.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (ESTRÔNCIO-90)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Estrôncio-89, Terapia de Estrôncio-89 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Estrôncio-89), Terapia de Rádio-89 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (ESTRONCIO-90)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 403,
+    "cd_item_agendamento": 696.0,
+    "ds_item_agendamento": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "ds_unificacao": "TRATAMENTO DE METÁSTASES ÓSSEAS (SAMÁRIO-153)",
+    "alias": "Também conhecido como Tratamento de Metástases Ósseas com Samário-153, Terapia de Samário-153 para Lesões Ósseas Metastáticas, Tratamento Radioisotópico para Metástases Ósseas (Samário-153), Terapia de Rádio-153 para Metástases Ósseas",
+    "ds_exa_rx": "TRATAMENTO DE METASTASES OSSEAS (SAMARIO-153)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 140,
+    "cd_item_agendamento": 223.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PARA DETECCAO DE HEMORRAGIA DIGESTORIA ATIVA",
+    "ds_unificacao": "CINTILOGRAFIA PARA DETECÇÃO DE HEMORRAGIA DIGESTÓRIA ATIVA",
+    "alias": "Também conhecido como Cintilografia Gástrica com Tecnécio-99m, Cintilografia para Detecção de Sangramento Digestivo, Cintilografia para Identificação de Hemorragia Digestiva Ativa, Cintilografia com Tecnécio-99m para Hemorragia Gastrointestinal",
+    "ds_exa_rx": "CINTILOGRAFIA PARA DETECCAO DE HEMORRAGIA DIGESTORIA ATIVA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 401,
+    "cd_item_agendamento": 692.0,
+    "ds_item_agendamento": "CINTILOGRAFIA COM ANALOGO DE SOMATOSTATINA",
+    "ds_unificacao": "CINTILOGRAFIA COM ANÁLOGO DE SOMATOSTATINA",
+    "alias": "Também conhecido como Cintilografia com Análogo de Somatostatina, Cintilografia Octreotídeo, Cintilografia com Octreotídeo, Cintilografia com Análogo de SST (Somatostatina)",
+    "ds_exa_rx": "CINTILOGRAFIA COM ANALOGO DE SOMATOSTATINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 401,
+    "cd_item_agendamento": 692.0,
+    "ds_item_agendamento": "CINTILOGRAFIA COM ANALOGO DE SOMATOSTATINA",
+    "ds_unificacao": "CINTILOGRAFIA COM ANÁLOGO DE SOMATOSTATINA",
+    "alias": "Também conhecido como Cintilografia com Análogo de Somatostatina, Cintilografia Octreotídeo, Cintilografia com Octreotídeo, Cintilografia com Análogo de SST (Somatostatina)",
+    "ds_exa_rx": "CINTILOGRAFIA COM ANALOGO DE SOMATOSTATINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 401,
+    "cd_item_agendamento": 692.0,
+    "ds_item_agendamento": "CINTILOGRAFIA COM ANALOGO DE SOMATOSTATINA",
+    "ds_unificacao": "CINTILOGRAFIA COM ANÁLOGO DE SOMATOSTATINA",
+    "alias": "Também conhecido como Cintilografia com Análogo de Somatostatina, Cintilografia Octreotídeo, Cintilografia com Octreotídeo, Cintilografia com Análogo de SST (Somatostatina)",
+    "ds_exa_rx": "CINTILOGRAFIA COM ANALOGO DE SOMATOSTATINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 401,
+    "cd_item_agendamento": 692.0,
+    "ds_item_agendamento": "CINTILOGRAFIA COM ANALOGO DE SOMATOSTATINA",
+    "ds_unificacao": "CINTILOGRAFIA COM ANÁLOGO DE SOMATOSTATINA",
+    "alias": "Também conhecido como Cintilografia com Análogo de Somatostatina, Cintilografia Octreotídeo, Cintilografia com Octreotídeo, Cintilografia com Análogo de SST (Somatostatina)",
+    "ds_exa_rx": "CINTILOGRAFIA COM ANALOGO DE SOMATOSTATINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 399,
+    "cd_item_agendamento": 686.0,
+    "ds_item_agendamento": "CINTILOGRAFIA ESTUDO DE TRANSITO ESOFAGICO SEMI SOLIDOS",
+    "ds_unificacao": "CINTILOGRAFIA ESTUDO DE TRÂNSITO ESOFÁGICO SEMI SÓLIDOS",
+    "alias": "Também conhecido como Cintilografia do Trânsito Esofágico, Estudo de Motilidade Esofágica por Cintilografia, Cintilografia Esofágica com Alimentos Semi Sólidos, Cintilografia com Bário para Avaliação do Esôfago",
+    "ds_exa_rx": "CINTILOGRAFIA ESTUDO DE TRANSITO ESOFAGICO SEMI SOLIDOS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 138,
+    "cd_item_agendamento": 221.0,
+    "ds_item_agendamento": "CINTILOGRAFIA ESTUDO DE TRANSITO ESOFAGICO LIQUIDOS",
+    "ds_unificacao": "CINTILOGRAFIA ESTUDO DE TRÂNSITO ESOFÁGICO LÍQUIDOS",
+    "alias": "Também conhecido como Cintilografia do Trânsito Esofágico, Cintilografia Esofágica",
+    "ds_exa_rx": "CINTILOGRAFIA ESTUDO DE TRANSITO ESOFAGICO LIQUIDOS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 139,
+    "cd_item_agendamento": 222.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PARA PESQUISA DE REFLUXO GASTRO-ESOFAGICO",
+    "ds_unificacao": "CINTILOGRAFIA PARA PESQUISA DE REFLUXO GASTRESOFÁGICO",
+    "alias": "Também conhecido como Cintilografia Gastroesofágica, Cintilografia de Refluxo Gastroesofágico, Cintilografia de Esvaziamento Gástrico com Refluxo, Cintilografia do Trato Gastrointestinal Superior",
+    "ds_exa_rx": "CINTILOGRAFIA PARA PESQUISA DE REFLUXO GASTRO-ESOFAGICO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 264,
+    "cd_item_agendamento": 389.0,
+    "ds_item_agendamento": "CINTILOGRAFIA PARA PESQUISA DE DIVERTICULO DE MECKEL",
+    "ds_unificacao": "CINTILOGRAFIA PARA PESQUISA DE DIVERTÍCULO DE MECKEL",
+    "alias": "Também conhecido como Cintilografia do Meckel, Cintilografia de Divertículo de Meckel",
+    "ds_exa_rx": "CINTILOGRAFIA PARA PESQUISA DE DIVERTICULO DE MECKEL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 136,
+    "cd_item_agendamento": 219.0,
+    "ds_item_agendamento": "CINTILOGRAFIA COM HEMACIAS MARCADAS",
+    "ds_unificacao": "CINTILOGRAFIA COM HEMÁCIAS MARCADAS",
+    "alias": "Também conhecido como Cintilografia com Hemácias Marcadas, Cintilografia Eritrocitária, Cintilografia com Pirofosfato Marcado com Tecnécio-99m para Eritrócitos, Cintilografia de Sangramento Ativo",
+    "ds_exa_rx": "CINTILOGRAFIA COM HEMACIAS MARCADAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 142,
+    "cd_item_agendamento": 225.0,
+    "ds_item_agendamento": "FLUXO SANGUINEO HEPATICO (QUALITATIVO E QUANTITATIVO)",
+    "ds_unificacao": "FLUXO SANGUÍNEO HEPÁTICO (QUALITATIVO E QUANTITATIVO)",
+    "alias": "Também conhecido como Fluxo Sanguineo Hepatico (Qualitativo E Quantitativo)",
+    "ds_exa_rx": "FLUXO SANGUINEO HEPATICO (QUALITATIVO E QUANTITATIVO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 165,
+    "cd_item_agendamento": 260.0,
+    "ds_item_agendamento": "TRATAMENTO DO CANCER DE TIREOIDE 400 MICI",
+    "ds_unificacao": "TRATAMENTO DO CÂNCER DE TIREÓIDE 400 MICI",
+    "alias": "Também conhecido como Terapia de Iodo Radioativo (400 mCi) para Câncer de Tireoide, Tratamento de Tireoide com Iodo-131 (400 mCi), Tratamento Radioisotópico para Carcinoma de Tireoide (400 mCi), Terapia de Radionuclídeo para Tumores de Tireoide (400 mCi)",
+    "ds_exa_rx": "TRATAMENTO DO CANCER DE TIREOIDE 400 MICI",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 164,
+    "cd_item_agendamento": 259.0,
+    "ds_item_agendamento": "TRATAMENTO DO CANCER DE TIREOIDE 250 MICI",
+    "ds_unificacao": "TRATAMENTO DO CÂNCER DE TIREÓIDE 250 MICI",
+    "alias": "Também conhecido como Tratamento com Iodo Radioativo para Câncer de Tireoide (250 mCi), Terapia de Iodo Radioativo (250 mCi) para Carcinoma de Tireoide, Tratamento Radioisotópico para Tumores de Tireoide (250 mCi), Terapia de Radionuclídeo para Câncer de Tireoide (250 mCi)",
+    "ds_exa_rx": "TRATAMENTO DO CANCER DE TIREOIDE 250 MICI",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 163,
+    "cd_item_agendamento": 258.0,
+    "ds_item_agendamento": "RENOGRAMA",
+    "ds_unificacao": "RENOGRAMA",
+    "alias": "Também conhecido como Renograma",
+    "ds_exa_rx": "RENOGRAMA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 161,
+    "cd_item_agendamento": 255.0,
+    "ds_item_agendamento": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (123 IODO)",
+    "ds_unificacao": "CINTILOGRAFIA DA TIREÓIDE E/OU CAPTAÇÃO (123 IODO)",
+    "alias": "Também conhecido como Cintilografia com 123I, Cintilografia da Tireoide com 123I, Captação de Iodo pela Tireoide, Cintilografia da Glândula Tireoide",
+    "ds_exa_rx": "CINTILOGRAFIA DA TIROIDE E/OU CAPTACAO (123 IODO)",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 160,
+    "cd_item_agendamento": 254.0,
+    "ds_item_agendamento": "CINTILOGRAFIA COM MIBG (METAIODOBENZILGUANIDINA) IODO 123",
+    "ds_unificacao": "CINTILOGRAFIA COM MIBG (METAIODOBENZILGUANIDINA) IODO 123",
+    "alias": "Também conhecido como Cintilografia Com Mibg (Metaiodobenzilguanidina) Iodo 123",
+    "ds_exa_rx": "CINTILOGRAFIA COM MIBG (METAIODOBENZILGUANIDINA) IODO 123",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  }
+]

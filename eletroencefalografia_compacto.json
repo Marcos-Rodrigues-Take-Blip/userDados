@@ -1,0 +1,212 @@
+[
+  {
+    "cd_unificacao": 286,
+    "cd_item_agendamento": 417.0,
+    "ds_item_agendamento": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "ds_unificacao": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "alias": "Também conhecido como Exame de Confirmação de Morte Encefálica (ECME), Exame Neurológico de Morte Encefálica (ENME)",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA MORTE ENCEFA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 285,
+    "cd_item_agendamento": 416.0,
+    "ds_item_agendamento": "EEG DE ROTI",
+    "ds_unificacao": "EEG DE ROTINA",
+    "alias": "Também conhecido como Eletroencefalograma de Rotina",
+    "ds_exa_rx": "EEG DE ROTINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 285,
+    "cd_item_agendamento": 416.0,
+    "ds_item_agendamento": "EEG DE ROTI",
+    "ds_unificacao": "EEG DE ROTINA",
+    "alias": "Também conhecido como Eletroencefalograma de Rotina",
+    "ds_exa_rx": "EEG DE ROTINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 118,
+    "cd_item_agendamento": 197.0,
+    "ds_item_agendamento": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "ds_unificacao": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "alias": "Também conhecido como EEG em Vigília, EEG de Sono Espontâneo, EEG de Sono Induzido",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA EM VIGILIA E SONO ESPONTANEO OU INDUZIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 285,
+    "cd_item_agendamento": 416.0,
+    "ds_item_agendamento": "EEG DE ROTI",
+    "ds_unificacao": "EEG DE ROTINA",
+    "alias": "Também conhecido como Eletroencefalograma de Rotina",
+    "ds_exa_rx": "EEG DE ROTINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 286,
+    "cd_item_agendamento": 417.0,
+    "ds_item_agendamento": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "ds_unificacao": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "alias": "Também conhecido como Exame de Confirmação de Morte Encefálica (ECME), Exame Neurológico de Morte Encefálica (ENME)",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA MORTE ENCEFA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 286,
+    "cd_item_agendamento": 417.0,
+    "ds_item_agendamento": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "ds_unificacao": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "alias": "Também conhecido como Exame de Confirmação de Morte Encefálica (ECME), Exame Neurológico de Morte Encefálica (ENME)",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA MORTE ENCEFA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 118,
+    "cd_item_agendamento": 197.0,
+    "ds_item_agendamento": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "ds_unificacao": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "alias": "Também conhecido como EEG em Vigília, EEG de Sono Espontâneo, EEG de Sono Induzido",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA EM VIGILIA E SONO ESPONTANEO OU INDUZIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 285,
+    "cd_item_agendamento": 416.0,
+    "ds_item_agendamento": "EEG DE ROTI",
+    "ds_unificacao": "EEG DE ROTINA",
+    "alias": "Também conhecido como Eletroencefalograma de Rotina",
+    "ds_exa_rx": "EEG DE ROTINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 427,
+    "cd_item_agendamento": 2381.0,
+    "ds_item_agendamento": "ELETRONEUMIOGRAFIA",
+    "ds_unificacao": "ELETRONEUMIOGRAFIA",
+    "alias": "Também conhecido como ENMG, Eletroneurografia, Eletroneuromiograma, Neurocondução",
+    "ds_exa_rx": "ELETRONEUROMIOGRAFIA DE FACE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 356,
+    "cd_item_agendamento": 609.0,
+    "ds_item_agendamento": "ELETRONEUROMIOGRAFIA DE FACE",
+    "ds_unificacao": "ELETRONEUROMIOGRAFIA DE FACE",
+    "alias": "Também conhecido como Eletroneuromiografia (ENMG) Facial, Estudo Eletrofisiológico da Musculatura Facial, Eletromiografia Facial, Teste de Condução Nervosa e Eletromiografia Facial",
+    "ds_exa_rx": "ELETRONEUROMIOGRAFIA DE FACE",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 286,
+    "cd_item_agendamento": 417.0,
+    "ds_item_agendamento": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "ds_unificacao": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "alias": "Também conhecido como Exame de Confirmação de Morte Encefálica (ECME), Exame Neurológico de Morte Encefálica (ENME)",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA MORTE ENCEFA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 286,
+    "cd_item_agendamento": 417.0,
+    "ds_item_agendamento": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "ds_unificacao": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "alias": "Também conhecido como Exame de Confirmação de Morte Encefálica (ECME), Exame Neurológico de Morte Encefálica (ENME)",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA MORTE ENCEFA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 286,
+    "cd_item_agendamento": 417.0,
+    "ds_item_agendamento": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "ds_unificacao": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "alias": "Também conhecido como Exame de Confirmação de Morte Encefálica (ECME), Exame Neurológico de Morte Encefálica (ENME)",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA MORTE ENCEFA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 286,
+    "cd_item_agendamento": 417.0,
+    "ds_item_agendamento": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "ds_unificacao": "ELETRENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA, MORTE ENCEFÁLICA",
+    "alias": "Também conhecido como Exame de Confirmação de Morte Encefálica (ECME), Exame Neurológico de Morte Encefálica (ENME)",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA ESPECIAL: TERAPIA INTENSIVA MORTE ENCEFA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 118,
+    "cd_item_agendamento": 197.0,
+    "ds_item_agendamento": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "ds_unificacao": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "alias": "Também conhecido como EEG em Vigília, EEG de Sono Espontâneo, EEG de Sono Induzido",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA EM VIGILIA E SONO ESPONTANEO OU INDUZIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 118,
+    "cd_item_agendamento": 197.0,
+    "ds_item_agendamento": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "ds_unificacao": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "alias": "Também conhecido como EEG em Vigília, EEG de Sono Espontâneo, EEG de Sono Induzido",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA EM VIGILIA E SONO ESPONTANEO OU INDUZIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 118,
+    "cd_item_agendamento": 197.0,
+    "ds_item_agendamento": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "ds_unificacao": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "alias": "Também conhecido como EEG em Vigília, EEG de Sono Espontâneo, EEG de Sono Induzido",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA EM VIGILIA E SONO ESPONTANEO OU INDUZIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 118,
+    "cd_item_agendamento": 197.0,
+    "ds_item_agendamento": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "ds_unificacao": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "alias": "Também conhecido como EEG em Vigília, EEG de Sono Espontâneo, EEG de Sono Induzido",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA EM VIGILIA E SONO ESPONTANEO OU INDUZIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 285,
+    "cd_item_agendamento": 416.0,
+    "ds_item_agendamento": "EEG DE ROTI",
+    "ds_unificacao": "EEG DE ROTINA",
+    "alias": "Também conhecido como Eletroencefalograma de Rotina",
+    "ds_exa_rx": "EEG DE ROTINA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 118,
+    "cd_item_agendamento": 197.0,
+    "ds_item_agendamento": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "ds_unificacao": "ELETROENCEFALOGRAMA EM VIGÍLIA, E SONO ESPONTÂNEO OU INDUZIDO",
+    "alias": "Também conhecido como EEG em Vigília, EEG de Sono Espontâneo, EEG de Sono Induzido",
+    "ds_exa_rx": "ELETROENCEFALOGRAMA EM VIGILIA E SONO ESPONTANEO OU INDUZIDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  }
+]

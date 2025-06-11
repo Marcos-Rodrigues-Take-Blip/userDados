@@ -1,0 +1,1042 @@
+[
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 319,
+    "cd_item_agendamento": 545.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Direito",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 84,
+    "cd_item_agendamento": 141.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 12,
+    "cd_item_agendamento": 15.0,
+    "ds_item_agendamento": "RX TORAX APICO-LORDOTICA",
+    "ds_unificacao": "RX TÓRAX APICO-LORDÓTICA",
+    "alias": "Também conhecido como Rx Torax Apico-Lordotica",
+    "ds_exa_rx": "RX TORAX APICO-LORDOTICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 368,
+    "cd_item_agendamento": 645.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 368,
+    "cd_item_agendamento": 645.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 319,
+    "cd_item_agendamento": 545.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Direito",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 319,
+    "cd_item_agendamento": 545.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Direito",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 12,
+    "cd_item_agendamento": 15.0,
+    "ds_item_agendamento": "RX TORAX APICO-LORDOTICA",
+    "ds_unificacao": "RX TÓRAX APICO-LORDÓTICA",
+    "alias": "Também conhecido como Rx Torax Apico-Lordotica",
+    "ds_exa_rx": "RX TORAX APICO-LORDOTICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 346,
+    "cd_item_agendamento": 596.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Axial",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 12,
+    "cd_item_agendamento": 15.0,
+    "ds_item_agendamento": "RX TORAX APICO-LORDOTICA",
+    "ds_unificacao": "RX TÓRAX APICO-LORDÓTICA",
+    "alias": "Também conhecido como Rx Torax Apico-Lordotica",
+    "ds_exa_rx": "RX TORAX APICO-LORDOTICA",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 57,
+    "cd_item_agendamento": 89.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Direito Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 57,
+    "cd_item_agendamento": 89.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Direito Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 320,
+    "cd_item_agendamento": 546.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Esquerdo",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 320,
+    "cd_item_agendamento": 546.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Esquerdo",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 368,
+    "cd_item_agendamento": 645.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 368,
+    "cd_item_agendamento": 645.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 57,
+    "cd_item_agendamento": 89.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Direito Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 509,
+    "cd_item_agendamento": 3602.0,
+    "ds_item_agendamento": "RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA SACRO CÓCCIX",
+    "alias": "Também conhecido como Ressonancia Magnetica Articulacao Sacrococcigea, Rm Coccix, Ressonancia Magentica Coccix, Rm Coluna Sacral, Ressonancia Magnetica Coluna Sacral, Rm Sacro Coccix, Ressonancia Magnetica Sacro Coccix, Rm Coluna Sacro Coccix, Ressonancia Magnetica Coluna Sacro Coccix, Rm Sacro Iliaca, Ressonanca Magnetica Sacro Iliaca, Rm Coluna Sacro Iliaca, Ressonancia Magnetica Coluna Sacro Iliaca, Rm Regiao Sacro-Coccigea, Ressonancia Magnetica Regiao Sacro-Coccigea, Rm Sacrococcigea, Ressonancia Magnetica Sacrococcigea, Rm Sacrococcix, Ressonancia Magnetica Sacrococcix",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 203,
+    "cd_item_agendamento": 313.0,
+    "ds_item_agendamento": "RX TORAX AP",
+    "ds_unificacao": "RX TÓRAX AP",
+    "alias": "Também conhecido como Rx Torax C/ Campos Pleuropulmonares F(Pa), Rx Torax Frontal, Abreugrafia, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 1 Incidencia, Chapa Torax 1 Incidencia, Cr Torax 1 Incidencia, Radiografia Torax 1 Incidencia, Raio X Torax, Raio X Torax 1 Incidencia, Raios X Torax C/ Campos Pleuropulmonares F(Pa), Raios X Torax C/ Campos Pulmonares F(Pa), Raios X Torax Frontal, Raiox Torax, Raiox Torax 1 Incidencia, Rx Cupulas, Teleradiografia Do Torax F (Pa)",
+    "ds_exa_rx": "RX TORAX AP",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 368,
+    "cd_item_agendamento": 645.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 10894.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 10894.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 10894.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 509,
+    "cd_item_agendamento": 3602.0,
+    "ds_item_agendamento": "RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA SACRO CÓCCIX",
+    "alias": "Também conhecido como Ressonancia Magnetica Articulacao Sacrococcigea, Rm Coccix, Ressonancia Magentica Coccix, Rm Coluna Sacral, Ressonancia Magnetica Coluna Sacral, Rm Sacro Coccix, Ressonancia Magnetica Sacro Coccix, Rm Coluna Sacro Coccix, Ressonancia Magnetica Coluna Sacro Coccix, Rm Sacro Iliaca, Ressonanca Magnetica Sacro Iliaca, Rm Coluna Sacro Iliaca, Ressonancia Magnetica Coluna Sacro Iliaca, Rm Regiao Sacro-Coccigea, Ressonancia Magnetica Regiao Sacro-Coccigea, Rm Sacrococcigea, Ressonancia Magnetica Sacrococcigea, Rm Sacrococcix, Ressonancia Magnetica Sacrococcix",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 368,
+    "cd_item_agendamento": 645.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 320,
+    "cd_item_agendamento": 546.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Esquerdo",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 319,
+    "cd_item_agendamento": 545.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Direito",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 319,
+    "cd_item_agendamento": 545.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Direito",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 203,
+    "cd_item_agendamento": 313.0,
+    "ds_item_agendamento": "RX TORAX AP",
+    "ds_unificacao": "RX TÓRAX AP",
+    "alias": "Também conhecido como Rx Torax C/ Campos Pleuropulmonares F(Pa), Rx Torax Frontal, Abreugrafia, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 1 Incidencia, Chapa Torax 1 Incidencia, Cr Torax 1 Incidencia, Radiografia Torax 1 Incidencia, Raio X Torax, Raio X Torax 1 Incidencia, Raios X Torax C/ Campos Pleuropulmonares F(Pa), Raios X Torax C/ Campos Pulmonares F(Pa), Raios X Torax Frontal, Raiox Torax, Raiox Torax 1 Incidencia, Rx Cupulas, Teleradiografia Do Torax F (Pa)",
+    "ds_exa_rx": "RX TORAX AP",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 84,
+    "cd_item_agendamento": 141.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 346,
+    "cd_item_agendamento": 596.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Axial",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 346,
+    "cd_item_agendamento": 596.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Axial",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 346,
+    "cd_item_agendamento": 596.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Axial",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 346,
+    "cd_item_agendamento": 596.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Axial",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 198,
+    "cd_item_agendamento": 303.0,
+    "ds_item_agendamento": "RX TORAX PA (INS E EXP) - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA (INS E EXP) - LATERAL",
+    "alias": "Também conhecido como Rx Torax Pa (Ins E Exp) - Lateral",
+    "ds_exa_rx": "RX TORAX PA (INS E EXP) - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 344,
+    "cd_item_agendamento": 594.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lateral",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 203,
+    "cd_item_agendamento": 313.0,
+    "ds_item_agendamento": "RX TORAX AP",
+    "ds_unificacao": "RX TÓRAX AP",
+    "alias": "Também conhecido como Rx Torax C/ Campos Pleuropulmonares F(Pa), Rx Torax Frontal, Abreugrafia, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 1 Incidencia, Chapa Torax 1 Incidencia, Cr Torax 1 Incidencia, Radiografia Torax 1 Incidencia, Raio X Torax, Raio X Torax 1 Incidencia, Raios X Torax C/ Campos Pleuropulmonares F(Pa), Raios X Torax C/ Campos Pulmonares F(Pa), Raios X Torax Frontal, Raiox Torax, Raiox Torax 1 Incidencia, Rx Cupulas, Teleradiografia Do Torax F (Pa)",
+    "ds_exa_rx": "RX TORAX AP",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 198,
+    "cd_item_agendamento": 303.0,
+    "ds_item_agendamento": "RX TORAX PA (INS E EXP) - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA (INS E EXP) - LATERAL",
+    "alias": "Também conhecido como Rx Torax Pa (Ins E Exp) - Lateral",
+    "ds_exa_rx": "RX TORAX PA (INS E EXP) - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 319,
+    "cd_item_agendamento": 545.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Direito",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 84,
+    "cd_item_agendamento": 141.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 84,
+    "cd_item_agendamento": 141.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 346,
+    "cd_item_agendamento": 596.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Axial",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 84,
+    "cd_item_agendamento": 141.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 10894.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 320,
+    "cd_item_agendamento": 546.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Esquerdo",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 319,
+    "cd_item_agendamento": 545.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Direito",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO DIREITO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 368,
+    "cd_item_agendamento": 645.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 368,
+    "cd_item_agendamento": 645.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 57,
+    "cd_item_agendamento": 89.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Direito Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 57,
+    "cd_item_agendamento": 89.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Direito Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 320,
+    "cd_item_agendamento": 546.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Esquerdo",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 320,
+    "cd_item_agendamento": 546.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Esquerdo",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 84,
+    "cd_item_agendamento": 141.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 10894.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 509,
+    "cd_item_agendamento": 3602.0,
+    "ds_item_agendamento": "RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA SACRO CÓCCIX",
+    "alias": "Também conhecido como Ressonancia Magnetica Articulacao Sacrococcigea, Rm Coccix, Ressonancia Magentica Coccix, Rm Coluna Sacral, Ressonancia Magnetica Coluna Sacral, Rm Sacro Coccix, Ressonancia Magnetica Sacro Coccix, Rm Coluna Sacro Coccix, Ressonancia Magnetica Coluna Sacro Coccix, Rm Sacro Iliaca, Ressonanca Magnetica Sacro Iliaca, Rm Coluna Sacro Iliaca, Ressonancia Magnetica Coluna Sacro Iliaca, Rm Regiao Sacro-Coccigea, Ressonancia Magnetica Regiao Sacro-Coccigea, Rm Sacrococcigea, Ressonancia Magnetica Sacrococcigea, Rm Sacrococcix, Ressonancia Magnetica Sacrococcix",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 10894.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 531,
+    "cd_item_agendamento": 10894.0,
+    "ds_item_agendamento": "SAL - RESSONANCIA SACRO COCCIX",
+    "ds_unificacao": "RESSONÂNCIA DE SACOCÓCCIX",
+    "alias": "Também conhecido como Ressonância Magnética Sacrococcígea, Ressonância Magnética da Região Sacrococcígea, RM Sacrococcígea",
+    "ds_exa_rx": "RX SACRO-COCCIX",
+    "sn_anestesia": "P",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 203,
+    "cd_item_agendamento": 313.0,
+    "ds_item_agendamento": "RX TORAX AP",
+    "ds_unificacao": "RX TÓRAX AP",
+    "alias": "Também conhecido como Rx Torax C/ Campos Pleuropulmonares F(Pa), Rx Torax Frontal, Abreugrafia, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 1 Incidencia, Chapa Torax 1 Incidencia, Cr Torax 1 Incidencia, Radiografia Torax 1 Incidencia, Raio X Torax, Raio X Torax 1 Incidencia, Raios X Torax C/ Campos Pleuropulmonares F(Pa), Raios X Torax C/ Campos Pulmonares F(Pa), Raios X Torax Frontal, Raiox Torax, Raiox Torax 1 Incidencia, Rx Cupulas, Teleradiografia Do Torax F (Pa)",
+    "ds_exa_rx": "RX TORAX AP",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "7-HOSPITAL MATER DEI S/A BETIM-CONTAGEM"
+  },
+  {
+    "cd_unificacao": 75,
+    "cd_item_agendamento": 121.0,
+    "ds_item_agendamento": "RX TORAX PA - LAT - OBLIQUAS",
+    "ds_unificacao": "RX TÓRAX PA - LAT - OBLÍQUAS",
+    "alias": "Também conhecido como Rx Coluna Torácica, Rx Coluna Dorsal - Obliquas , Chapa Coluna Dorsal A.P. Lat. Obliquas, Cr Coluna Dorsal A.P. Lat. Obliquas, Radiografia Coluna Dorsal A.P. Lat. Obliquas, Raio X Coluna Dorsal A.P. Lat. Obliquas, Raiox Coluna Dorsal A.P. Lat. Obliquas, Rx Coluna Dorsal - Obliquas, Radiologia Computadorizada Coluna Dorsal A.P. Lat. Obliquas",
+    "ds_exa_rx": "RX TORAX PA - LAT - OBLIQUAS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 320,
+    "cd_item_agendamento": 546.0,
+    "ds_item_agendamento": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "ds_unificacao": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "alias": "Também conhecido como Rx Artrografia De Joelho Esquerdo",
+    "ds_exa_rx": "RX ARTROGRAFIA DE JOELHO ESQUERDO",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 57,
+    "cd_item_agendamento": 89.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Direito Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 84,
+    "cd_item_agendamento": 141.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 84,
+    "cd_item_agendamento": 141.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LATERAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LATERAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 203,
+    "cd_item_agendamento": 313.0,
+    "ds_item_agendamento": "RX TORAX AP",
+    "ds_unificacao": "RX TÓRAX AP",
+    "alias": "Também conhecido como Rx Torax C/ Campos Pleuropulmonares F(Pa), Rx Torax Frontal, Abreugrafia, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 1 Incidencia, Chapa Torax 1 Incidencia, Cr Torax 1 Incidencia, Radiografia Torax 1 Incidencia, Raio X Torax, Raio X Torax 1 Incidencia, Raios X Torax C/ Campos Pleuropulmonares F(Pa), Raios X Torax C/ Campos Pulmonares F(Pa), Raios X Torax Frontal, Raiox Torax, Raiox Torax 1 Incidencia, Rx Cupulas, Teleradiografia Do Torax F (Pa)",
+    "ds_exa_rx": "RX TORAX AP",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 57,
+    "cd_item_agendamento": 89.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - OBLÍQUAS + 3 AXIAIS",
+    "alias": "Também conhecido como Rx Joelho Direito Ap - Lat - Obliquas + 3 Axiais",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - OBLIQUAS + 3 AXIAIS",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "8-HOSPITAL MATER DEI S/A SALVADOR/BAHIA"
+  },
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "12-HOSPITAL MATER DEI NOVA LIMA"
+  },
+  {
+    "cd_unificacao": 203,
+    "cd_item_agendamento": 313.0,
+    "ds_item_agendamento": "RX TORAX AP",
+    "ds_unificacao": "RX TÓRAX AP",
+    "alias": "Também conhecido como Rx Torax C/ Campos Pleuropulmonares F(Pa), Rx Torax Frontal, Abreugrafia, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 1 Incidencia, Chapa Torax 1 Incidencia, Cr Torax 1 Incidencia, Radiografia Torax 1 Incidencia, Raio X Torax, Raio X Torax 1 Incidencia, Raios X Torax C/ Campos Pleuropulmonares F(Pa), Raios X Torax C/ Campos Pulmonares F(Pa), Raios X Torax Frontal, Raiox Torax, Raiox Torax 1 Incidencia, Rx Cupulas, Teleradiografia Do Torax F (Pa)",
+    "ds_exa_rx": "RX TORAX AP",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "6-HOSPITAL MATER DEI S/A CONTORNO"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 89,
+    "cd_item_agendamento": 146.0,
+    "ds_item_agendamento": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Direito, Chapa Joelho Direito, Cr Joelho Direito, Radiografia Joelho Direito, Raio X Joelho Direito, Raiox Joelho Direito, Radiologia Computadorizada Joelho Direito",
+    "ds_exa_rx": "RX JOELHO DIREITO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 203,
+    "cd_item_agendamento": 313.0,
+    "ds_item_agendamento": "RX TORAX AP",
+    "ds_unificacao": "RX TÓRAX AP",
+    "alias": "Também conhecido como Rx Torax C/ Campos Pleuropulmonares F(Pa), Rx Torax Frontal, Abreugrafia, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 1 Incidencia, Chapa Torax 1 Incidencia, Cr Torax 1 Incidencia, Radiografia Torax 1 Incidencia, Raio X Torax, Raio X Torax 1 Incidencia, Raios X Torax C/ Campos Pleuropulmonares F(Pa), Raios X Torax C/ Campos Pulmonares F(Pa), Raios X Torax Frontal, Raiox Torax, Raiox Torax 1 Incidencia, Rx Cupulas, Teleradiografia Do Torax F (Pa)",
+    "ds_exa_rx": "RX TORAX AP",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "1-HOSPITAL MATER DEI S/A STO AGOSTINHO"
+  },
+  {
+    "cd_unificacao": 346,
+    "cd_item_agendamento": 596.0,
+    "ds_item_agendamento": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "ds_unificacao": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "alias": "Também conhecido como Rx Joelho Esquerdo Ap - Lat - Axial",
+    "ds_exa_rx": "RX JOELHO ESQUERDO AP - LAT - AXIAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  },
+  {
+    "cd_unificacao": 198,
+    "cd_item_agendamento": 303.0,
+    "ds_item_agendamento": "RX TORAX PA (INS E EXP) - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA (INS E EXP) - LATERAL",
+    "alias": "Também conhecido como Rx Torax Pa (Ins E Exp) - Lateral",
+    "ds_exa_rx": "RX TORAX PA (INS E EXP) - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "21 - PREMIUM"
+  },
+  {
+    "cd_unificacao": 198,
+    "cd_item_agendamento": 303.0,
+    "ds_item_agendamento": "RX TORAX PA (INS E EXP) - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA (INS E EXP) - LATERAL",
+    "alias": "Também conhecido como Rx Torax Pa (Ins E Exp) - Lateral",
+    "ds_exa_rx": "RX TORAX PA (INS E EXP) - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "19 - CDI"
+  },
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "23-HOSPITAL E MATERNIDADE SANTA CLARA"
+  },
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "22 - EMEC EMPREENDIMENTOS"
+  },
+  {
+    "cd_unificacao": 197,
+    "cd_item_agendamento": 302.0,
+    "ds_item_agendamento": "RX TORAX PA - LATERAL",
+    "ds_unificacao": "RX TÓRAX PA - LATERAL",
+    "alias": "Também conhecido como Rxtorax2, Rx Tórax C/ Campos Pleuropulmonares F+P, Rx Torax C/ Campos Pulmonares F+P, Teleradiografia Do Torax F+P, Rx Caixa Toracica, Rx Derrame Pleural, Radiologia Computadorizada Torax 2 Incidencias, Chapa Torax 2 Incidencias, Cr Torax 2 Incidencias, Radiografia Torax 2 Incidencias, Raio X De Tórax Ap+P, Raio X De Tórax Pa+P, Raio X Torax 2 Incidencias, Raios X De Tórax, Raios X Torax C/ Campos Pleuropulmonares F+P, Raios X Torax C/ Campos Pulmonares F+P, Raiox Torax 2 Incidencias, Rx De Tórax Ap+P, Rx De Tórax Pa+P",
+    "ds_exa_rx": "RX TORAX PA - LATERAL",
+    "sn_anestesia": "N",
+    "ds_multi_empresa": "18 - HOSPITAL SANTA GENOVEVA LTDA"
+  }
+]
