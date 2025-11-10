@@ -1,0 +1,277 @@
+{
+  "imagem_padrao": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+  "combos_prontos": [
+    {
+      "nome": "Multi - Fibra + Móvel",
+      "descricao": "Internet 600M + Pós 60GB",
+      "preco_mensal": 159.80,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "Globo Play incluso",
+        "celular": "WhatsApp ilimitado, franquia para redes sociais e apps"
+      },
+      "beneficios": [
+        "Instalação grátis",
+        "Chat GPT Plus por 4 meses"
+      ]
+    },
+    {
+      "nome": "Multi - Fibra + Móvel",
+      "descricao": "Internet 600M + Pós 150GB",
+      "preco_mensal": 199.80,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "Globo Play incluso",
+        "celular": "WhatsApp ilimitado, franquia para redes sociais e apps"
+      },
+      "beneficios": [
+        "Instalação grátis",
+        "Chat GPT Plus por 4 meses"
+      ]
+    },
+    {
+      "nome": "Multi - Fibra + Móvel",
+      "descricao": "Internet 600M + Pós 250GB",
+      "preco_mensal": 269.80,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "Globo Play incluso",
+        "celular": "WhatsApp ilimitado, franquia para redes sociais e apps"
+      },
+      "beneficios": [
+        "Instalação grátis",
+        "Chat GPT Plus por 4 meses"
+      ]
+    },
+    {
+      "nome": "Multi - Fibra + TV",
+      "descricao": "Internet 600M + Box Claro tv+",
+      "preco_mensal": 214.80,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "120 canais ao vivo e streamings inclusos"
+      },
+      "beneficios": [
+        "Leve e assista em qualquer lugar com conexão Wi-Fi",
+        "Chat GPT Plus por 4 meses"
+      ]
+    },
+    {
+      "nome": "Multi - Fibra + TV",
+      "descricao": "Internet 600M + Box Cabo Claro tv+",
+      "preco_mensal": 254.80,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "120 canais ao vivo e streamings inclusos"
+      },
+      "beneficios": [
+        "Leve e assista em qualquer lugar com conexão Wi-Fi",
+        "Instalação com técnico e assistência Claro",
+        "De 259 oferta por 254,80",
+        "Chat GPT Plus por 4 meses"
+      ]
+    },
+    {
+      "nome": "Multi - Fibra + TV",
+      "descricao": "Internet 600M + Soundbox Claro tv+",
+      "preco_mensal": 254.80,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "120 canais ao vivo e streamings inclusos"
+      },
+      "beneficios": [
+        "Leve e assista em qualquer lugar com conexão Wi-Fi",
+        "Qualidade de imagem 4K e som Dolby Atmos",
+        "Chat GPT Plus por 4 meses"
+      ]
+    },
+    {
+      "nome": "Multi - Fibra + Móvel + TV",
+      "descricao": "Internet 600M + Pós 60GB + Claro tv+",
+      "preco_mensal": 259.70,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "120 canais ao vivo e streamings inclusos",
+        "celular": "WhatsApp ilimitado, franquia para redes sociais e apps"
+      },
+      "beneficios": [
+        "Leve e assista em qualquer lugar com conexão Wi-Fi",
+        "Qualidade de imagem 4K e som Dolby Atmos",
+        "Chat GPT Plus por 4 meses"
+      ]
+    },
+    {
+      "nome": "Multi - Fibra + Móvel + TV",
+      "descricao": "Internet 600M + Pós 250GB + Box Claro tv+",
+      "preco_mensal": 369.70,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "120 canais ao vivo e streamings inclusos",
+        "celular": "WhatsApp ilimitado, franquia para redes sociais e apps"
+      },
+      "beneficios": [
+        "Leve e assista em qualquer lugar com conexão Wi-Fi",
+        "Qualidade de imagem 4K e som Dolby Atmos",
+        "Chat GPT Plus por 4 meses"
+      ]
+    },
+    {
+      "nome": "Multi - Fibra + Móvel + TV",
+      "descricao": "Internet 600M + Pós 350GB + Box Claro tv+",
+      "preco_mensal": 419.70,
+      "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d",
+      "componentes": {
+        "Wifi": "instalação grátis",
+        "Streaming": "120 canais ao vivo e streamings inclusos",
+        "celular": "WhatsApp ilimitado, franquia para redes sociais e apps"
+      },
+      "beneficios": [
+        "Leve e assista em qualquer lugar com conexão Wi-Fi",
+        "Qualidade de imagem 4K e som Dolby Atmos",
+        "Chat GPT Plus por 4 meses"
+      ]
+    }
+  ],
+  "opcoes_personalizaveis": {
+    "claro_movel": [
+      {
+        "id": 1,
+        "nome": "Plano Pré-Pago 30GB",
+        "dados": "30GB",
+        "minutos": "Ilimitados Claro",
+        "preco": 59.90,
+        "extras": [
+          "SMS ilimitados",
+          "WhatsApp ilimitado",
+          "Redes sociais ilimitadas",
+          "Roaming nacional",
+          "Chat GPT 2 meses"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      },
+      {
+        "id": 2,
+        "nome": "Plano Pré-Pago 40GB",
+        "dados": "40GB",
+        "minutos": "Ilimitados Claro",
+        "preco": 69.90,
+        "extras": [
+          "SMS ilimitados",
+          "WhatsApp ilimitado",
+          "Redes sociais ilimitadas",
+          "Roaming nacional",
+          "Chat GPT 2 meses"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      },
+      {
+        "id": 3,
+        "nome": "Plano Pré-Pago 100GB",
+        "dados": "100GB",
+        "minutos": "Ilimitados Claro",
+        "preco": 119.90,
+        "extras": [
+          "SMS ilimitados",
+          "WhatsApp ilimitado",
+          "Redes sociais ilimitadas",
+          "Roaming nacional",
+          "Chat GPT 2 meses"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      }
+    ],
+    "claro_tv_box": [
+      {
+        "id": 1,
+        "nome": "Claro TV + BOX",
+        "canais": "120 canais",
+        "preco": 114.90,
+        "extras": [
+          "Amazon Prime",
+          "Globoplay",
+          "Apple TV",
+          "Netflix",
+          "HBO",
+          "Disney+",
+          "Alexa e YouTube integrado"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      },
+      {
+        "id": 2,
+        "nome": "Claro TV + Box Cabo",
+        "canais": "120 canais",
+        "preco": 164.90,
+        "extras": [
+          "Amazon Prime",
+          "Globoplay",
+          "Apple TV",
+          "Netflix",
+          "HBO",
+          "Disney+",
+          "Alexa e YouTube integrado"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      },
+      {
+        "id": 3,
+        "nome": "Claro TV + Box Cabo",
+        "canais": "180 canais",
+        "preco": 219.90,
+        "extras": [
+          "Amazon Prime",
+          "Globoplay",
+          "Apple TV",
+          "Netflix",
+          "HBO",
+          "Disney+",
+          "Alexa e YouTube integrado"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      }
+    ],
+    "claro_fibra_internet": [
+      {
+        "id": 1,
+        "velocidade": "600MB",
+        "upload": "50M",
+        "preco": 99.90,
+        "extras": [
+          "Wi-Fi grátis",
+          "Globo Play incluso"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      },
+      {
+        "id": 2,
+        "velocidade": "750MB",
+        "upload": "50M",
+        "preco": 149.90,
+        "extras": [
+          "Wi-Fi grátis",
+          "Globo Play incluso"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      },
+      {
+        "id": 3,
+        "velocidade": "1GB",
+        "upload": "100M",
+        "preco": 299.90,
+        "extras": [
+          "Wi-Fi grátis",
+          "Globo Play incluso"
+        ],
+        "imagem": "https://blipmediastore.blob.core.windows.net/public-medias/Media_a5160220-fb95-41af-9619-b5689898cc4d"
+      }
+    ]
+  }
+}
