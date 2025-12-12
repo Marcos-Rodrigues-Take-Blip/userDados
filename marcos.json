@@ -1,0 +1,63 @@
+{
+  "usuario": {
+    "id": "USR-98421",
+    "nome": "Marcos Rodrigues",
+    "documento": "123.456.789-00",
+    "email": "marcos.rodrigues@example.com",
+    "telefone": "+55 11 99999-0000"
+  },
+  "boletosEmAberto": [
+    {
+      "idBoleto": "BOL-2025-001",
+      "descricao": "Mensalidade Serviço Premium",
+      "valorOriginal": 250.00,
+      "valorAtualizado": 267.35,
+      "moeda": "BRL",
+      "dataEmissao": "2025-08-10",
+      "dataVencimento": "2025-09-10",
+      "situacao": "Em aberto",
+      "juros": {
+        "tipo": "proporcional_dia",
+        "percentualAoMes": 1.99,
+        "valorCalculado": 9.85
+      },
+      "multa": {
+        "percentual": 2.0,
+        "valorCalculado": 5.00
+      },
+      "descontos": {
+        "possuiDesconto": false,
+        "valorDesconto": 0
+      },
+      "diasEmAtraso": 61,
+      "linhaDigitavel": "23793.38122 60000.123458 98000.123401 7 91230000025000",
+      "codigoBarras": "23793912300000250003381260000123459800012340"
+    },
+    {
+      "idBoleto": "BOL-2025-002",
+      "descricao": "Mensalidade Serviço Premium",
+      "valorOriginal": 250.00,
+      "valorAtualizado": 254.12,
+      "moeda": "BRL",
+      "dataEmissao": "2025-10-10",
+      "dataVencimento": "2025-11-10",
+      "situacao": "Em aberto",
+      "juros": {
+        "tipo": "proporcional_dia",
+        "percentualAoMes": 1.99,
+        "valorCalculado": 2.12
+      },
+      "multa": {
+        "percentual": 2.0,
+        "valorCalculado": 5.00
+      },
+      "descontos": {
+        "possuiDesconto": false,
+        "valorDesconto": 0
+      },
+      "diasEmAtraso": 31,
+      "linhaDigitavel": "23793.38122 60000.123459 98000.123402 6 91230000025000",
+      "codigoBarras": "23796912300000250003381260000123459800012341"
+    }
+  ]
+}
