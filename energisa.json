@@ -8,12 +8,13 @@
           "id": "end1",
           "logradouro": "Rua das Palmeiras, 123",
           "bairro": "Centro",
+          "UC": "1.669.074.053-20",
           "cidade": "João Pessoa",
           "estado": "PB",
           "faturas": [
             {
-              "mesReferencia": "Março/2025",
-              "vencimento": "10/04/2025",
+              "mesReferencia": "Março/2026",
+              "vencimento": "10/04/2026",
               "status": "Em aberto",
               "valor": 142.5,
               "linkBoleto": "https://blipmediastore.blip.ai/public-medias/Media_bdc9f060-20cc-4e27-887f-50d8b62403af"
@@ -38,12 +39,13 @@
           "id": "end2",
           "logradouro": "Av. Brasil, 456",
           "bairro": "Jardim América",
+          "UC": "1.889.174.041-70",
           "cidade": "Cuiabá",
           "estado": "MT",
           "faturas": [
             {
-              "mesReferencia": "Março/2025",
-              "vencimento": "15/04/2025",
+              "mesReferencia": "Março/2026",
+              "vencimento": "15/04/2026",
               "status": "Paga",
               "valor": 188.7,
               "linkBoleto": "https://blipmediastore.blip.ai/public-medias/Media_bdc9f060-20cc-4e27-887f-50d8b62403af"
