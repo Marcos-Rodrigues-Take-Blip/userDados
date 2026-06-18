@@ -1,0 +1,83 @@
+{
+  "subscriptions": [
+    {
+      "_id": "68e7f4f8c19c987a7d405e01",
+      "startedAt": "2025-10-09T17:46:32Z",
+      "gateway_code": "manual_0af9196a-2be4-4edd-8a52-eba6f958beca",
+      "offer": {},
+      "createdAt": "2025-10-09T17:46:32Z",
+      "type": "promo",
+      "status": "active",
+      "recurrence_type": null,
+      "expires_in": "2027-10-09T00:00:00Z",
+      "renewal_offer": {},
+      "subscriptionPlan": {
+        "role": "black",
+        "_id": "67218b9e6995eda99c395293",
+        "gateway_plan_name": "black",
+        "name": "black",
+        "scholarship_count": 0,
+        "display_name": "Total Black",
+        "gbb_level": "black",
+        "grant_roles": [
+          "best",
+          "travessia",
+          "travessia-familia",
+          "metodo-bp",
+          "russia",
+          "ciencia-politica",
+          "bitcoin",
+          "teller",
+          "pre-bitcoin",
+          "anjos-demonios",
+          "pre-ciencia-politica",
+          "geopolitica",
+          "pre-geopolitica",
+          "hidden-war"
+        ],
+        "price": 238800,
+        "impact": 0
+      }
+    }
+  ],
+  "current-subscription": {
+    "_id": "68e7f4f8c19c987a7d405e01",
+    "startedAt": "2025-10-09T17:46:32Z",
+    "gateway_code": "manual_0af9196a-2be4-4edd-8a52-eba6f958beca",
+    "offer": {},
+    "createdAt": "2025-10-09T17:46:32Z",
+    "type": "promo",
+    "status": "active",
+    "recurrence_type": null,
+    "expires_in": "2027-10-09T00:00:00Z",
+    "renewal_offer": {},
+    "subscriptionPlan": {
+      "role": "black",
+      "_id": "67218b9e6995eda99c395293",
+      "gateway_plan_name": "black",
+      "name": "black",
+      "scholarship_count": 0,
+      "display_name": "Total Black",
+      "gbb_level": "black",
+      "grant_roles": [
+        "best",
+        "travessia",
+        "travessia-familia",
+        "metodo-bp",
+        "russia",
+        "ciencia-politica",
+        "bitcoin",
+        "teller",
+        "pre-bitcoin",
+        "anjos-demonios",
+        "pre-ciencia-politica",
+        "geopolitica",
+        "pre-geopolitica",
+        "hidden-war"
+      ],
+      "price": 238800,
+      "impact": 0
+    }
+  },
+  "products": []
+}
