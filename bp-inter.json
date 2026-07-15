@@ -1,0 +1,63 @@
+{
+  "subscriptions": [
+    {
+      "_id": "68e7f4f8c19c987a7d405e03",
+      "startedAt": "2025-08-20T10:15:45Z",
+      "gateway_code": "manual_0af9196a-2be4-4edd-8a52-eba6f958becc",
+      "offer": {},
+      "createdAt": "2025-08-20T10:15:45Z",
+      "type": "regular",
+      "status": "active",
+      "recurrence_type": null,
+      "expires_in": "2026-08-20T00:00:00Z",
+      "renewal_offer": {},
+      "subscriptionPlan": {
+        "role": "intermediary",
+        "_id": "67218b9e6995eda99c395295",
+        "gateway_plan_name": "intermediario",
+        "name": "intermediario",
+        "scholarship_count": 0,
+        "display_name": "Intermediário",
+        "gbb_level": "intermediary",
+        "grant_roles": [
+          "originais",
+          "movies",
+          "kids",
+          "offline-5"
+        ],
+        "price": 46800,
+        "impact": 0
+      }
+    }
+  ],
+  "current-subscription": {
+    "_id": "68e7f4f8c19c987a7d405e03",
+    "startedAt": "2025-08-20T10:15:45Z",
+    "gateway_code": "manual_0af9196a-2be4-4edd-8a52-eba6f958becc",
+    "offer": {},
+    "createdAt": "2025-08-20T10:15:45Z",
+    "type": "regular",
+    "status": "active",
+    "recurrence_type": null,
+    "expires_in": "2026-08-20T00:00:00Z",
+    "renewal_offer": {},
+    "subscriptionPlan": {
+      "role": "intermediary",
+      "_id": "67218b9e6995eda99c395295",
+      "gateway_plan_name": "intermediario",
+      "name": "intermediario",
+      "scholarship_count": 0,
+      "display_name": "Intermediário",
+      "gbb_level": "intermediary",
+      "grant_roles": [
+        "originais",
+        "movies",
+        "kids",
+        "offline-5"
+      ],
+      "price": 46800,
+      "impact": 0
+    }
+  },
+  "products": []
+}
