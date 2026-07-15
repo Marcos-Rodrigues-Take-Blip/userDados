@@ -1,0 +1,65 @@
+{
+  "subscriptions": [
+    {
+      "_id": "68e7f4f8c19c987a7d405e04",
+      "startedAt": "2025-12-05T09:30:00Z",
+      "gateway_code": "manual_0af9196a-2be4-4edd-8a52-eba6f958becd",
+      "offer": {},
+      "createdAt": "2025-12-05T09:30:00Z",
+      "type": "promo",
+      "status": "active",
+      "recurrence_type": null,
+      "expires_in": "2026-12-05T00:00:00Z",
+      "renewal_offer": {},
+      "subscriptionPlan": {
+        "role": "premium",
+        "_id": "67218b9e6995eda99c395296",
+        "gateway_plan_name": "premium",
+        "name": "premium",
+        "scholarship_count": 0,
+        "display_name": "Premium",
+        "gbb_level": "premium",
+        "grant_roles": [
+          "best",
+          "originais",
+          "movies",
+          "kids",
+          "formacao"
+        ],
+        "price": 79080,
+        "impact": 0
+      }
+    }
+  ],
+  "current-subscription": {
+    "_id": "68e7f4f8c19c987a7d405e04",
+    "startedAt": "2025-12-05T09:30:00Z",
+    "gateway_code": "manual_0af9196a-2be4-4edd-8a52-eba6f958becd",
+    "offer": {},
+    "createdAt": "2025-12-05T09:30:00Z",
+    "type": "promo",
+    "status": "active",
+    "recurrence_type": null,
+    "expires_in": "2026-12-05T00:00:00Z",
+    "renewal_offer": {},
+    "subscriptionPlan": {
+      "role": "premium",
+      "_id": "67218b9e6995eda99c395296",
+      "gateway_plan_name": "premium",
+      "name": "premium",
+      "scholarship_count": 0,
+      "display_name": "Premium",
+      "gbb_level": "premium",
+      "grant_roles": [
+        "best",
+        "originais",
+        "movies",
+        "kids",
+        "formacao"
+      ],
+      "price": 79080,
+      "impact": 0
+    }
+  },
+  "products": []
+}
