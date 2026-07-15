@@ -1,0 +1,61 @@
+{
+  "subscriptions": [
+    {
+      "_id": "68e7f4f8c19c987a7d405e02",
+      "startedAt": "2025-11-15T14:22:10Z",
+      "gateway_code": "manual_0af9196a-2be4-4edd-8a52-eba6f958becb",
+      "offer": {},
+      "createdAt": "2025-11-15T14:22:10Z",
+      "type": "regular",
+      "status": "active",
+      "recurrence_type": null,
+      "expires_in": "2026-11-15T00:00:00Z",
+      "renewal_offer": {},
+      "subscriptionPlan": {
+        "role": "select",
+        "_id": "67218b9e6995eda99c395294",
+        "gateway_plan_name": "select",
+        "name": "select",
+        "scholarship_count": 0,
+        "display_name": "Select / Básico",
+        "gbb_level": "select",
+        "grant_roles": [
+          "originais",
+          "movies",
+          "kids"
+        ],
+        "price": 23880,
+        "impact": 0
+      }
+    }
+  ],
+  "current-subscription": {
+    "_id": "68e7f4f8c19c987a7d405e02",
+    "startedAt": "2025-11-15T14:22:10Z",
+    "gateway_code": "manual_0af9196a-2be4-4edd-8a52-eba6f958becb",
+    "offer": {},
+    "createdAt": "2025-11-15T14:22:10Z",
+    "type": "regular",
+    "status": "active",
+    "recurrence_type": null,
+    "expires_in": "2026-11-15T00:00:00Z",
+    "renewal_offer": {},
+    "subscriptionPlan": {
+      "role": "select",
+      "_id": "67218b9e6995eda99c395294",
+      "gateway_plan_name": "select",
+      "name": "select",
+      "scholarship_count": 0,
+      "display_name": "Select / Básico",
+      "gbb_level": "select",
+      "grant_roles": [
+        "originais",
+        "movies",
+        "kids"
+      ],
+      "price": 23880,
+      "impact": 0
+    }
+  },
+  "products": []
+}
